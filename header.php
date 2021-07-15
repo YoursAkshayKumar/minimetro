@@ -56,7 +56,8 @@
    
 </head>
 
-<body data-rsssl=1 class="home page-template-default page page-id-5702 _masterslider _msp_version_3.2.7 woocommerce-no-js">
+    <body data-rsssl=1 onload="myFunction()" class="home page-template-default page page-id-5702 _masterslider _msp_version_3.2.7 woocommerce-no-js">
+    <div id="loading"></div>
     <div class="body-wrapper  float-menu" data-home=index.html>
     <header class="limoking-header-wrapper header-style-2-wrapper limoking-header-no-top-bar">
         <div class=limoking-logo-wrapper>
@@ -69,77 +70,16 @@
                         <button class=dl-trigger>Open Menu</button>
                         <ul id=menu-main-menu class="dl-menu limoking-main-mobile-menu">
                             <li class="menu-item  current-menu-item "><a href=index.html aria-current=page>Home</a></li>
-                            <li class="menu-item menu-item-has-children"><a href=#>Pages</a>
-                                <ul class=dl-submenu>
-                                    <li class="menu-item"><a href=about-us.html>About Us</a></li>
-                                    <li class="menu-item"><a href=about-us-2.html>About Us 2</a></li>
-                                    <li class="menu-item"><a href=service.html>Service</a></li>
-                                    <li class="menu-item"><a href=personnel-2.html>Personnel</a></li>
-                                    <li class="menu-item"><a href=faq.html>FAQ</a></li>
-                                    <li class="menu-item"><a href=contact-page.html>Contact Page 1</a></li>
-                                    <li class="menu-item"><a href=gallery-3-columns.html>Gallery</a></li>
-                                    <li class="menu-item"><a href=404error.html>404 Page</a></li>
-                                    <li class="menu-item"><a href=testimonial.html>Testimonial</a></li>
-                                </ul>
-                            </li>
-                            <li class="menu-item menu-item-has-children"><a href=fleet-3-columns.html>Our Fleet</a>
-                                <ul class=dl-submenu>
-                                    <li class="menu-item"><a href=fleet-2-columns.html>Fleet 2 Columns</a></li>
-                                    <li class="menu-item"><a href=fleet-3-columns.html>Fleet 3 Columns</a></li>
-                                    <li class="menu-item"><a href=fleet-4-columns.html>Fleet 4 Columns</a></li>
-                                    <li class="menu-item"><a href=fleet-modern-2-columns.html>Fleet Modern 2 Columns</a></li>
-                                    <li class="menu-item"><a href=fleet-modern-3-columns.html>Fleet Modern 3 Columns</a></li>
-                                    <li class="menu-item"><a href=fleet-modern-4-columns.html>Fleet Modern 4 Columns</a></li>
-                                </ul>
-                            </li>
-                            <li class="menu-item"><a href=service-rates.html>Service Rates</a></li>
-                            <li class="menu-item menu-item-has-children"><a href=portfolio-grid-3-columns-no-space.html>Portfolio</a>
-                                <ul class=dl-submenu>
-                                    <li class="menu-item menu-item-has-children"><a href=portfolio-grid-3-columns.html>Portfolio Classic</a>
-                                        <ul class=dl-submenu>
-                                            <li class="menu-item"><a href=portfolio-grid-1-column.html>Portfolio Grid 1 Column (Both Sidebar)</a></li>
-                                            <li class="menu-item"><a href=portfolio-grid-2-columns.html>Portfolio Grid 2 Columns (Right Sidebar)</a></li>
-                                            <li class="menu-item"><a href=portfolio-grid-3-columns.html>Portfolio Grid 3 Columns</a></li>
-                                            <li class="menu-item"><a href=portfolio-grid-4-columns.html>Portfolio Grid 4 Columns</a></li>
-                                            <li class="menu-item"><a href=portfolio-grid-2-columns-no-space.html>Portfolio Grid 2 Columns, No Space</a></li>
-                                            <li class="menu-item"><a href=portfolio-grid-3-columns-no-space.html>Portfolio Grid 3 Columns, No Space</a></li>
-                                            <li class="menu-item"><a href=portfolio-grid-4-columns-no-space.html>Portfolio Grid 4 Columns, No Space</a></li>
-                                            <li class="menu-item"><a href=singleport.html>Portfolio Single</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children"><a href=portfolio-modern-3-columns-with-filter.html>Portfolio With Filter</a>
-                                        <ul class=dl-submenu>
-                                            <li class="menu-item"><a href=portfolio-grid-1-columns-with-filter.html>Portfolio Grid 1 Col With Filter</a></li>
-                                            <li class="menu-item"><a href=portfolio-grid-2-columns-with-filter.html>Portfolio Grid 2 Cols With Filter</a></li>
-                                            <li class="menu-item"><a href=portfolio-grid-3-columns-with-filter.html>Portfolio Grid 3 Cols With Filter</a></li>
-                                            <li class="menu-item"><a href=portfolio-grid-4-columns-with-filter.html>Portfolio Grid 4 Cols With Filter</a></li>
-                                            <li class="menu-item"><a href=portfolio-modern-3-columns-with-filter.html>Portfolio Modern 3 Cols With Filter</a></li>
-                                            <li class="menu-item"><a href=portfolio-modern-4-columns-with-filter.html>Portfolio Modern 4 Cols With Filter</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="menu-item menu-item-has-children"><a href=blog-full-with-right-sidebar.html>Blog</a>
-                                <ul class=dl-submenu>
-
-                                    <li class="menu-item menu-item-has-children"><a href=#>Blog Column</a>
-                                        <ul class=dl-submenu>
-                                            <li class="menu-item"><a href=blog-1-column.html>Blog 1 Column (Right Sidebar)</a></li>
-                                            <li class="menu-item"><a href=blog-2-columns.html>Blog 2 Columns (Right Sidebar)</a></li>
-                                            <li class="menu-item"><a href=blog-3-columns.html>Blog 3 Columns</a></li>
-                                            <li class="menu-item"><a href=blog-4-columns.html>Blog 4 Columns</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children"><a href=#>Blog Masonry</a>
-                                        <ul class=dl-submenu>
-                                            <li class="menu-item"><a href=blog-2-columns-masonry.html>Blog 2 Columns &#8211; Masonry (Right Sidebar)</a></li>
-                                            <li class="menu-item"><a href=blog-3-columns-masonry.html>Blog 3 Columns &#8211; Masonry</a></li>
-                                            <li class="menu-item"><a href=blog-4-columns-masonry.html>Blog 4 Columns &#8211; Masonry</a></li>
-                                            <li class="menu-item"><a href=blog-full-with-right-sidebar.html class=sf-with-ul-pre>Blog Full</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
+                       
+                                  
+                                    <li class="menu-item menu-item limoking-normal-menu"><a href=about-us.php>About Us</a></li>
+                                 
+                                    <li class="menu-item menu-item limoking-normal-menu"><a href=products.php>Products</a></li>
+                                    
+                                    <li class="menu-item menu-item limoking-normal-menu"><a href=contact-us.php>Contact Us</a></li>
+                             
+      
+                 
                         </ul>
                     </div>
                 </div>
@@ -155,80 +95,16 @@
                     <nav class=limoking-navigation id=limoking-main-navigation>
                         <ul id=menu-main-menu-1 class="sf-menu limoking-main-menu">
                             <li class="menu-item  current-menu-item  limoking-normal-menu"><a href=index.html>Home</a></li>
-                            <li class="menu-item menu-item-has-childrenmenu-item menu-item-has-children limoking-normal-menu"><a href=# class=sf-with-ul-pre>Pages</a>
-                                <ul class=sub-menu>
-                                    <li class="menu-item"><a href=about-us.html>About Us</a></li>
-                                    <li class="menu-item"><a href=about-us-2.html>About Us 2</a></li>
-                                    <li class="menu-item"><a href=service.html>Service</a></li>
-                                    <li class="menu-item"><a href=personnel-2.html>Personnel</a></li>
-                                    <li class="menu-item"><a href=faq.html>FAQ</a></li>
-                                    <li class="menu-item"><a href=contact-page.html>Contact Page</a></li>
-                                    <li class="menu-item"><a href=gallery-3-columns.html class=sf-with-ul-pre>Gallery</a></li>
-                                    <li class="menu-item"><a href=404error.html>404 Page</a></li>
-                                    <li class="menu-item"><a href=testimonial.html>Testimonial</a></li>
-                                </ul>
-                            </li>
-                            <li class="menu-item menu-item-has-childrenmenu-item menu-item-has-children limoking-normal-menu"><a href=fleet-3-columns.html class=sf-with-ul-pre>Our Fleet</a>
-                                <ul class=sub-menu>
-                                    <li class="menu-item"><a href=fleet-2-columns.html>Fleet 2 Columns</a></li>
-                                    <li class="menu-item"><a href=fleet-3-columns.html>Fleet 3 Columns</a></li>
-                                    <li class="menu-item"><a href=fleet-4-columns.html>Fleet 4 Columns</a></li>
-                                    <li class="menu-item"><a href=fleet-modern-2-columns.html>Fleet Modern 2 Columns</a></li>
-                                    <li class="menu-item"><a href=fleet-modern-3-columns.html>Fleet Modern 3 Columns</a></li>
-                                    <li class="menu-item"><a href=fleet-modern-4-columns.html>Fleet Modern 4 Columns</a></li>
-                                </ul>
-                            </li>
-                            <li class="menu-item menu-item limoking-normal-menu"><a href=service-rates.html>Service Rates</a></li>
-                            <li class="menu-item menu-item-has-childrenmenu-item menu-item-has-children limoking-mega-menu"><a href=portfolio-grid-3-columns-no-space.html class=sf-with-ul-pre>Portfolio</a>
-                                <div class=sf-mega>
-                                    <ul class=sub-menu>
-                                        <li class="menu-item menu-item-has-children" data-column="six columns" data-size=1/2><a href=portfolio-grid-3-columns.html class=sf-with-ul-pre>Portfolio Classic</a>
-                                            <ul class=sub-menu>
-                                                <li class="menu-item"><a href=portfolio-grid-1-column.html>Portfolio Grid 1 Column (Both Sidebar)</a></li>
-                                                <li class="menu-item"><a href=portfolio-grid-2-columns.html>Portfolio Grid 2 Columns (Right Sidebar)</a></li>
-                                                <li class="menu-item"><a href=portfolio-grid-3-columns.html>Portfolio Grid 3 Columns</a></li>
-                                                <li class="menu-item"><a href=portfolio-grid-4-columns.html>Portfolio Grid 4 Columns</a></li>
-                                                <li class="menu-item"><a href=portfolio-grid-2-columns-no-space.html>Portfolio Grid 2 Columns, No Space</a></li>
-                                                <li class="menu-item"><a href=portfolio-grid-3-columns-no-space.html>Portfolio Grid 3 Columns, No Space</a></li>
-                                                <li class="menu-item"><a href=portfolio-grid-4-columns-no-space.html>Portfolio Grid 4 Columns, No Space</a></li>
-                                                <li class="menu-item"><a href=singleport.html>Portfolio Single</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item menu-item-has-children" data-column="six columns" data-size=1/2><a href=portfolio-modern-3-columns-with-filter.html class=sf-with-ul-pre>Portfolio With Filter</a>
-                                            <ul class=sub-menu>
-                                                <li class="menu-item"><a href=portfolio-grid-1-columns-with-filter.html>Portfolio Grid 1 Col With Filter</a></li>
-                                                <li class="menu-item"><a href=portfolio-grid-2-columns-with-filter.html>Portfolio Grid 2 Cols With Filter</a></li>
-                                                <li class="menu-item"><a href=portfolio-grid-3-columns-with-filter.html>Portfolio Grid 3 Cols With Filter</a></li>
-                                                <li class="menu-item"><a href=portfolio-grid-4-columns-with-filter.html>Portfolio Grid 4 Cols With Filter</a></li>
-                                                <li class="menu-item"><a href=portfolio-modern-3-columns-with-filter.html>Portfolio Modern 3 Cols With Filter</a></li>
-                                                <li class="menu-item"><a href=portfolio-modern-4-columns-with-filter.html>Portfolio Modern 4 Cols With Filter</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </li>
-                            <li class="menu-item menu-item-has-childrenmenu-item menu-item-has-children limoking-mega-menu"><a href=blog-full-with-right-sidebar.html class=sf-with-ul-pre>Blog</a>
-                                <div class=sf-mega>
-                                    <ul class=sub-menu>
-                                        <li class="menu-item menu-item-has-children" data-column="six columns" data-size=1/2><a href=# class=sf-with-ul-pre>Blog Column</a>
-                                            <ul class=sub-menu>
-                                                <li class="menu-item"><a href=blog-1-column.html>Blog 1 Column (Right Sidebar)</a></li>
-                                                <li class="menu-item"><a href=blog-2-columns.html>Blog 2 Columns (Right Sidebar)</a></li>
-                                                <li class="menu-item"><a href=blog-3-columns.html>Blog 3 Columns</a></li>
-                                                <li class="menu-item"><a href=blog-4-columns.html>Blog 4 Columns</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item menu-item-has-children" data-column="six columns" data-size=1/2><a href=# class=sf-with-ul-pre>Blog Masonry</a>
-                                            <ul class=sub-menu>
-                                                <li class="menu-item"><a href=blog-2-columns-masonry.html>Blog 2 Columns &#8211; Masonry (Right Sidebar)</a></li>
-                                                <li class="menu-item"><a href=blog-3-columns-masonry.html>Blog 3 Columns &#8211; Masonry</a></li>
-                                                <li class="menu-item"><a href=blog-4-columns-masonry.html>Blog 4 Columns &#8211; Masonry</a></li>
-                                                <li class="menu-item"><a href=blog-full-with-right-sidebar.html class=sf-with-ul-pre>Blog Full</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </li>
+                         
+                                   
+                                    <li class="menu-item menu-item limoking-normal-menu"><a href=about-us.php>About Us</a></li>
+                                  
+                                    
+                                    
+                                    
+                                    <li class="menu-item menu-item limoking-normal-menu"><a href=products.php>Products</a></li>
+                                    <li class="menu-item menu-item limoking-normal-menu"><a href=contact-us.php>Contact Us</a></li>
+                          
                         </ul><img id=limoking-menu-search-button src=images/magnifier-light.png alt width=58 height=59>
                         <div class=limoking-menu-search id=limoking-menu-search>
                             <form method=get id=searchform action=# >

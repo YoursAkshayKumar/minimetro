@@ -10,12 +10,12 @@
                                 <div id=MS5c9b6f396d4d0 class="master-slider ms-skin-default">
                                     <div class=ms-slide data-delay=7 data-fill-mode=fill> <img src=plugins/masterslider/public/assets/css/blank.gif alt title data-src=upload/shutterstock_77669479.jpg>
                                         <video data-autopause=false data-mute=true data-loop=true data-fill-mode=fill>
-                                            <source src=upload/service-video-bg-n.webm type=video/webm> </video>
-                                        <div class="ms-layer  msp-cn-1-1" style data-ease=easeOutQuint data-offset-x=0 data-offset-y=-143 data-origin=mc data-position=normal> Or anywhere you need us to take</div>
+                                            <source src=upload/minimetrovideo.mp4 type=video/webm> </video>
+                                        <!-- <div class="ms-layer  msp-cn-1-1" style data-ease=easeOutQuint data-offset-x=0 data-offset-y=-143 data-origin=mc data-position=normal> Or anywhere you need us to take</div>
                                         <div class="ms-layer  msp-cn-1-2" style data-ease=easeOutQuint data-offset-x=0 data-offset-y=-58 data-origin=mc data-position=normal> Not only taking to night parties, weddings, casinos, birthdays but
                                             <br/>we also take you to anywhere you want to go.</div>
                                         <div class="ms-layer  msp-cn-1-3" style data-ease=easeOutQuint data-offset-x=0 data-offset-y=24 data-origin=mc data-position=normal> Call Now (1)-212-333-4343</div><img class=ms-layer src=plugins/masterslider/public/assets/css/blank.gif data-src=upload/slider-divider.png alt style data-ease=easeOutQuint data-type=image data-offset-x=81 data-offset-y=92 data-origin=mc data-position=normal><img class=ms-layer src=plugins/masterslider/public/assets/css/blank.gif data-src=upload/slider-divider.png alt style data-ease=easeOutQuint data-type=image data-offset-x=-79 data-offset-y=92 data-origin=mc data-position=normal>
-                                        <div class="ms-layer  msp-cn-1-6" style data-ease=easeOutQuint data-offset-x=0 data-offset-y=95 data-origin=mc data-position=normal> OR</div><a href=service-rates.html target=_self class="ms-layer  msp-cn-2-7 ms-btn ms-btn-round ms-btn-n msp-preset-btn-159" data-ease=easeOutQuint data-type=button data-offset-x=0 data-offset-y=173 data-origin=mc data-position=normal> Book Online</a></div>
+                                        <div class="ms-layer  msp-cn-1-6" style data-ease=easeOutQuint data-offset-x=0 data-offset-y=95 data-origin=mc data-position=normal> OR</div><a href=service-rates.html target=_self class="ms-layer  msp-cn-2-7 ms-btn ms-btn-round ms-btn-n msp-preset-btn-159" data-ease=easeOutQuint data-type=button data-offset-x=0 data-offset-y=173 data-origin=mc data-position=normal> Book Online</a></div> -->
                                 </div>
                             </div>
 
@@ -338,7 +338,7 @@
                     />
                   </a>
                 </div> -->
-                
+
               </div>
             </div>
         
