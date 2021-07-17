@@ -42,12 +42,16 @@
                                 <div class="limoking-item limoking-about-us-item limoking-with-caption">
                                     <div class=about-us-title-wrapper>
                                         <h3 class="about-us-title">About Us</h3>
-                                        <div class="about-us-caption limoking-info-font limoking-skin-info">Venenatis Fusce Vulputate</div>
+                                        <div class="about-us-caption limoking-info-font limoking-skin-info"></div>
                                     </div>
                                     <div class=about-us-content-wrapper>
                                         <div class="about-us-content limoking-skin-content">
                                             <p>Mini Metro EV LLP is a manufacturing company registered under Company’s Act. With an
                                              objective to give good quality vehicles to indian roads, & provide value for money product to its owner.</p>
+
+                                             <p>Mini Metro EV LLP is a manufacturing company registered under Company’s Act. With an
+                                             objective to give good quality vehicles to indian roads, & provide value for money product to its owner.</p>
+                                             
                                         </div>
                                     </div>
                                     <div class=clear></div>
@@ -275,7 +279,13 @@
                                         <h3 class="about-us-title">Ullamcorper Parturient</h3></div>
                                     <div class=about-us-content-wrapper>
                                         <div class="about-us-content limoking-skin-content">
-                                            <p>Limos King offers superb lim service in New York and Manhatatan.  We are the most popular and has been chosen by many important people. We also provide premier service to the airport, wedding, casino, sport event, proms etc. Donec id elit non mi porta gravida at eget metus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio.</p>
+                                            <p>Limos King offers superb lim service in New York and Manhatatan.  
+                                                We are the most popular and has been chosen by many important people. We also
+                                                 provide premier service to the airport, wedding, casino, sport event, proms etc. Donec id 
+                                                 elit non mi porta gravida at eget metus. Cras justo odio, dapibus ac facilisis in, egestas
+                                                  eget quam. Aenean lacinia bibendum nulla sed consectetur. Curabitur blandit tempus
+                                                   porttitor. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non
+                                                    commodo luctus, nisi erat porttitor ligula, eget lacinia odio.</p>
                                         </div>
                                     </div>
                                     <div class=clear></div>

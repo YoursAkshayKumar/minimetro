@@ -58,18 +58,18 @@
 
     <body data-rsssl=1 onload="myFunction()" class="home page-template-default page page-id-5702 _masterslider _msp_version_3.2.7 woocommerce-no-js">
     <div id="loading"></div>
-    <div class="body-wrapper  float-menu" data-home=index.html>
+    <div class="body-wrapper  float-menu" data-home=index.php>
     <header class="limoking-header-wrapper header-style-2-wrapper limoking-header-no-top-bar">
         <div class=limoking-logo-wrapper>
             <div class="limoking-logo-container container">
                 <div class=limoking-logo>
                     <div class=limoking-logo-inner>
-                        <a href=index.html> <img src=upload/mini-metro-logo.png alt="Mini Metro"> </a>
+                        <a href=index.php> <img src=upload/mini-metro-logo.png alt="Mini Metro"> </a>
                     </div>
                     <div class="limoking-responsive-navigation dl-menuwrapper" id=limoking-responsive-navigation>
                         <button class=dl-trigger>Open Menu</button>
                         <ul id=menu-main-menu class="dl-menu limoking-main-mobile-menu">
-                            <li class="menu-item  current-menu-item "><a href=index.html aria-current=page>Home</a></li>
+                            <li class="menu-item  current-menu-item "><a href=index.php aria-current=page>Home</a></li>
                        
                                   
                                     <li class="menu-item menu-item limoking-normal-menu"><a href=about-us.php>About Us</a></li>

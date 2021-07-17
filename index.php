@@ -262,7 +262,7 @@
             <div id="cargo" class="tabcontent lists1" style="display: block">
               <div class="culture_slide">
                 <!-- <div class="slide">
-                  <a href="https://ace.tatamotors.com/" target="_blank">
+                  <a href="#" target="_blank">
                     <span>Ace Gold</span>
                     <img
                       src="upload/web 1.png"
@@ -273,7 +273,7 @@
                   </a>
                 </div> -->
                 <div class="slide">
-                  <a href="" target="_blank">
+                  <a href="#" target="_blank">
                     <span>LD-400</span>
                     <img
                       src="upload/LD_400_RIGHT_BLUE.png"
@@ -284,7 +284,7 @@
                   </a>
                 </div>
                 <div class="slide">
-                  <a href="https://intra.tatamotors.com/" target="_blank">
+                  <a href="#" target="_blank">
                     <span>M1 MS</span>
                     <img
                       src="upload/LD_400_RIGHT_RED.png"
@@ -295,7 +295,7 @@
                   </a>
                 </div>
                 <div class="slide">
-                  <a href="https://pickup.tatamotors.com/" target="_blank">
+                  <a href="#" target="_blank">
                     <span>M1 SS</span>
                     <img
                       src="upload/RAJ8620.png"
@@ -306,7 +306,7 @@
                   </a>
                 </div>
                  <div class="slide">
-                  <a href="https://pickup.tatamotors.com/" target="_blank">
+                  <a href="#" target="_blank">
                     <span>V2 MS</span>
                     <img
                       src="upload/RAJ8474.png"
@@ -317,7 +317,7 @@
                   </a>
                 </div>
                  <div class="slide">
-                  <a href="https://pickup.tatamotors.com/" target="_blank">
+                  <a href="#" target="_blank">
                     <span>V2 SS</span>
                     <img
                       src="upload/RAJ8470.png"
@@ -328,7 +328,7 @@
                   </a>
                 </div>
                 <!-- <div class="slide">
-                  <a href="https://ace.tatamotors.com/" target="_blank">
+                  <a href="#" target="_blank">
                     <span>Ace Gold</span>
                     <img
                       src="upload/web 1.png"
