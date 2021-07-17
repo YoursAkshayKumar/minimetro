@@ -372,7 +372,7 @@
 
 
                 <section id=content-section-4>
-                    <div class="limoking-parallax-wrapper limoking-background-image gdlr-show-all limoking-skin-darkblue" id=limoking-parallax-wrapper-2 data-bgspeed=0 style="background-image: url('upload/about-us-bg1.jpg'); padding-top: 95px; padding-bottom: 50px; ">
+                    <div class="limoking-parallax-wrapper limoking-background-image gdlr-show-all limoking-skin-darkblue" id=limoking-parallax-wrapper-2 data-bgspeed=0 style="background-image: url('upload/background.jpg'); padding-top: 95px; padding-bottom: 50px; ">
                         <div class=container>
                             <div class="six columns">
                                 <div class="limoking-item limoking-about-us-item limoking-with-divider">
@@ -382,8 +382,12 @@
                                     </div>
                                     <div class=about-us-content-wrapper>
                                         <div class="about-us-content limoking-skin-content">
-                                            <p>Sed posuere consectetur est at lobortis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum.</p>
-                                        </div><a class="about-us-read-more limoking-button large" href=contact-page.html >Book Now</a>
+                                            <p>We are a very much noted Electric Rickshaw Manufacturers unit in India.
+                                                Driving with our center advancement and hello there tech aptitudes, 
+                                                we are conveying with the mentality of setting a new lead in a similar
+                                                 industry. We outline with criteria of having more space and prepared to confront
+                                                 criteria to smooth running for intense Indian Roads.</p>
+                                        </div><a class="about-us-read-more limoking-button large" href=contact-us.php >Buy Now</a>
 
                                     </div>
                                     <div class=clear></div>
@@ -395,14 +399,14 @@
                     <div class=clear></div>
                 </section>
                 <section id=content-section-5>
-                    <div class="limoking-color-wrapper  gdlr-show-all limoking-skin-dark-skin" style="background-color: #1eacc7; padding-top: 0px; padding-bottom: 0px; ">
+                    <div class="limoking-color-wrapper  gdlr-show-all limoking-skin-dark-skin" style="background-color: #1f248a;  padding-top: 0px; padding-bottom: 0px; ">
                         <div class=container>
                             <div class="limoking-stunning-item-ux limoking-ux">
                                 <div class="limoking-item limoking-stunning-item">
                                     <div class=stunning-item-content>
                                         <h2 class="stunning-item-title">What about pricing?</h2>
                                         <div class="stunning-item-caption limoking-skin-content">Don’t worry. We provide very nice deals and the most competative price just for you!</div>
-                                    </div><a class="stunning-item-button limoking-info-font" href=service-rates.html style="color: #fff;background: #009fbd;">Check Rates</a></div>
+                                    </div><a class="stunning-item-button limoking-info-font" href=products.php style="color: #fff;background: #2d32a7;">Check Rates</a></div>
                             </div>
                             <div class=clear></div>
                             <div class=clear></div>
@@ -422,6 +426,7 @@
                                             <div class="limoking-item-title-center-divider limoking-right"></div>
                                         </div>
                                         <div class="limoking-item-title-caption limoking-skin-info">Magna Risus Vestibulum Vulputate</div>
+                                       
                                     </div>
                                 </div>
                             </div>
@@ -431,59 +436,122 @@
                     </div>
                     <div class=clear></div>
                 </section>
+
                 <section id=content-section-7>
-                    <div class="limoking-color-wrapper  gdlr-show-all no-skin" style="background-color: #ffffff; padding-top: 70px; padding-bottom: 20px; ">
+                    <div class="limoking-parallax-wrapper limoking-background-image gdlr-show-all limoking-skin-dark-skin" id=limoking-parallax-wrapper-3 data-bgspeed=0 style="padding-top: 70px; ">
                         <div class=container>
-                            <div class="four columns">
-                                <div class="limoking-ux column-service-ux">
-                                    <div class="limoking-item limoking-column-service-item limoking-medium" style="margin-bottom: 40px;">
-                                        <div class=column-service-image><img src=upload/service-icon-11.png alt width=41 height=46></div>
-                                        <div class=column-service-content-wrapper>
-                                            <h3 class="column-service-title">Night Parties</h3>
-                                            <div class="column-service-content limoking-skin-content">
-                                                <p>Limos King offers superb lim service in New York and Manhatatan.  We are the most popular and has been chosen by many important people. We also provide premier service to the airport, wedding, casino, sport event, proms etc.</p>
-                                            </div><a class="column-service-read-more limoking-info-font" href=#>Read More</a></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="four columns">
-                                <div class="limoking-ux column-service-ux">
-                                    <div class="limoking-item limoking-column-service-item limoking-medium" style="margin-bottom: 40px;">
-                                        <div class=column-service-image><img src=upload/service-icon-21.png alt width=41 height=46></div>
-                                        <div class=column-service-content-wrapper>
-                                            <h3 class="column-service-title">Weddings</h3>
-                                            <div class="column-service-content limoking-skin-content">
-                                                <p>Limos King offers superb lim service in New York and Manhatatan.  We are the most popular and has been chosen by many important people. We also provide premier service to the airport, wedding, casino, sport event, proms etc.</p>
-                                            </div><a class="column-service-read-more limoking-info-font" href=#>Read More</a></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="four columns">
-                                <div class="limoking-ux column-service-ux">
-                                    <div class="limoking-item limoking-column-service-item limoking-medium" style="margin-bottom: 40px;">
-                                        <div class=column-service-image><img src=upload/service-icon-31.png alt width=41 height=46></div>
-                                        <div class=column-service-content-wrapper>
-                                            <h3 class="column-service-title">Casinos</h3>
-                                            <div class="column-service-content limoking-skin-content">
-                                                <p>Limos King offers superb lim service in New York and Manhatatan. We are the most popular and has been chosen by many important people. We also provide premier service to the airport, wedding, casino, sport event, proms etc.</p>
-                                            </div><a class="column-service-read-more limoking-info-font" href=#>Read More</a></div>
+                            <div class=limoking-title-item>
+                                <div class="limoking-item-title-wrapper limoking-item  limoking-center-divider limoking-medium ">
+                                    <div class="limoking-item-title-container container">
+                                        <div class=limoking-item-title-head-inner>
+                                            <div class="limoking-item-title-center-divider limoking-left"></div>
+                                            <h3 class="limoking-item-title limoking-skin-title limoking-skin-border" style="color: black;">Our Services</h3>
+                                            <div class="limoking-item-title-center-divider limoking-right"></div>
+                                        </div>
+                                        <div class="limoking-item-title-caption limoking-skin-info" style="color: black;">Magna Risus Vestibulum Vulputate</div>
+                                        <p style="color:#909090;">Mini Metro is a premier name in the field of Electric Rickshaw Manufacturers
+                                            , Electric Rickshaw Suppliers. We serve a good range of happy customers 
+                                            everywhere in India. Driven by state-of- the-art technology and innovation,
+                                             E Rickshaw in India. We designed and made by us are assembled during a way, 
+                                             that creates these reliable and best in performance. Our Electric Rickshaw 
+                                             are very low in maintenance cost, has comfortable for drive and attractive 
+                                             designs and high efficiency, which eventually set them apart from its 
+                                             competitors in Market. One of the easiest ways to purchase any kind of
+                                              product is to ensure that how long it will last and to increase durability.
+                                               Also, it is important fact the Electric Rickshaw is the Long to long lasting 
+                                               vehicle in compare to other vehicle in market.</p>
+
+                                               <p style="color:#909090;"> We are well-noted E Rickshaw Manufacturers. If you are 
+                                               choosing an environment friendly product to yourself from harmful effect of pollution,
+                                                we are having the best solution for the same. We are manufacturing the product with 
+                                                the motive to do not spread harmful contents in the environment. There are so many
+                                                 reasons to choose electric rickshaw as a vehicle as its low in cost, no need for 
+                                                 petrol/diesel or CNG etc.</p>
+
+                                                 <p style="color:#909090;"> We are a well-noted Electric Rickshaw Manufacturers unit in 
+                                                 India. Leading with our core innovation and hi-tech skills, we are delivering with the
+                                                 mindset of setting a benchmark in the same industry. We design with criteria of having 
+                                                 more space and ready to face criteria to smooth running for tough Indian Roads.</p>
+                                                
+                                                 <p style="color:#909090;"> Our three-wheeled electric vehicles are designed to have a 
+                                                 25km/hour speed to lead you, your required destination. Our product is a cheaper 
+                                                 traveler than other transports. With a great capacity and strength, we are one of 
+                                                 the most efficient traveling rickshaws in the market. With the stability and robustness, 
+                                                 our product is manufactured by skilled professional and good quality material. With
+                                                  almost a one year warranty, we are here to sell you the best.</p>
+
                                     </div>
                                 </div>
                             </div>
                             <div class=clear></div>
-                            <div class="four columns">
+                            <div class=clear></div>
+                        </div>
+                    </div>
+                    <div class=clear></div>
+                </section>
+
+                <section id=content-section-7>
+                    <div class="limoking-color-wrapper  gdlr-show-all no-skin" style="background-color: #ffffff; padding-top: 70px; padding-bottom: 20px; ">
+                        <div class=container>
+                            <div class="six columns">
                                 <div class="limoking-ux column-service-ux">
                                     <div class="limoking-item limoking-column-service-item limoking-medium" style="margin-bottom: 40px;">
-                                        <div class=column-service-image><img src=upload/service-icon-41.png alt width=41 height=46></div>
+                                        <div class=column-service-image><img src=upload/cost_efficient.png alt width=41 height=46></div>
                                         <div class=column-service-content-wrapper>
-                                            <h3 class="column-service-title">Birthdays</h3>
+                                            <h3 class="column-service-title">COST EFFICIENT</h3>
                                             <div class="column-service-content limoking-skin-content">
-                                                <p>Limos King offers superb lim service in New York and Manhatatan.  We are the most popular and has been chosen by many important people. We also provide premier service to the airport, wedding, casino, sport event, proms etc.</p>
-                                            </div><a class="column-service-read-more limoking-info-font" href=#>Read More</a></div>
+                                                <p>E Rickshaw provides efficient use of energy and saves money.</p>
+                                            </div>
+                                            <!-- <a class="column-service-read-more limoking-info-font" href=#>Read More</a> -->
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="four columns">
+                            <div class="six columns">
+                                <div class="limoking-ux column-service-ux">
+                                    <div class="limoking-item limoking-column-service-item limoking-medium" style="margin-bottom: 40px;">
+                                        <div class=column-service-image><img src=upload/environment_friendly.png alt width=41 height=46></div>
+                                        <div class=column-service-content-wrapper>
+                                            <h3 class="column-service-title">ENVIRONMENT FRIENDLY</h3>
+                                            <div class="column-service-content limoking-skin-content">
+                                                <p>E Rickshaws helps in preservation of the environment.</p>
+                                            </div>
+                                            <!-- <a class="column-service-read-more limoking-info-font" href=#>Read More</a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=clear></div>
+                            <div class="six columns">
+                                <div class="limoking-ux column-service-ux">
+                                    <div class="limoking-item limoking-column-service-item limoking-medium" style="margin-bottom: 40px;">
+                                        <div class=column-service-image><img src=upload/performance.png alt width=41 height=46></div>
+                                        <div class=column-service-content-wrapper>
+                                            <h3 class="column-service-title">PERFORMANCE</h3>
+                                            <div class="column-service-content limoking-skin-content">
+                                                <p>With high end technology, high grade engineering and combination of different composite materials</p>
+                                            </div>
+                                            <!-- <a class="column-service-read-more limoking-info-font" href=#>Read More</a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="six columns">
+                                <div class="limoking-ux column-service-ux">
+                                    <div class="limoking-item limoking-column-service-item limoking-medium" style="margin-bottom: 40px;">
+                                        <div class=column-service-image><img src=upload/comfort-spoke-wheel.png alt width=41 height=46></div>
+                                        <div class=column-service-content-wrapper>
+                                            <h3 class="column-service-title">STRONG FRAME</h3>
+                                            <div class="column-service-content limoking-skin-content">
+                                                <p>We are provide a strong chassis and frame of passenger</p>
+                                            </div>
+                                            <!-- <a class="column-service-read-more limoking-info-font" href=#>Read More</a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- <div class="four columns">
                                 <div class="limoking-ux column-service-ux">
                                     <div class="limoking-item limoking-column-service-item limoking-medium" style="margin-bottom: 40px;">
                                         <div class=column-service-image><img src=upload/service-icon-51.png alt width=41 height=46></div>
@@ -506,14 +574,14 @@
                                             </div><a class="column-service-read-more limoking-info-font" href=#>Read More</a></div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class=clear></div>
                         </div>
                     </div>
                     <div class=clear></div>
                 </section>
              
-                <section id=content-section-9>
+                <!-- <section id=content-section-9>
                     <div class="limoking-color-wrapper  gdlr-show-all no-skin" style="background-color: #f1f1f1; padding-top: 20px; padding-bottom: 10px; ">
                         <div class=container>
                             <div class=limoking-banner-item-wrapper>
@@ -534,7 +602,7 @@
                         </div>
                     </div>
                     <div class=clear></div>
-                </section>
+                </section> -->
                 <section id=content-section-10>
                     <div class="limoking-color-wrapper   " style="background-color: #ffffff; ">
                         <div class=container>

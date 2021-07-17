@@ -11,7 +11,7 @@
                                 <div class="limoking-item-title-wrapper limoking-item  limoking-center-icon-divider limoking-large ">
                                     <div class="limoking-item-title-container container">
                                         <div class=limoking-item-title-head-inner>
-                                            <h3 class="limoking-item-title limoking-skin-title limoking-skin-border">About Limo King</h3></div>
+                                            <h3 class="limoking-item-title limoking-skin-title limoking-skin-border">ABOUT US</h3></div>
                                         <div class=limoking-nav-title>
                                             <div class=limoking-item-title-content-icon-divider-wrapper>
                                                 <div class=limoking-item-title-center-icon-divider></div><i class="fa fa-star"></i>
@@ -34,19 +34,20 @@
                             <div class="six columns">
                                 <div class="limoking-image-frame-item limoking-item">
                                     <div class="limoking-frame limoking-link-type-none frame-type-none">
-                                        <div class=limoking-image-link-shortcode><img src=upload/about-car-21.png alt width=548 height=259></div>
+                                        <div class=limoking-image-link-shortcode><img src=upload/banner-1.jpg alt width=548 height=259></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="six columns">
                                 <div class="limoking-item limoking-about-us-item limoking-with-caption">
                                     <div class=about-us-title-wrapper>
-                                        <h3 class="about-us-title">Story About Us</h3>
+                                        <h3 class="about-us-title">About Us</h3>
                                         <div class="about-us-caption limoking-info-font limoking-skin-info">Venenatis Fusce Vulputate</div>
                                     </div>
                                     <div class=about-us-content-wrapper>
                                         <div class="about-us-content limoking-skin-content">
-                                            <p>Limos King offers superb lim service in New York and Manhatatan.  We are the most popular and has been chosen by many important people. We also provide premier service to the airport, wedding, casino, sport event, proms etc. Donec id elit non mi porta gravida at eget metus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus.</p>
+                                            <p>Mini Metro EV LLP is a manufacturing company registered under Company’s Act. With an
+                                             objective to give good quality vehicles to indian roads, & provide value for money product to its owner.</p>
                                         </div>
                                     </div>
                                     <div class=clear></div>
@@ -57,7 +58,75 @@
                     </div>
                     <div class=clear></div>
                 </section>
-                <section id=content-section-3>
+                <section id=content-section-7>
+                    <div class="limoking-color-wrapper  gdlr-show-all no-skin" style="background-color: #ffffff; padding-top: 70px; padding-bottom: 20px; ">
+                        <div class=container>
+                            <div class="six columns">
+                                <div class="limoking-ux column-service-ux">
+                                    <div class="limoking-item limoking-column-service-item limoking-medium" style="margin-bottom: 40px;">
+                                        <div class=column-service-image><img src=upload/cost_efficient.png alt width=41 height=46></div>
+                                        <div class=column-service-content-wrapper>
+                                            <h3 class="column-service-title">COST EFFICIENT</h3>
+                                            <div class="column-service-content limoking-skin-content">
+                                                <p>E Rickshaw provides efficient use of energy and saves money.</p>
+                                            </div>
+                                            <!-- <a class="column-service-read-more limoking-info-font" href=#>Read More</a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="six columns">
+                                <div class="limoking-ux column-service-ux">
+                                    <div class="limoking-item limoking-column-service-item limoking-medium" style="margin-bottom: 40px;">
+                                        <div class=column-service-image><img src=upload/environment_friendly.png alt width=41 height=46></div>
+                                        <div class=column-service-content-wrapper>
+                                            <h3 class="column-service-title">ENVIRONMENT FRIENDLY</h3>
+                                            <div class="column-service-content limoking-skin-content">
+                                                <p>E Rickshaws helps in preservation of the environment.</p>
+                                            </div>
+                                            <!-- <a class="column-service-read-more limoking-info-font" href=#>Read More</a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=clear></div>
+                            <div class="six columns">
+                                <div class="limoking-ux column-service-ux">
+                                    <div class="limoking-item limoking-column-service-item limoking-medium" style="margin-bottom: 40px;">
+                                        <div class=column-service-image><img src=upload/performance.png alt width=41 height=46></div>
+                                        <div class=column-service-content-wrapper>
+                                            <h3 class="column-service-title">PERFORMANCE</h3>
+                                            <div class="column-service-content limoking-skin-content">
+                                                <p>With high end technology, high grade engineering and combination of different composite materials</p>
+                                            </div>
+                                            <!-- <a class="column-service-read-more limoking-info-font" href=#>Read More</a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="six columns">
+                                <div class="limoking-ux column-service-ux">
+                                    <div class="limoking-item limoking-column-service-item limoking-medium" style="margin-bottom: 40px;">
+                                        <div class=column-service-image><img src=upload/comfort-spoke-wheel.png alt width=41 height=46></div>
+                                        <div class=column-service-content-wrapper>
+                                            <h3 class="column-service-title">STRONG FRAME</h3>
+                                            <div class="column-service-content limoking-skin-content">
+                                                <p>We are provide a strong chassis and frame of passenger</p>
+                                            </div>
+                                            <!-- <a class="column-service-read-more limoking-info-font" href=#>Read More</a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=clear></div>
+                        </div>
+                    </div>
+                    <div class=clear></div>
+                </section>
+             
+
+                <!-- <section id=content-section-3>
                     <div class="limoking-color-wrapper  gdlr-show-all no-skin" style="background-color: #ffffff; padding-bottom: 10px; ">
                         <div class=container>
                             <div class="four columns">
@@ -137,7 +206,7 @@
                         </div>
                     </div>
                     <div class=clear></div>
-                </section>
+                </section> -->
                 <section id=content-section-4>
                     <div class="limoking-parallax-wrapper limoking-background-image gdlr-show-all limoking-skin-dark-skin" id=limoking-parallax-wrapper-2 data-bgspeed=0.1 style="background-image: url('upload/skill-bg1.jpg'); padding-top: 95px; padding-bottom: 65px; ">
                         <div class=container>
@@ -181,22 +250,22 @@
                                 <div class="limoking-item limoking-content-item" style="margin-bottom: 7px;"></div>
                                 <div class="limoking-skill-bar-wrapper  limoking-item limoking-size-small" style="margin-bottom: 22px;"><span class=skill-bar-content style="color: #444444;">New Cars</span><span class=skill-bar-percent style="color: #444444;">90%</span>
                                     <div class="limoking-skill-bar limoking-ux" style="background-color: #e9e9e9;">
-                                        <div class=limoking-skill-bar-progress data-percent=90 style="background-color: #1eacc7;"></div>
+                                        <div class=limoking-skill-bar-progress data-percent=90 style="background-color: rgb(219, 2, 36);"></div>
                                     </div>
                                 </div>
                                 <div class="limoking-skill-bar-wrapper  limoking-item limoking-size-small" style="margin-bottom: 22px;"><span class=skill-bar-content style="color: #444444;">In-house Chauffuers</span><span class=skill-bar-percent style="color: #444444;">100%</span>
                                     <div class="limoking-skill-bar limoking-ux" style="background-color: #e9e9e9;">
-                                        <div class=limoking-skill-bar-progress data-percent=100 style="background-color: #1eacc7;"></div>
+                                        <div class=limoking-skill-bar-progress data-percent=100 style="background-color: rgb(219, 2, 36);"></div>
                                     </div>
                                 </div>
                                 <div class="limoking-skill-bar-wrapper  limoking-item limoking-size-small" style="margin-bottom: 22px;"><span class=skill-bar-content style="color: #444444;">Satisfaction Rate</span><span class=skill-bar-percent style="color: #444444;">95%</span>
                                     <div class="limoking-skill-bar limoking-ux" style="background-color: #e9e9e9;">
-                                        <div class=limoking-skill-bar-progress data-percent=95 style="background-color: #1eacc7;"></div>
+                                        <div class=limoking-skill-bar-progress data-percent=95 style="background-color: rgb(219, 2, 36);"></div>
                                     </div>
                                 </div>
                                 <div class="limoking-skill-bar-wrapper  limoking-item limoking-size-small" style="margin-bottom: 22px;"><span class=skill-bar-content style="color: #444444;">Willing To Come Back</span><span class=skill-bar-percent style="color: #444444;">100%</span>
                                     <div class="limoking-skill-bar limoking-ux" style="background-color: #e9e9e9;">
-                                        <div class=limoking-skill-bar-progress data-percent=100 style="background-color: #1eacc7;"></div>
+                                        <div class=limoking-skill-bar-progress data-percent=100 style="background-color: rgb(219, 2, 36);"></div>
                                     </div>
                                 </div>
                             </div>
@@ -217,7 +286,7 @@
                     </div>
                     <div class=clear></div>
                 </section>
-                <section id=content-section-6>
+                <!-- <section id=content-section-6>
                     <div class="limoking-color-wrapper  gdlr-show-all limoking-skin-dark-skin" style="background-color: #1eacc7; padding-top: 0px; padding-bottom: 0px; ">
                         <div class=container>
                             <div class="limoking-stunning-item-ux limoking-ux">
@@ -232,7 +301,7 @@
                         </div>
                     </div>
                     <div class=clear></div>
-                </section>
+                </section> -->
             </div>
         </div>
         <div class=clear></div>

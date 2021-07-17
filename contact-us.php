@@ -7,7 +7,7 @@
                     <div class="limoking-full-size-wrapper gdlr-show-all " style="padding-bottom: 0px;  background-color: #ffffff; ">
                         <div class="limoking-item limoking-content-item" style="margin-bottom: 0px;">
                             <div class="wpgmp_map_container wpgmp-map-1" rel=map1>
-                                <iframe style="width:100%; height:480px; border:0" src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d19905.696399556287!2d-0.3007084089960577!3d51.417531259591925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s2334+Peterson+Street+Kingston+UK+London+H14D!5e0!3m2!1sen!2s!4v1546697086219" width="600" height="450" ></iframe>
+                                <iframe style="width:100%; height:480px; border:0" src="https://maps.google.com/maps?q=164,%20Mohkampur%20Industrial%20Area.%20Delhi%20Road-%20Meerut&t=&z=13&ie=UTF8&iwloc=&output=embed" width="600" height="450" ></iframe>
                                 <div style="position: absolute;width: 80%;bottom: 20px;left: 0;right: 0;margin-left: auto;margin-right: auto;color: #000;">
                             </div>
                         </div>
@@ -77,25 +77,44 @@
                     </div>
                     <div class="limoking-sidebar limoking-right-sidebar four columns">
                         <div class="limoking-item-start-content sidebar-right-item">
-                            <div id=text-6 class="widget widget_text limoking-item limoking-widget">
-                                <h3 class="limoking-widget-title">Before Contacting Us</h3>
-                                <div class=clear></div>
-                                <div class=textwidget>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Non equidem invideo, miror magis posuere velit aliquet.</div>
-                            </div>
                             <div id=text-7 class="widget widget_text limoking-item limoking-widget">
                                 <h3 class="limoking-widget-title">Contact Information</h3>
                                 <div class=clear></div>
                                 <div class=textwidget>
-                                    <p>184 Main Collins Street West Victoria 8007 Australia</p>
-                                    <p><i class="limoking-icon fa fa-phone" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> 1800-222-222</p>
-                                    <p><i class="limoking-icon fa fa-envelope" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> contact@versatilewptheme.com</p>
+                                    <h5>Office & Manufacturing Plant Mini Metro EV LLP</h5>
+                                    <p><i class="limoking-icon fa fa-map-marker" style="vertical-align: middle; color: #444444; font-size: 16px; "></i>164, Mohkampur Industrial Area. Delhi Road- Meerut</p>
+                                    <p><i class="limoking-icon fa fa-phone" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> +91-8410008828, +91-9837170066, +91-7351634634</p>
+                                    <p><i class="limoking-icon fa fa-envelope" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> purchase.minimetro@gmail.com</p>
+                                    <p><i class="limoking-icon fa fa-envelope" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> info@mini-metro.com, info.mini-metro@gmail.com</p>
+
                                     <p><i class="limoking-icon fa fa-clock-o" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> Everyday 9:00-17:00</p>
                                 </div>
                             </div>
-                            <div id=text-8 class="widget widget_text limoking-item limoking-widget">
-                                <h3 class="limoking-widget-title">Social Media</h3>
+                            <!-- <div id=text-6 class="widget widget_text limoking-item limoking-widget">
+                                <h3 class="limoking-widget-title">Before Contacting Us</h3>
                                 <div class=clear></div>
-                                <div class=textwidget><a href=http://facebook.com/goodlayers><i class="limoking-icon fa fa-facebook" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i></a> <a href=http://twitter.com/goodlayers><i class="limoking-icon fa fa-twitter" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i></a> <a href=#><i class="limoking-icon fa fa-dribbble" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i></a> <a href=#><i class="limoking-icon fa fa-pinterest" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i></a> <a href=#><i class="limoking-icon fa fa-google-plus" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i></a> <a href=#><i class="limoking-icon fa fa-instagram" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i></a></div>
+                                <div class=textwidget>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Non equidem invideo, miror magis posuere velit aliquet.</div>
+                            </div> -->
+                            <div id=text-8 class="widget widget_text limoking-item limoking-widget">
+                                <h3 class="limoking-widget-title">Social Links</h3>
+                                <div class=clear></div>
+                                <div class=textwidget>
+                                    <a href=http://facebook.com/goodlayers>
+                                        <i class="limoking-icon fa fa-facebook" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i>
+                                    </a> 
+                                    <a href=http://twitter.com/goodlayers>
+                                    <i class="limoking-icon fa fa-twitter" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i>
+                                </a> 
+                                <a href=#>
+                                    <i class="limoking-icon fa fa-dribbble" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i>
+                                </a> 
+                                <a href=#>
+                                    <i class="limoking-icon fa fa-pinterest" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i>
+                                </a> 
+                                <a href=#>
+                                    <i class="limoking-icon fa fa-google-plus" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i></a> <a href=#><i class="limoking-icon fa fa-instagram" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i>
+                                </a>
+                            </div>
                             </div>
                         </div>
                     </div>
@@ -114,7 +133,11 @@
                                         <h4 class="box-with-icon-title">Contact By Email</h4>
                                         <div class=clear></div>
                                         <div class=box-with-icon-caption>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua.</p>
+                                            <p>
+                                            info@mini-metro.com, 
+                                            info.mini-metro@gmail.com
+                                            purchase.minimetro@gmail.com
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -128,7 +151,11 @@
                                         <h4 class="box-with-icon-title">Contact By Phone</h4>
                                         <div class=clear></div>
                                         <div class=box-with-icon-caption>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua.</p>
+                                            <p>
+                                            +91-9837170066,
+                                            +91-7351634634, 
+                                            +91-8410008828
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -142,7 +169,7 @@
                                         <h4 class="box-with-icon-title">Come To See Us</h4>
                                         <div class=clear></div>
                                         <div class=box-with-icon-caption>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua.</p>
+                                            <p>164, Mohkampur Industrial Area. Delhi Road- Meerut</p>
                                         </div>
                                     </div>
                                 </div>
