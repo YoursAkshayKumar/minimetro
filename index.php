@@ -57,7 +57,7 @@
                         <div class=clear></div>
                     </div>
                     <div class=clear></div>
-                </section>
+                </section>  -->
                 <section id=content-section-2>
                     <div class="limoking-parallax-wrapper limoking-background-image gdlr-show-all limoking-skin-dark-skin" id=limoking-parallax-wrapper-1 data-bgspeed=0 style="background-image: url('upload/fleet-bg-hp1.jpg'); background-repeat: repeat-x;padding-top: 72px; padding-bottom: 430px; ">
                         <div class=container>
@@ -81,7 +81,7 @@
                         </div>
                     </div>
                     <div class=clear></div>
-                </section> -->
+                </section>
                 <!-- <section id=content-section-3>
                     <div class="limoking-color-wrapper  gdlr-show-all no-skin" style="background-color: #ffffff; padding-top: 0px; padding-bottom: 10px; ">
                         <div class=container>
@@ -414,7 +414,8 @@
                     </div>
                     <div class=clear></div>
                 </section>
-                <section id=content-section-6>
+
+                <!-- <section id=content-section-6>
                     <div class="limoking-parallax-wrapper limoking-background-image gdlr-show-all limoking-skin-dark-skin" id=limoking-parallax-wrapper-3 data-bgspeed=0 style="background-image: url('upload/service-title-bg1.jpg'); padding-top: 70px; ">
                         <div class=container>
                             <div class=limoking-title-item>
@@ -435,7 +436,7 @@
                         </div>
                     </div>
                     <div class=clear></div>
-                </section>
+                </section> -->
 
                 <section id=content-section-7>
                     <div class="limoking-parallax-wrapper limoking-background-image gdlr-show-all limoking-skin-dark-skin" id=limoking-parallax-wrapper-3 data-bgspeed=0 style="padding-top: 70px; ">
@@ -445,10 +446,10 @@
                                     <div class="limoking-item-title-container container">
                                         <div class=limoking-item-title-head-inner>
                                             <div class="limoking-item-title-center-divider limoking-left"></div>
-                                            <h3 class="limoking-item-title limoking-skin-title limoking-skin-border" style="color: black;">Our Services</h3>
+                                            <h3 class="limoking-item-title limoking-skin-title limoking-skin-border" style="color: black;">About Us </h3>
                                             <div class="limoking-item-title-center-divider limoking-right"></div>
                                         </div>
-                                        <div class="limoking-item-title-caption limoking-skin-info" style="color: black;">Magna Risus Vestibulum Vulputate</div>
+                                        <div class="limoking-item-title-caption limoking-skin-info" style="color: black;"></div>
                                         <p style="color:#909090;">Mini Metro is a premier name in the field of Electric Rickshaw Manufacturers
                                             , Electric Rickshaw Suppliers. We serve a good range of happy customers 
                                             everywhere in India. Driven by state-of- the-art technology and innovation,
@@ -606,7 +607,7 @@
                 <section id=content-section-10>
                     <div class="limoking-color-wrapper   " style="background-color: #ffffff; ">
                         <div class=container>
-                            <div class="four columns">
+                            <div class="six columns">
                                 <div class="limoking-item-title-wrapper limoking-item  limoking-left limoking-small ">
                                     <div class="limoking-item-title-container container">
                                         <div class=limoking-item-title-head-inner>
@@ -615,13 +616,13 @@
                                 </div>
                                 <div class="limoking-item limoking-content-item" style="margin-bottom: 0px;"></div>
                                 <div class="limoking-video-item limoking-item">
-                                    <iframe src="http://player.vimeo.com/video/45345886?title=0&amp;byline=0&amp;portrait=0" width=620 height=348></iframe>
+                                    <iframe src="https://www.youtube.com/embed/GwvMcFmf6Sg" width=620 height=348></iframe>
                                 </div>
                                 <div class="limoking-item limoking-content-item">
-                                    <p><strong><span style="color: #1eacc7;">Watch our fleet in this video</span></strong></p>
+                                    <p><strong><span style="color: blue;">Watch our fleet in this video</span></strong></p>
                                 </div>
                             </div>
-                            <div class="four columns">
+                            <div class="six columns">
                                 <div class=limoking-testimonial-item-wrapper>
                                     <div class="limoking-item-title-wrapper limoking-item  limoking-nav-container limoking-left limoking-small ">
                                         <div class="limoking-item-title-container container">
@@ -663,7 +664,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="four columns">
+                            <!-- <div class="four columns">
                                 <div class="limoking-item-title-wrapper limoking-item  limoking-left limoking-small ">
                                     <div class="limoking-item-title-container container">
                                         <div class=limoking-item-title-head-inner>
@@ -746,7 +747,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class=clear></div>
                         </div>
                     </div>

@@ -1,188 +1,203 @@
 <?php include 'header.php'; ?>
 
-    <div class=content-wrapper>
-        <div class=limoking-content>
-            <div class=above-sidebar-wrapper>
-                <section id=content-section-1>
-                    <div class="limoking-full-size-wrapper gdlr-show-all " style="padding-bottom: 0px;  background-color: #ffffff; ">
-                        <div class="limoking-item limoking-content-item" style="margin-bottom: 0px;">
-                            <div class="wpgmp_map_container wpgmp-map-1" rel=map1>
-                                <iframe style="width:100%; height:480px; border:0" src="https://maps.google.com/maps?q=164,%20Mohkampur%20Industrial%20Area.%20Delhi%20Road-%20Meerut&t=&z=13&ie=UTF8&iwloc=&output=embed" width="600" height="450" ></iframe>
-                                <div style="position: absolute;width: 80%;bottom: 20px;left: 0;right: 0;margin-left: auto;margin-right: auto;color: #000;">
-                            </div>
-                        </div>
-                        <div class=clear></div>
-                        <div class=clear></div>
-                    </div>
-                    <div class=clear></div>
-                </section>
-            </div>
-            <div class=with-sidebar-wrapper>
-                <div class="with-sidebar-container container">
-                    <div class="with-sidebar-left eight columns">
-                        <div class="with-sidebar-content twelve columns">
-                            <section id=content-section-2>
-                                <div class="section-container container">
-                                    <div class="limoking-item limoking-content-item" style="margin-bottom: 60px;"><span class=clear></span><span class=limoking-space style="margin-top: -22px; display: block;"></span>
-                                        <h5 class="limoking-heading-shortcode " style="font-weight: bold;">Please fulfil the form below.</h5>
-                                        <p> <span class=clear></span><span class=limoking-space style="margin-top: 25px; display: block;"></span>
-                                            <div role=form class=wpcf7 id=wpcf7-f5-o1 lang=en-US dir=ltr>
-                                                <div class=screen-reader-response></div>
-                                                <form class="quform" action="plugins/quform/process.php" method="post" enctype="multipart/form-data" onclick="">
-
-                                                    <div class="quform-elements">
-                                                        <div class="quform-element">
-                                                            
-                                                                <br>
-                                                                <span class="wpcf7-form-control-wrap your-name">
-                                                                    <input id="name" type="text" name="name" size="40" class="input1" aria-required="true" aria-invalid="false" placeholder="Name*">
-                                                                </span> 
-                                                            
-                                                        </div>
-                                                        <div class="quform-element">
-                                                            
-                                                                <br>
-                                                                <span class="wpcf7-form-control-wrap your-email">
-                                                                    <input id="email" type="text" name="email" size="40" class="input1" aria-required="true" aria-invalid="false" placeholder="Email*">
-                                                                </span> 
-                                                            
-                                                        </div>
-                                                        <div class="quform-element">
-                                                            
-                                                                <br>
-                                                                <span class="wpcf7-form-control-wrap your-message">
-                                                                    <textarea  id="message" name="message" cols="40" rows="10" class="input1" aria-invalid="false" placeholder="Message*"></textarea>
-                                                                </span>
-                                                            
-                                                        </div>
-                                                        
-                                                        <!-- Begin Submit button -->
-                                                        <div class="quform-submit">
-                                                            <div class="quform-submit-inner">
-                                                                <button type="submit" class="submit-button"><span>Send</span></button>
-                                                            </div>
-                                                            <div class="quform-loading-wrap"><span class="quform-loading"></span></div>
-                                                        </div>
-                                                        
-                                                    </div>
-                                                </form>
+<div class="content-wrapper">
+    <div class="limoking-content">
+        <div class="with-sidebar-wrapper">
+            <div class="with-sidebar-container container limoking-class-no-sidebar">
+                <div class="with-sidebar-left twelve columns">
+                    <div class="with-sidebar-content twelve columns">
+                        <div class="limoking-item limoking-item-start-content">
+                            <div id="car-5743" class="post-5743 car type-car status-publish has-post-thumbnail hentry car_category-sedan car_tag-mercedes car_tag-sedan">
+                                <div class="limoking-car-info-wrapper">
+                                    <div class="limoking-car-info-thumbnail"><img src="//a6e8z9v6.stackpathcdn.com/limoking/wp-content/uploads/2015/11/car-31.jpg" alt="" width="600" height="343"></div>
+                                    <h1 class="limoking-car-title">Mercedes Grand Sedan</h1>
+                                    <div class="limoking-car-rate-wrapper">
+                                        <div class="limoking-car-rate per-hour-rate">
+                                            <img src="//a6e8z9v6.stackpathcdn.com/limoking/wp-content/plugins/gdlr-car/images/per-hour-rate.png" alt="per-hour-rate" style="opacity: 1;">
+                                            <div class="limoking-car-rate-info-wrapper">
+                                                <div class="car-rate-info-head limoking-title-font">Per Hour Rate</div>
+                                                <div class="car-rate-info">
+                                                    <span class="car-rate-info-amount">
+                                                        <span class="car-rate-info-price">$69</span>
+                                                        / Hour </span>
+                                                    <span class="car-rate-info-caption">*$3/hour Fuel Sercharges </span>
+                                                </div>
                                             </div>
+                                        </div>
+                                        <div class="limoking-car-rate per-day-rate">
+                                            <img src="//a6e8z9v6.stackpathcdn.com/limoking/wp-content/plugins/gdlr-car/images/per-day-rate.png" alt="per-day-rate" style="opacity: 1;">
+                                            <div class="limoking-car-rate-info-wrapper">
+                                                <div class="car-rate-info-head limoking-title-font">Per Day Rate</div>
+                                                <div class="car-rate-info">
+                                                    <span class="car-rate-info-amount">
+                                                        <span class="car-rate-info-price">$489</span>
+                                                        / Day </span>
+                                                    <span class="car-rate-info-caption">*$3/hour Fuel Sercharges </span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="limoking-car-rate airport-transfer-rate">
+                                            <img src="//a6e8z9v6.stackpathcdn.com/limoking/wp-content/plugins/gdlr-car/images/airport-transfer.png" alt="per-hour-rate" style="opacity: 1;">
+                                            <div class="limoking-car-rate-info-wrapper">
+                                                <div class="car-rate-info-head limoking-title-font">Airport Transfer</div>
+                                                <div class="car-rate-info">
+                                                    <span class="car-rate-info-amount">
+                                                        <span class="car-rate-info-price">$89-109</span>
+                                                    </span>
+                                                    <span class="car-rate-info-caption">*depend on picking up area</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="limoking-car-info-inner">
+                                        <div class="limoking-car-info"><i class="limoking-car-info-icon fa fa-car"></i><span class="limoking-car-info-value">4 Passengers</span></div>
+                                        <div class="limoking-car-info"><i class="limoking-car-info-icon fa fa-car"></i><span class="limoking-car-info-value">Black Leather Interior </span></div>
+                                        <div class="limoking-car-info"><i class="limoking-car-info-icon fa fa-car"></i><span class="limoking-car-info-value">Heated Seats</span></div>
+                                        <div class="limoking-car-info"><i class="limoking-car-info-icon fa fa-car"></i><span class="limoking-car-info-value">$3.00 Per Hour Fuel Surcharge</span></div>
+                                        <div class="limoking-car-info"><i class="limoking-car-info-icon fa fa-car"></i><span class="limoking-car-info-value">DVD Player</span></div>
+                                        <div class="limoking-car-info"><i class="limoking-car-info-icon fa fa-car"></i><span class="limoking-car-info-value">On Board Wi-Fi</span></div>
+                                        <div class="limoking-car-info"><i class="limoking-car-info-icon fa fa-car"></i><span class="limoking-car-info-value">iPhone Charger</span></div>
+                                        <div class="limoking-car-info"><i class="limoking-car-info-icon fa fa-car"></i><span class="limoking-car-info-value">Laptop Desk</span></div>
+                                    </div><a class="single-book-now" href="#limoking-contact-1" data-fancybox-type="inline" data-rel="fancybox">Book Now</a>
+                                    <div class="limoking-car-contact-form" id="limoking-contact-1">
+                                        <div role="form" class="wpcf7" id="wpcf7-f6029-p5743-o1" lang="en-US" dir="ltr">
+                                            <div class="screen-reader-response">
+                                                <p role="status" aria-live="polite" aria-atomic="true"></p>
+                                                <ul></ul>
+                                            </div>
+                                            <form action="/limoking/car/mercedes-grand-sedan/#wpcf7-f6029-p5743-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+                                                <div style="display: none;">
+                                                    <input type="hidden" name="_wpcf7" value="6029">
+                                                    <input type="hidden" name="_wpcf7_version" value="5.4.2">
+                                                    <input type="hidden" name="_wpcf7_locale" value="en_US">
+                                                    <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f6029-p5743-o1">
+                                                    <input type="hidden" name="_wpcf7_container_post" value="5743">
+                                                    <input type="hidden" name="_wpcf7_posted_data_hash" value="">
+                                                </div>
+                                                <h5>Limousine Booking</h5>
+                                                <div class="wpcf7-contact-half-left">
+                                                    <label>Name *</label><br>
+                                                    <span class="wpcf7-form-control-wrap first-name"><input type="text" name="first-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span>
+                                                </div>
+                                                <div class="wpcf7-contact-half-right">
+                                                    <label>Last Name *</label><br>
+                                                    <span class="wpcf7-form-control-wrap last-name"><input type="text" name="last-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span>
+                                                </div>
+                                                <div class="clear"></div>
+                                                <div class="wpcf7-contact-half-left">
+                                                    <label>Email *</label><br>
+                                                    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false"></span>
+                                                </div>
+                                                <div class="wpcf7-contact-half-right">
+                                                    <label>Phone *</label><br>
+                                                    <span class="wpcf7-form-control-wrap phone"><input type="text" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span>
+                                                </div>
+                                                <div class="clear"></div>
+                                                <div class="wpcf7-contact-half-left limoking-combobox">
+                                                    <label>Trip Type</label><br>
+                                                    <span class="wpcf7-form-control-wrap trip-type"><select name="trip-type" class="wpcf7-form-control wpcf7-select" aria-invalid="false">
+                                                            <option value="Per Hour">Per Hour</option>
+                                                            <option value="Per Day">Per Day</option>
+                                                            <option value="Airport Transfer">Airport Transfer</option>
+                                                            <option value="Other">Other</option>
+                                                        </select></span>
+                                                </div>
+                                                <div class="wpcf7-contact-half-right limoking-combobox">
+                                                    <label>Vehicle</label><br>
+                                                    <span class="wpcf7-form-control-wrap vehicle"><select name="vehicle" class="wpcf7-form-control wpcf7-select" aria-invalid="false">
+                                                            <option value="Mercedes Grand Sedan">Mercedes Grand Sedan</option>
+                                                        </select></span>
+                                                </div>
+                                                <div class="clear"></div>
+                                                <div class="wpcf7-contact-half-left">
+                                                    <label>Pickup Date</label><br>
+                                                    <span class="wpcf7-form-control-wrap pickup-date"><input type="date" name="pickup-date" value="" class="wpcf7-form-control wpcf7-date wpcf7-validates-as-date" aria-invalid="false"></span>
+                                                </div>
+                                                <div class="wpcf7-contact-half-right">
+                                                    <label>No. of Passengers</label><br>
+                                                    <span class="wpcf7-form-control-wrap no-of-passenger"><input type="text" name="no-of-passenger" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false"></span>
+                                                </div>
+                                                <div class="clear"></div>
+                                                <div class="wpcf7-contact-half-left">
+                                                    <label>Pickup Location</label><br>
+                                                    <span class="wpcf7-form-control-wrap pickup-location"><textarea name="pickup-location" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span>
+                                                </div>
+                                                <div class="wpcf7-contact-half-right">
+                                                    <label>Destination</label><br>
+                                                    <span class="wpcf7-form-control-wrap destination"><textarea name="destination" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span>
+                                                </div>
+                                                <div class="clear"></div>
+                                                <div class="wpcf7-contact-full">
+                                                    <label>Additional Note</label><br>
+                                                    <span class="wpcf7-form-control-wrap additional-note"><textarea name="additional-note" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span>
+                                                </div>
+                                                <div class="clear"></div>
+                                                <p><input type="submit" value="Book Now" class="wpcf7-form-control wpcf7-submit"><span class="ajax-loader"></span></p>
+                                                <div class="wpcf7-response-output" aria-hidden="true"></div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="limoking-car-content-wrapper">
+                                    <div class="limoking-car-thumbnail limoking-slider">
+                                        <div class="limoking-gallery-item limoking-item limoking-gallery-thumbnail">
+                                            <div class="limoking-gallery-thumbnail-container" style="height: auto;">
+                                                <div class="limoking-gallery-thumbnail" data-id="5727"><img src="//a6e8z9v6.stackpathcdn.com/limoking/wp-content/uploads/2015/11/single-image-11.jpg" alt="" width="900" height="410"></div>
+                                                <div class="limoking-gallery-thumbnail" data-id="5728"><img src="//a6e8z9v6.stackpathcdn.com/limoking/wp-content/uploads/2015/11/single-image-21.jpg" alt="" width="900" height="410"></div>
+                                                <div class="limoking-gallery-thumbnail" data-id="5729"><img src="//a6e8z9v6.stackpathcdn.com/limoking/wp-content/uploads/2015/11/single-image-31.jpg" alt="" width="900" height="410"></div>
+                                                <div class="limoking-gallery-thumbnail" data-id="5730"><img src="//a6e8z9v6.stackpathcdn.com/limoking/wp-content/uploads/2015/11/single-image-41.jpg" alt="" width="900" height="410"></div>
+                                            </div>
+                                            <div class="gallery-column">
+                                                <div class="gallery-item" data-id="5727"><img src="//a6e8z9v6.stackpathcdn.com/limoking/wp-content/uploads/2015/11/single-image-11-150x150.jpg" alt="" width="150" height="150" style="opacity: 1;"></div>
+                                            </div>
+                                            <div class="gallery-column">
+                                                <div class="gallery-item" data-id="5728"><img src="//a6e8z9v6.stackpathcdn.com/limoking/wp-content/uploads/2015/11/single-image-21-150x150.jpg" alt="" width="150" height="150" style="opacity: 1;"></div>
+                                            </div>
+                                            <div class="gallery-column">
+                                                <div class="gallery-item" data-id="5729"><img src="//a6e8z9v6.stackpathcdn.com/limoking/wp-content/uploads/2015/11/single-image-31-150x150.jpg" alt="" width="150" height="150" style="opacity: 1;"></div>
+                                            </div>
+                                            <div class="gallery-column">
+                                                <div class="gallery-item" data-id="5730"><img src="//a6e8z9v6.stackpathcdn.com/limoking/wp-content/uploads/2015/11/single-image-41-150x150.jpg" alt="" width="150" height="150" style="opacity: 1;"></div>
+                                            </div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                    <div class="limoking-car-content">
+                                        <h6 class="limoking-heading-shortcode " style="font-size: 21px;font-weight: bold;">CAR OVERVIEW</h6>
+                                        <p>Maecenas sed diam eget risus varius blandit sit amet non magna. Etiam porta sem malesuada magna mollis euismod. Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+                                        <p>Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget metus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nulla vitae elit libero, a pharetra augue. Etiam porta sem malesuada magna mollis euismod.<br>
+                                            <span class="clear"></span><span class="limoking-space" style="margin-top: 30px; display: block;"></span>
                                         </p>
+                                        <h6 class="limoking-heading-shortcode " style="font-size: 21px;font-weight: bold;">SERVICE OFFERED IN THIS VEHICLE</h6>
+                                        <ul class="car-list">
+                                            <li>Point to point service</li>
+                                            <li>Dedicated chauffeur service</li>
+                                            <li>Air port transfer</li>
+                                            <li>Night life service</li>
+                                            <li>Point to point service</li>
+                                            <li>Dedicated chauffeur service</li>
+                                            <li>Air port transfer</li>
+                                            <li>Night life service</li>
+                                        </ul>
+                                        <span class="clear"></span><span class="limoking-space" style="margin-top: 35px; display: block;"></span>
+                                        <h6 class="limoking-heading-shortcode " style="font-size: 21px;font-weight: bold;">VIDEO TOUR</h6>
+                                        <p><span class="clear"></span><span class="limoking-space" style="margin-top: -8px; display: block;"></span><br>
+                                        <div class="limoking-fluid-video-wrapper" style="padding-top: 56.25%;"><iframe loading="lazy" src="https://player.vimeo.com/video/45345886" frameborder="0" title="JMI Limousine" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" id="limoking-video-402232"></iframe></div>
+                                        </p>
+                                        <div class="clear"></div>
                                     </div>
-                                    <div class=clear></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class=clear></div>
-                    </div>
-                    <div class="limoking-sidebar limoking-right-sidebar four columns">
-                        <div class="limoking-item-start-content sidebar-right-item">
-                            <div id=text-7 class="widget widget_text limoking-item limoking-widget">
-                                <h3 class="limoking-widget-title">Contact Information</h3>
-                                <div class=clear></div>
-                                <div class=textwidget>
-                                    <h5>Office & Manufacturing Plant Mini Metro EV LLP</h5>
-                                    <p><i class="limoking-icon fa fa-map-marker" style="vertical-align: middle; color: #444444; font-size: 16px; "></i>164, Mohkampur Industrial Area. Delhi Road- Meerut</p>
-                                    <p><i class="limoking-icon fa fa-phone" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> +91-8410008828, +91-9837170066, +91-7351634634</p>
-                                    <p><i class="limoking-icon fa fa-envelope" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> purchase.minimetro@gmail.com</p>
-                                    <p><i class="limoking-icon fa fa-envelope" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> info@mini-metro.com, info.mini-metro@gmail.com</p>
-
-                                    <p><i class="limoking-icon fa fa-clock-o" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> Everyday 9:00-17:00</p>
-                                </div>
-                            </div>
-                            <!-- <div id=text-6 class="widget widget_text limoking-item limoking-widget">
-                                <h3 class="limoking-widget-title">Before Contacting Us</h3>
-                                <div class=clear></div>
-                                <div class=textwidget>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Non equidem invideo, miror magis posuere velit aliquet.</div>
-                            </div> -->
-                            <div id=text-8 class="widget widget_text limoking-item limoking-widget">
-                                <h3 class="limoking-widget-title">Social Links</h3>
-                                <div class=clear></div>
-                                <div class=textwidget>
-                                    <a href=http://facebook.com/goodlayers>
-                                        <i class="limoking-icon fa fa-facebook" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i>
-                                    </a> 
-                                    <a href=http://twitter.com/goodlayers>
-                                    <i class="limoking-icon fa fa-twitter" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i>
-                                </a> 
-                                <a href=#>
-                                    <i class="limoking-icon fa fa-dribbble" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i>
-                                </a> 
-                                <a href=#>
-                                    <i class="limoking-icon fa fa-pinterest" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i>
-                                </a> 
-                                <a href=#>
-                                    <i class="limoking-icon fa fa-google-plus" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i></a> <a href=#><i class="limoking-icon fa fa-instagram" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i>
-                                </a>
-                            </div>
-                            </div>
+                                </div><!-- #car -->
+                                <div class="clear"></div>
+                            </div><!-- #car -->
+                            <div class="clear"></div>
                         </div>
                     </div>
-                    <div class=clear></div>
+                    <div class="clear"></div>
                 </div>
-            </div>
-            <div class=below-sidebar-wrapper>
-                <section id=content-section-3>
-                    <div class="limoking-parallax-wrapper limoking-background-image gdlr-show-all no-skin" id=limoking-parallax-wrapper-1 data-bgspeed=0.2 style="background-image: url('upload/modern-bg1.jpg'); padding-top: 100px; padding-bottom: 50px; ">
-                        <div class=container>
-                            <div class="four columns">
-                                <div class="limoking-box-with-icon-ux limoking-ux">
-                                    <div class="limoking-item limoking-box-with-icon-item pos-top type-circle">
-                                        <div class=box-with-circle-icon style="background-color: #36bddb"><i class="fa fa-envelope" style=color:#ffffff;></i>
-                                        </div>
-                                        <h4 class="box-with-icon-title">Contact By Email</h4>
-                                        <div class=clear></div>
-                                        <div class=box-with-icon-caption>
-                                            <p>
-                                            info@mini-metro.com, 
-                                            info.mini-metro@gmail.com
-                                            purchase.minimetro@gmail.com
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="four columns">
-                                <div class="limoking-box-with-icon-ux limoking-ux">
-                                    <div class="limoking-item limoking-box-with-icon-item pos-top type-circle">
-                                        <div class=box-with-circle-icon style="background-color: #36bddb"><i class="fa fa-phone" style=color:#ffffff;></i>
-                                            <br>
-                                        </div>
-                                        <h4 class="box-with-icon-title">Contact By Phone</h4>
-                                        <div class=clear></div>
-                                        <div class=box-with-icon-caption>
-                                            <p>
-                                            +91-9837170066,
-                                            +91-7351634634, 
-                                            +91-8410008828
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="four columns">
-                                <div class="limoking-box-with-icon-ux limoking-ux">
-                                    <div class="limoking-item limoking-box-with-icon-item pos-top type-circle">
-                                        <div class=box-with-circle-icon style="background-color: #36bddb"><i class="fa fa-home" style=color:#ffffff;></i>
-                                            <br>
-                                        </div>
-                                        <h4 class="box-with-icon-title">Come To See Us</h4>
-                                        <div class=clear></div>
-                                        <div class=box-with-icon-caption>
-                                            <p>164, Mohkampur Industrial Area. Delhi Road- Meerut</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class=clear></div>
-                        </div>
-                    </div>
-                    <div class=clear></div>
-                </section>
+                <div class="clear"></div>
             </div>
         </div>
-        <div class=clear></div>
-    </div>
-
-
-   <?php include 'footer.php'; ?>
+    </div><!-- limoking-content -->
+    <div class="clear"></div>
+</div>
+<?php include 'footer.php'; ?>

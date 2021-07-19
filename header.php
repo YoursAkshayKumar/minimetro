@@ -94,7 +94,7 @@
                 <div class=limoking-navigation-wrapper>
                     <nav class=limoking-navigation id=limoking-main-navigation>
                         <ul id=menu-main-menu-1 class="sf-menu limoking-main-menu">
-                            <li class="menu-item  current-menu-item  limoking-normal-menu"><a href=index.html>Home</a></li>
+                            <li class="menu-item  current-menu-item  limoking-normal-menu"><a href=index.php>Home</a></li>
                          
                                    
                                     <li class="menu-item menu-item limoking-normal-menu"><a href=about-us.php>About Us</a></li>

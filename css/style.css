@@ -18,9 +18,9 @@
 	width: 100%;
 	height: 100vh;
 	background: #fff
-	url('http://localhost/mini/upload/compress-loader.gif')
+	url('http://localhost/mini/upload/mini-metro-logo.png')
 	 no-repeat center center;
-	 background-size: 100px 100px;	
+	 background-size: 200px 100px;	
 	z-index: 99999;
 }
 /*--- reset ---*/

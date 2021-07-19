@@ -1,16 +1,16 @@
 <footer class=footer-wrapper>
     <div class="footer-container container">
-        <div class="footer-column three columns" id=footer-widget-1>
+        <div class="footer-column four columns" id=footer-widget-1>
             <div id=text-5 class="widget widget_text limoking-item limoking-widget">
                 <h3 class="limoking-widget-title">About Us</h3>
                 <div class=clear></div>
                 <div class=textwidget>
-                    <p style="text-align: justify;">Mini Metro is a premier name in the field of Electric Rickshaw Manufacturers, Electric Rickshaw Suppliers. We serve a good range of happy customers everywhere in India.</p>
                     <p><img src=upload/mini-metro-logo.png style="width: 170px;" alt></p>
+                    <p style="text-align: justify;">Mini Metro is a premier name in the field of Electric Rickshaw Manufacturers, Electric Rickshaw Suppliers. We serve a good range of happy customers everywhere in India.</p>
                 </div>
             </div>
         </div>
-        <div class="footer-column three columns" id=footer-widget-2>
+        <div class="footer-column four columns" id=footer-widget-2>
             <div id=text-9 class="widget widget_text limoking-item limoking-widget">
                 <h3 class="limoking-widget-title">Contact Info</h3>
                 <div class=clear></div>
@@ -27,19 +27,22 @@
                      info@minimetro.com</div>
             </div>
         </div>
-        <div class="footer-column three columns" id=footer-widget-3>
+        <div class="footer-column four columns" id=footer-widget-3>
             <div id=recent-posts-5 class="widget widget_recent_entries limoking-item limoking-widget">
-                <h3 class="limoking-widget-title">Recent Posts</h3>
+                <h3 class="limoking-widget-title">Locate Us</h3>
                 <div class=clear></div>
-                <ul>
+                <!-- <ul>
                     <li> <a href=#>Sem Porta Mollis Parturi</a></li>
                     <li> <a href=#>Nullam Lorem Mattis Purus</a></li>
                     <li> <a href=#>Nibh Sem Sit Ullamcorper</a></li>
                     <li> <a href=#>Donec luctus imperdiet</a></li>
-                </ul>
+                </ul> -->
+                <!-- <iframe style="width:100%; height:480px; border:0" src="https://maps.google.com/maps?q=164,%20Mohkampur%20Industrial%20Area.%20Delhi%20Road-%20Meerut&t=&z=13&ie=UTF8&iwloc=&output=embed" width="300" height="100" ></iframe> -->
+                    <div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="200" id="gmap_canvas" src="https://maps.google.com/maps?q=164,%20Mohkampur%20Industrial%20Area.%20Delhi%20Road,%20Meerut-250002&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org"></a><br><style>.mapouter{position:relative;text-align:right;height:200px;width:300px;}</style><a href="https://www.embedgooglemap.net">embed a google map in html</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:200px;width:300px;}</style></div></div>
+                        
             </div>
         </div>
-        <div class="footer-column three columns" id=footer-widget-4>
+        <!-- <div class="footer-column four columns" id=footer-widget-4>
             <div id=gdlr-recent-portfolio2-widget-6 class="widget widget_gdlr-recent-portfolio2-widget limoking-item limoking-widget">
                 <h3 class="limoking-widget-title">Recent Works</h3>
                 <div class=clear></div>
@@ -65,7 +68,7 @@
                     <div class=clear></div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class=clear></div>
     </div>
     <div class=copyright-wrapper>
