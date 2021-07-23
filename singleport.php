@@ -14,8 +14,24 @@
                         <div class="with-sidebar-content twelve columns">
                             <div class="limoking-item limoking-portfolio-style2 limoking-item-start-content">
                                 <div id=portfolio-76 class="post-76 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio_category-taxi-service portfolio_tag-party-ride portfolio_tag-taxi">
+                                    <!-- <div class="limoking-portfolio-thumbnail limoking-image">
+                                        <a href="upload/ld400/LD 400 RIGHT BLUE.jpg" data-rel=fancybox><img src="upload/ld400/LD 400 RIGHT BLUE.jpg"  alt width=1280 height=853></a>
+                                    </div> -->
+                                    <!-- <div class="limoking-blog-thumbnail limoking-gallery"> -->
                                     <div class="limoking-portfolio-thumbnail limoking-image">
-                                        <a href=upload/shutterstock_1427849831.jpg data-rel=fancybox><img src=upload/shutterstock_1427849831.jpg alt width=1280 height=853></a>
+                                        <div class=flexslider data-pausetime=7000 data-slidespeed=600 data-effect=fade>
+                                            <ul class=slides>
+                                                <li>
+                                                    <a href="upload/ld400/LD 400 RIGHT BLUE.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/ld400/LD 400 RIGHT BLUE.jpg" alt width=1280 height=853></a>
+                                                </li>
+                                                <li>
+                                                    <a href="upload/ld400/LD 400 BLUE.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/ld400/LD 400 BLUE.jpg" alt width=750 height=330></a>
+                                                </li>
+                                                <li>
+                                                    <a href="upload/ld400/LD 400 LEFT BLUE.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/ld400/LD 400 LEFT BLUE.jpg" alt width=750 height=330></a>
+                                                </li>
+                                            </ul>
+                                        </div>
                                     </div>
                                     <div class=limoking-portfolio-content>
                                         <div class=limoking-portfolio-info>
@@ -28,7 +44,7 @@
                                             <div class=content>
                                                 <div class="portfolio-info portfolio-clients"><span class="info-head limoking-title">Client </span>The Work Space</div>
                                                 <div class="portfolio-info portfolio-skills"><span class="info-head limoking-title">Skills </span>Services</div>
-                                                <div class="portfolio-info portfolio-website"><span class="info-head limoking-title">Website </span><a href=http://envato.com/ target=_blank>http://envato.com</a></div>
+                                                <div class="portfolio-info portfolio-website"><span class="info-head limoking-title">Website </span><a href=http://envato.com/ target=_blank></a></div>
                                                 <div class="portfolio-info portfolio-tag"><span class="info-head limoking-title">Tags </span><a href=# rel=tag>Party Ride</a><span class=sep>,</span> <a href=# rel=tag>Taxi</a></div>
                                                 <div class=clear></div>
                                                 
