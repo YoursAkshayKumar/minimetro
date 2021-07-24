@@ -74,7 +74,26 @@
     <div class=copyright-wrapper>
         <div class="copyright-container container">
             <div class=copyright-left> Copyright 2019 Mini Metro, All Right Reserved</div>
-            <div class=copyright-right> <a href="http://facebook.com/"><i class="limoking-icon fa fa-facebook" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i></a> <a href=http://twitter.com/goodlayers><i class="limoking-icon fa fa-twitter" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i></a> <a href=#><i class="limoking-icon fa fa-dribbble" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i></a> <a href=#><i class="limoking-icon fa fa-pinterest" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i></a> <a href=#><i class="limoking-icon fa fa-google-plus" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i></a> <a href=#><i class="limoking-icon fa fa-instagram" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i></a></div>
+            <div class=copyright-right>
+                 <a href="http://facebook.com/">
+            <i class="limoking-icon fab fa-facebook-f" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i>
+        </a> 
+        
+        <a href=http://twitter.com/goodlayers>
+        <i class="limoking-icon fab fa-twitter" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i>
+    </a> 
+    <a href=#>
+    
+    <i class="limoking-icon fa fa-dribbble" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i>
+</a>
+ <a href=#>
+     <i class="limoking-icon fa fa-pinterest" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i>
+</a>
+ <a href=#>
+     <i class="limoking-icon fa fa-google-plus" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i>
+</a> <a href=#>
+    <i class="limoking-icon fa fa-instagram" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i>
+</a></div>
             <div class=clear></div>
         </div>
     </div>

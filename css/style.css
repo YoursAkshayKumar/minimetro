@@ -250,7 +250,7 @@ img.limoking-full-boxed-background{ min-height: 100%; min-width: 1024px;
 	border-bottom-width: 2px; border-bottom-style: solid; }
 
 .limoking-page-title-wrapper { padding: 125px 0px 75px; position: relative; z-index: 89; line-height: 1; text-align: center;
-	background-image: url('../images/page-title-background.jpg'); background-repeat: repeat; background-position: center; }
+	background-image: url('../upload/1600X500.jpg'); background-repeat: repeat; background-position: center; }
 .limoking-page-title-wrapper .limoking-page-title-overlay{ position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; 
 	background: #000; opacity: 0; filter: alpha(opacity=0); }
 .limoking-page-title-wrapper .limoking-page-title-container{ position: relative; }

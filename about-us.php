@@ -18,7 +18,7 @@
                                                 <div class=limoking-item-title-center-icon-divider></div>
                                             </div>
                                         </div>
-                                        <div class="limoking-item-title-caption limoking-skin-info">We are the most popular limousine service in New York.</div>
+                                        <!-- <div class="limoking-item-title-caption limoking-skin-info">We are the most popular limousine service in New York.</div> -->
                                     </div>
                                 </div>
                             </div>
@@ -260,7 +260,7 @@
                     <div class=clear></div>
                 </section> -->
                 <section id=content-section-4>
-                    <div class="limoking-parallax-wrapper limoking-background-image gdlr-show-all limoking-skin-dark-skin" id=limoking-parallax-wrapper-2 data-bgspeed=0.1 style="background-image: url('upload/skill-bg1.jpg'); padding-top: 95px; padding-bottom: 65px; ">
+                    <div class="limoking-parallax-wrapper limoking-background-image gdlr-show-all limoking-skin-dark-skin" id=limoking-parallax-wrapper-2 data-bgspeed=0.1 style="background-image: url('upload/1600X470.jpg'); padding-top: 95px; padding-bottom: 65px; ">
                         <div class=container>
                             <div class="three columns">
                                 <div class="limoking-skill-item-wrapper limoking-skin-content limoking-item limoking-style-1">

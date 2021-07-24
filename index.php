@@ -60,7 +60,7 @@
                     <div class=clear></div>
                 </section>  -->
             <section id=content-section-2>
-                <div class="limoking-parallax-wrapper limoking-background-image gdlr-show-all limoking-skin-dark-skin" id=limoking-parallax-wrapper-1 data-bgspeed=0 style="background-image: url('upload/fleet-bg-hp1.jpg'); background-repeat: repeat-x;padding-top: 72px; padding-bottom: 430px; ">
+                <div class="limoking-parallax-wrapper limoking-background-image gdlr-show-all limoking-skin-dark-skin" id=limoking-parallax-wrapper-1 data-bgspeed=0 style="background-image: url('upload/1600X674.jpg'); background-repeat: repeat-x;padding-top: 72px; padding-bottom: 430px; ">
                     <div class=container>
                         <div class=limoking-title-item>
                             <div class="limoking-item-title-wrapper limoking-item  limoking-center-icon-divider limoking-large ">
@@ -74,7 +74,7 @@
                                             <div class=limoking-item-title-center-icon-divider></div>
                                         </div>
                                     </div>
-                                    <div class="limoking-item-title-caption limoking-skin-info">We offer you a super VIP experience in middle of New York.</div>
+                                    <div class="limoking-item-title-caption limoking-skin-info">We offer you a super VIP experience in middle of Meerut.</div>
                                 </div>
                             </div>
                         </div>
