@@ -4,7 +4,7 @@
 <div class="limoking-page-title-wrapper header-style-2-title-wrapper">
     <div class=limoking-page-title-overlay></div>
     <div class="limoking-page-title-container container">
-        <h1 class="limoking-page-title">LD 400</h1> <i class="fab fa-twitter"></i>
+        <h1 class="limoking-page-title">M1 MS</h1> <i class="fab fa-twitter"></i>
         <!-- <span class=limoking-page-caption>Caption placed here</span> -->
     </div>
 </div>
@@ -21,28 +21,28 @@
                                     <div class=flexslider data-pausetime=7000 data-slidespeed=600 data-effect=fade>
                                         <ul class=slides>
                                             <li>
-                                                <a href="upload/ld400/LD_400_RIGHT_BLUE.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/ld400/LD_400_RIGHT_BLUE.jpg" alt width=1280 height=853></a>
+                                                <a href="upload/m1ms/_RAJ8515.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8515.jpg" alt width=1280 height=853></a>
                                             </li>
                                             <li>
-                                                <a href="upload/ld400/LD_400_BLUE.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/ld400/LD_400_BLUE.jpg" alt width=750 height=330></a>
+                                                <a href="upload/m1ms/_RAJ8517.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8517.jpg" alt width=750 height=330></a>
                                             </li>
                                             <li>
-                                                <a href="upload/ld400/LD_400_LEFT_BLUE.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/ld400/LD_400_LEFT_BLUE.jpg" alt width=750 height=330></a>
+                                                <a href="upload/m1ms/_RAJ8518.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8518.jpg" alt width=750 height=330></a>
                                             </li>
                                             <li>
-                                                <a href="upload/ld400/RAJ_8741_copy.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/ld400/RAJ_8741_copy.jpg" alt width=750 height=330></a>
+                                                <a href="upload/m1ms/_RAJ8530.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8530.jpg" alt width=750 height=330></a>
                                             </li>
                                             <li>
-                                                <a href="upload/ld400/LD_400_RED.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/ld400/LD_400_RED.jpg" alt width=1280 height=853></a>
+                                                <a href="upload/m1ms/_RAJ8532.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8532.jpg" alt width=1280 height=853></a>
                                             </li>
                                             <li>
-                                                <a href="upload/ld400/LD_400_BACK_RED.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/ld400/LD_400_BACK_RED.jpg" alt width=1280 height=853></a>
+                                                <a href="upload/m1ms/_RAJ8535.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8535.jpg" alt width=1280 height=853></a>
                                             </li>
                                             <li>
-                                                <a href="upload/ld400/LD_400_RIGHT_RED.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/ld400/LD_400_RIGHT_RED.jpg" alt width=1280 height=853></a>
+                                                <a href="upload/m1ms/_RAJ8539.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8539.jpg" alt width=1280 height=853></a>
                                             </li>
                                             <li>
-                                                <a href="upload/ld400/LD_400_LEFT_RED.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/ld400/LD_400_LEFT_RED.jpg" alt width=1280 height=853></a>
+                                                <a href="upload/m1ms/_RAJ8540.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8540.jpg" alt width=1280 height=853></a>
                                             </li>
 
 
@@ -52,7 +52,7 @@
                                 </div>
                                 <div class=limoking-portfolio-content>
                                     <div class=limoking-portfolio-info>
-                                        <h4 class="head">LD 400</h4>
+                                        <h4 class="head">M1 MS</h4>
 
                                         <div class=content>
                                             <div class="portfolio-info portfolio-clients"><span class="info-head limoking-title">Colors: </span><i class="fas fa-circle" style="color: red;"></i>Red &nbsp; <i class="fas fa-circle" style="color: blue;"></i>Blue</div>
@@ -86,8 +86,7 @@
                                         <div class="limoking-item limoking-about-us-item limoking-with-caption">
                                             <div class=about-us-title-wrapper>
                                                 <!-- <h3 class="about-us-title">WHO WE ARE</h3> -->
-                                                <div class="about-us-caption limoking-info-font limoking-skin-info"></div>
-                                            </div>
+                                                <div class="about-us-caption limoking-info-font limoking-skin-info"><m1ms/_
                                             <div class=about-us-content-wrapper>
                                                 <div class="about-us-content limoking-skin-content">
 
@@ -101,7 +100,7 @@
 
                                                     <!-- <p>Mini Metro EV LLP is a manufacturing company registered under Company’s Act. With an
                                                     objective to give good quality vehicles to indian roads, & provide value for money product to its owner.</p> -->
-                                                    <h4 align="center" style="font-weight:bold;font-size:28px;letter-spacing:1px;color:#1b1f80;">Technical Specification</h4>
+                                                    <h4 align="center" style="font-weight:bold;font-size:28px;letter-spacing:1px;color:#1b1f80;">Vehicle Specification</h4>
 
                                                     <table border="0" style="color:#000000;" width="100%">
                                                         <tbody>
@@ -111,89 +110,125 @@
                                                                         <tbody>
                                                                             <tr>
                                                                                 <th>Sr.No.</th>
-                                                                                <th align="center" colspan="2">Technical Details</th>
+                                                                                <th align="center" colspan="2">VEHICLE SPECS.</th>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>1</td>
-                                                                                <td>loading capacity</td>
-                                                                                <td>400 Kg</td>
+                                                                                <td>Tyre (CEAT/TVS/ Ralco)</td>
+                                                                                <td>3.75 X 12</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>2</td>
-                                                                                <td>maximum Speed</td>
-                                                                                <td>25 Kmph</td>
+                                                                                <td>Front Shocker</td>
+                                                                                <td>43 MM</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>3</td>
-                                                                                <td>Tire Size</td>
-                                                                                <td>Spedways, 30x14</td>
+                                                                                <td>Motor</td>
+                                                                                <td>1000 W (6 Months)</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>4</td>
-                                                                                <td>Brakes</td>
-                                                                                <td>Mechanical Drum Brakes (Both Front &amp; Rear)</td>
+                                                                                <td>Controller</td>
+                                                                                <td>50 A (6 Months)</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>5</td>
-                                                                                <td>Peak Motor Power</td>
-                                                                                <td>BLDC 850(Watt) Nanpu</td>
+                                                                                <td>Rear Shocker</td>
+                                                                                <td>Included</td>
                                                                             </tr>
+
                                                                             <tr>
                                                                                 <td>6</td>
-                                                                                <td>Controller</td>
-                                                                                <td>24 Tube</td>
+                                                                                <td>Roof</td>
+                                                                                <td>Heavy M.S Roof</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>7</td>
-                                                                                <td>Battery</td>
-                                                                                <td>Exide</td>
+                                                                                <td>Speedometer</td>
+                                                                                <td>Led Speedmeter (Indian)</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>8</td>
-                                                                                <td>Front Suspension</td>
-                                                                                <td>Hydraulic Shocker with Spring</td>
+                                                                                <td>Front Glass</td>
+                                                                                <td>(M.S) Included</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>9</td>
-                                                                                <td>Rear Suspension</td>
-                                                                                <td>Leaf Spring</td>
+                                                                                <td>Rear Axle</td>
+                                                                                <td>Heavy Duty ( Closed Gear Box)</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>10</td>
-                                                                                <td>Chasis</td>
-                                                                                <td>Tubular (Powder Coating)</td>
+                                                                                <td>Central Lock</td>
+                                                                                <td>Included</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>11</td>
-                                                                                <td>Color</td>
-                                                                                <td>As per Customer Choice</td>
+                                                                                <td>F.M</td>
+                                                                                <td>Included</td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <th></th>
+                                                                                <th align="center" colspan="2">ACCESSORIES</th>
+                                                                                
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>12</td>
-                                                                                <td>Runing in One Charge</td>
-                                                                                <td>80-10Kmph</td>
+                                                                                <td>Wheel Caps</td>
+                                                                                <td>Roof Handle</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>13</td>
-                                                                                <td>Charger&#39;</td>
-                                                                                <td>48V, 12 Amps. (SMPS based) (make : Axiom)</td>
+                                                                                <td>Fire Extenguisher</td>
+                                                                                <td>Leg Guard Steel</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>14</td>
-                                                                                <td>Transmision Mode</td>
-                                                                                <td>Transaxle</td>
+                                                                                <td>Curtains</td>
+                                                                                <td>Side View Mirror</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>15</td>
-                                                                                <td>Parking Brake</td>
-                                                                                <td>Available</td>
+                                                                                <td>Bottle Stand</td>
+                                                                                <td>Rear Bumper</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>16</td>
-                                                                                <td>Safety Lock in Driver Seat</td>
-                                                                                <td>Available</td>
+                                                                                <td>Foot Mats</td>
+                                                                                <td>Tool Kit</td>
                                                                             </tr>
                                                                             <tr>
+                                                                                <td>17</td>
+                                                                                <td>Jack</td>
+                                                                                <td>Stepney Cover(Cloth)</td>
+                                                                            </tr>
+                                                                            <!-- <tr>
+                                                                                <th></th>
+                                                                                <th align="center" colspan="2"> LD-400 DALA VARIANTS </th>
+                                                                                
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>13</td>
+                                                                                <td>LD400 - 48X59</td>
+                                                                                <td>48x59</td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>14</td>
+                                                                                <td>LD400 Covered Body</td>
+                                                                                <td>39x59</td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>15</td>
+                                                                                <td>LD400 Double Decker</td>
+                                                                                <td>39x59</td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>16</td>
+                                                                                <td>LD400</td>
+                                                                                <td>1000Kg</td>
+                                                                            </tr> -->
+                                                                            <!-- <tr>
                                                                                 <td>17</td>
                                                                                 <td>Battery Clamp</td>
                                                                                 <td>Available</td>
@@ -222,7 +257,7 @@
                                                                                 <td>22</td>
                                                                                 <td>Flor Mat</td>
                                                                                 <td>Available</td>
-                                                                            </tr>
+                                                                            </tr> -->
 
                                                                         </tbody>
                                                                     </table>
@@ -242,6 +277,81 @@
                         </section>
 
 
+                        <!-- <div class="limoking-related-portfolio portfolio-item-holder">
+                            <h4 class="head">Related Products</h4>
+                            <div class=limoking-isotope data-type=portfolio data-layout=fitRows>
+                                <div class=clear></div>
+                                <div class="three columns">
+                                    <div class="limoking-item limoking-portfolio-item limoking-classic-portfolio">
+                                        <div class="limoking-ux limoking-classic-portfolio-ux">
+                                            <div class="portfolio-thumbnail limoking-image"><img src=upload/shutterstock_770756561-400x300.jpg alt width=400 height=300><span class=portfolio-overlay>&nbsp;</span><a class=portfolio-overlay-icon href=upload/shutterstock_770756561.jpg data-rel=fancybox><span class=portfolio-icon><i class="fa fa-search"></i></span></a></div>
+                                            <div class=portfolio-classic-content>
+                                                <h3 class="portfolio-title"><a href=#>Night Party</a></h3>
+                                                <div class="limoking-portfolio-info limoking-info-font">
+                                                    <div class="portfolio-info portfolio-tag"><span class="info-head limoking-title">Tags </span><a href=../../portfolio_tag/casino-ride/index.html rel=tag>Casino Ride</a><span class=sep>,</span> <a href=# rel=tag>Party Ride</a></div>
+                                                    <div class=clear></div>
+                                                </div>
+                                                <div class=portfolio-excerpt>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Vivamus...
+                                                    <div class=clear></div><a href=# class="limoking-button large excerpt-read-more">Read More</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="three columns">
+                                    <div class="limoking-item limoking-portfolio-item limoking-classic-portfolio">
+                                        <div class="limoking-ux limoking-classic-portfolio-ux">
+                                            <div class="portfolio-thumbnail limoking-image"><img src=upload/shutterstock_1058269641-400x300.jpg alt width=400 height=300><span class=portfolio-overlay>&nbsp;</span><a class=portfolio-overlay-icon href=#><span class=portfolio-icon><i class="fa fa-link"></i></span></a></div>
+                                            <div class=portfolio-classic-content>
+                                                <h3 class="portfolio-title"><a href=#>Business Taxi Service</a></h3>
+                                                <div class="limoking-portfolio-info limoking-info-font">
+                                                    <div class="portfolio-info portfolio-tag"><span class="info-head limoking-title">Tags </span><a href=../../portfolio_tag/business-trip/index.html rel=tag>Business Trip</a><span class=sep>,</span> <a href=# rel=tag>Taxi</a></div>
+                                                    <div class=clear></div>
+                                                </div>
+                                                <div class=portfolio-excerpt>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Vivamus...
+                                                    <div class=clear></div><a href=# class="limoking-button large excerpt-read-more">Read More</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="three columns">
+                                    <div class="limoking-item limoking-portfolio-item limoking-classic-portfolio">
+                                        <div class="limoking-ux limoking-classic-portfolio-ux">
+                                            <div class="portfolio-thumbnail limoking-image"><img src=upload/shutterstock_716302901-400x300.jpg alt width=400 height=300><span class=portfolio-overlay>&nbsp;</span><a class=portfolio-overlay-icon href=#><span class=portfolio-icon><i class="fa fa-link"></i></span></a></div>
+                                            <div class=portfolio-classic-content>
+                                                <h3 class="portfolio-title"><a href=#>Wedding Day</a></h3>
+                                                <div class="limoking-portfolio-info limoking-info-font">
+                                                    <div class="portfolio-info portfolio-tag"><span class="info-head limoking-title">Tags </span><a href=# rel=tag>Party Ride</a><span class=sep>,</span> <a href=# rel=tag>Wedding Limo</a></div>
+                                                    <div class=clear></div>
+                                                </div>
+                                                <div class=portfolio-excerpt>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Vivamus...
+                                                    <div class=clear></div><a href=# class="limoking-button large excerpt-read-more">Read More</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="three columns">
+                                    <div class="limoking-item limoking-portfolio-item limoking-classic-portfolio">
+                                        <div class="limoking-ux limoking-classic-portfolio-ux">
+                                            <div class="portfolio-thumbnail limoking-image"><img src=upload/shutterstock_716302901-400x300.jpg alt width=400 height=300><span class=portfolio-overlay>&nbsp;</span><a class=portfolio-overlay-icon href=http://goodlayers.com/ target=_blank><span class=portfolio-icon><i class="fa fa-link"></i></span></a></div>
+                                            <div class=portfolio-classic-content>
+                                                <h3 class="portfolio-title"><a href=http://goodlayers.com/ target=_blank>Porta Egestas Ligula</a></h3>
+                                                <div class="limoking-portfolio-info limoking-info-font">
+                                                    <div class="portfolio-info portfolio-tag"><span class="info-head limoking-title">Tags </span><a href=# rel=tag>Airport Transfer</a><span class=sep>,</span> <a href=# rel=tag>Taxi</a></div>
+                                                    <div class=clear></div>
+                                                </div>
+                                                <div class=portfolio-excerpt>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Vivamus...
+                                                    <div class=clear></div><a href=# class="limoking-button large excerpt-read-more">Read More</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=clear></div>
+                        </div> -->
                     </div>
                     <div class=clear></div>
                 </div>

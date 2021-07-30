@@ -101,7 +101,7 @@
 
                                                     <!-- <p>Mini Metro EV LLP is a manufacturing company registered under Company’s Act. With an
                                                     objective to give good quality vehicles to indian roads, & provide value for money product to its owner.</p> -->
-                                                    <h4 align="center" style="font-weight:bold;font-size:28px;letter-spacing:1px;color:#1b1f80;">Technical Specification</h4>
+                                                    <h4 align="center" style="font-weight:bold;font-size:28px;letter-spacing:1px;color:#1b1f80;">Vehicle Specification</h4>
 
                                                     <table border="0" style="color:#000000;" width="100%">
                                                         <tbody>
@@ -111,89 +111,99 @@
                                                                         <tbody>
                                                                             <tr>
                                                                                 <th>Sr.No.</th>
-                                                                                <th align="center" colspan="2">Technical Details</th>
+                                                                                <th align="center" colspan="2">VEHICLE SPECS.</th>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>1</td>
-                                                                                <td>loading capacity</td>
-                                                                                <td>400 Kg</td>
+                                                                                <td>Tyre ( CEAT/TVS/ Ralco)</td>
+                                                                                <td>3.75 X 12</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>2</td>
-                                                                                <td>maximum Speed</td>
-                                                                                <td>25 Kmph</td>
+                                                                                <td>Front Shocker</td>
+                                                                                <td>43 MM</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>3</td>
-                                                                                <td>Tire Size</td>
-                                                                                <td>Spedways, 30x14</td>
+                                                                                <td>Motor</td>
+                                                                                <td>1200 W</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>4</td>
-                                                                                <td>Brakes</td>
-                                                                                <td>Mechanical Drum Brakes (Both Front &amp; Rear)</td>
+                                                                                <td>Controller</td>
+                                                                                <td>60 A</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>5</td>
-                                                                                <td>Peak Motor Power</td>
-                                                                                <td>BLDC 850(Watt) Nanpu</td>
+                                                                                <td>Roof</td>
+                                                                                <td>Heavy M.S Roof</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>6</td>
-                                                                                <td>Controller</td>
-                                                                                <td>24 Tube</td>
+                                                                                <td>Speedometer</td>
+                                                                                <td>Led Speedmeter (Indian)</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>7</td>
-                                                                                <td>Battery</td>
-                                                                                <td>Exide</td>
+                                                                                <td>Front Glass</td>
+                                                                                <td>(M.S) Included</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>8</td>
-                                                                                <td>Front Suspension</td>
-                                                                                <td>Hydraulic Shocker with Spring</td>
+                                                                                <td>Dala Size</td>
+                                                                                <td>STD 39x59</td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <th></th>
+                                                                                <th align="center" colspan="2">ACCESSORIES</th>
+                                                                                
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>9</td>
-                                                                                <td>Rear Suspension</td>
-                                                                                <td>Leaf Spring</td>
+                                                                                <td>Fire Extenguisher</td>
+                                                                                <td>Side View Mirror</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>10</td>
-                                                                                <td>Chasis</td>
-                                                                                <td>Tubular (Powder Coating)</td>
+                                                                                <td>Bottle Stand</td>
+                                                                                <td>Rear Bumper</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>11</td>
-                                                                                <td>Color</td>
-                                                                                <td>As per Customer Choice</td>
+                                                                                <td>Foot Mats</td>
+                                                                                <td>Tool Kit</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>12</td>
-                                                                                <td>Runing in One Charge</td>
-                                                                                <td>80-10Kmph</td>
+                                                                                <td>Jack</td>
+                                                                                <td>Stepney Cover ( Cloth )</td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <th></th>
+                                                                                <th align="center" colspan="2"> LD-400 DALA VARIANTS </th>
+                                                                                
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>13</td>
-                                                                                <td>Charger&#39;</td>
-                                                                                <td>48V, 12 Amps. (SMPS based) (make : Axiom)</td>
+                                                                                <td>LD400 - 48X59</td>
+                                                                                <td>48x59</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>14</td>
-                                                                                <td>Transmision Mode</td>
-                                                                                <td>Transaxle</td>
+                                                                                <td>LD400 Covered Body</td>
+                                                                                <td>39x59</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>15</td>
-                                                                                <td>Parking Brake</td>
-                                                                                <td>Available</td>
+                                                                                <td>LD400 Double Decker</td>
+                                                                                <td>39x59</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>16</td>
-                                                                                <td>Safety Lock in Driver Seat</td>
-                                                                                <td>Available</td>
+                                                                                <td>LD400</td>
+                                                                                <td>1000Kg</td>
                                                                             </tr>
-                                                                            <tr>
+                                                                            <!-- <tr>
                                                                                 <td>17</td>
                                                                                 <td>Battery Clamp</td>
                                                                                 <td>Available</td>
@@ -222,7 +232,7 @@
                                                                                 <td>22</td>
                                                                                 <td>Flor Mat</td>
                                                                                 <td>Available</td>
-                                                                            </tr>
+                                                                            </tr> -->
 
                                                                         </tbody>
                                                                     </table>
