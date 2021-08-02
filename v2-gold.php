@@ -4,7 +4,7 @@
 <div class="limoking-page-title-wrapper header-style-2-title-wrapper">
     <div class=limoking-page-title-overlay></div>
     <div class="limoking-page-title-container container">
-        <h1 class="limoking-page-title">M1 MS</h1> <i class="fab fa-twitter"></i>
+        <h1 class="limoking-page-title">V2 (Gold)</h1> <i class="fab fa-twitter"></i>
         <!-- <span class=limoking-page-caption>Caption placed here</span> -->
     </div>
 </div>
@@ -21,28 +21,40 @@
                                     <div class=flexslider data-pausetime=7000 data-slidespeed=600 data-effect=fade>
                                         <ul class=slides>
                                             <li>
-                                                <a href="upload/m1ms/_RAJ8515.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8515.jpg" alt width=1280 height=853></a>
+                                                <a href="upload/v2ss/_RAJ8452.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/v2ss/_RAJ8452.jpg" alt width=1280 height=853></a>
                                             </li>
                                             <li>
-                                                <a href="upload/m1ms/_RAJ8517.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8517.jpg" alt width=750 height=330></a>
+                                                <a href="upload/v2ss/_RAJ8463.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/v2ss/_RAJ8463.jpg" alt width=750 height=330></a>
                                             </li>
                                             <li>
-                                                <a href="upload/m1ms/_RAJ8518.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8518.jpg" alt width=750 height=330></a>
+                                                <a href="upload/v2ss/_RAJ8470.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/v2ss/_RAJ8470.jpg" alt width=750 height=330></a>
                                             </li>
                                             <li>
-                                                <a href="upload/m1ms/_RAJ8530.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8530.jpg" alt width=750 height=330></a>
+                                                <a href="upload/v2ss/_RAJ8489.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/v2ss/_RAJ8489.jpg" alt width=750 height=330></a>
                                             </li>
                                             <li>
-                                                <a href="upload/m1ms/_RAJ8532.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8532.jpg" alt width=1280 height=853></a>
+                                                <a href="upload/v2ss/_RAJ8493.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/v2ss/_RAJ8493.jpg" alt width=1280 height=853></a>
                                             </li>
                                             <li>
-                                                <a href="upload/m1ms/_RAJ8535.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8535.jpg" alt width=1280 height=853></a>
+                                                <a href="upload/v2ss/_RAJ8496.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/v2ss/_RAJ8496.jpg" alt width=1280 height=853></a>
                                             </li>
                                             <li>
-                                                <a href="upload/m1ms/_RAJ8539.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8539.jpg" alt width=1280 height=853></a>
+                                                <a href="upload/v2ss/_RAJ8589.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/v2ss/_RAJ8589.jpg" alt width=1280 height=853></a>
                                             </li>
                                             <li>
-                                                <a href="upload/m1ms/_RAJ8540.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8540.jpg" alt width=1280 height=853></a>
+                                                <a href="upload/v2ss/_RAJ8590.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/v2ss/_RAJ8590.jpg" alt width=1280 height=853></a>
+                                            </li>
+                                            <li>
+                                                <a href="upload/v2ss/_RAJ8593.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/v2ss/_RAJ8593.jpg" alt width=1280 height=853></a>
+                                            </li>
+                                            <li>
+                                                <a href="upload/m1ss/V2_SS_BLUE.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ss/V2_SS_BLUE.jpg" alt width=1280 height=853></a>
+                                            </li>
+                                            <li>
+                                                <a href="upload/m1ss/V2_SS_LEFT_BLUE.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ss/V2_SS_LEFT_BLUE.jpg" alt width=1280 height=853></a>
+                                            </li>
+                                            <li>
+                                                <a href="upload/m1ss/V2_SS_RIGHT_BLUE.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ss/V2_SS_RIGHT_BLUE.jpg" alt width=1280 height=853></a>
                                             </li>
 
 
@@ -52,7 +64,7 @@
                                 </div>
                                 <div class=limoking-portfolio-content>
                                     <div class=limoking-portfolio-info>
-                                        <h4 class="head">M1 MS</h4>
+                                        <h4 class="head">V2 (Gold)</h4>
 
                                         <div class=content>
                                             <div class="portfolio-info portfolio-clients"><span class="info-head limoking-title">Colors: </span><i class="fas fa-circle" style="color: red;"></i>Red
@@ -153,7 +165,7 @@
                                                                             <tr>
                                                                                 <td>8</td>
                                                                                 <td>Front Glass</td>
-                                                                                <td>(M.S) Included</td>
+                                                                                <td>(S.S) Included</td>
                                                                             </tr>
                                                                             <tr>
                                                                                 <td>9</td>
@@ -171,37 +183,52 @@
                                                                                 <td>Included</td>
                                                                             </tr>
                                                                             <tr>
+                                                                                <td>12</td>
+                                                                                <td>Roof Carrier</td>
+                                                                                <td>Included</td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>13</td>
+                                                                                <td>FogLight</td>
+                                                                                <td>Included</td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>14</td>
+                                                                                <td>Wiper</td>
+                                                                                <td>Included</td>
+                                                                            </tr>
+                                                                            <tr>
                                                                                 <th></th>
                                                                                 <th align="center" colspan="2">ACCESSORIES</th>
                                                                                 
                                                                             </tr>
                                                                             <tr>
-                                                                                <td>12</td>
+                                                                                <td>15</td>
                                                                                 <td>Wheel Caps</td>
                                                                                 <td>Roof Handle</td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td>13</td>
+                                                                                <td>16</td>
                                                                                 <td>Fire Extenguisher</td>
                                                                                 <td>Leg Guard Steel</td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td>14</td>
+                                                                                <td>17</td>
                                                                                 <td>Curtains</td>
                                                                                 <td>Side View Mirror</td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td>15</td>
+                                                                                <td>18</td>
                                                                                 <td>Bottle Stand</td>
                                                                                 <td>Rear Bumper</td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td>16</td>
+                                                                                <td>19</td>
                                                                                 <td>Foot Mats</td>
                                                                                 <td>Tool Kit</td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td>17</td>
+                                                                                <td>20</td>
                                                                                 <td>Jack</td>
                                                                                 <td>Stepney Cover(Cloth)</td>
                                                                             </tr>

@@ -246,46 +246,42 @@
                                         </a>
                                     </div> -->
                                     <div class="slide">
-                                        <a href="#" target="_blank">
+                                        <a href="ld-400.php">
                                             <span>LD-400</span>
                                             <img src="upload/LD_400_RIGHT_BLUE.png" class="img-responsive" alt="" title="" />
                                         </a>
                                     </div>
                                     <div class="slide">
-                                        <a href="#" target="_blank">
+                                        <a href="m1-ms.php">
                                             <span>M1 MS</span>
                                             <img src="upload/LD_400_RIGHT_RED.png" class="img-responsive" alt="" title="" />
                                         </a>
                                     </div>
                                     <div class="slide">
-                                        <a href="#" target="_blank">
+                                        <a href="m1-ss.php">
                                             <span>M1 SS</span>
                                             <img src="upload/RAJ8620.png" class="img-responsive" alt="" title="" />
                                         </a>
                                     </div>
                                     <div class="slide">
-                                        <a href="#" target="_blank">
+                                        <a href="v2.php">
                                             <span>V2 MS</span>
                                             <img src="upload/RAJ8474.png" class="img-responsive" alt="" title="" />
                                         </a>
                                     </div>
                                     <div class="slide">
-                                        <a href="#" target="_blank">
+                                        <a href="v2-gold.php">
                                             <span>V2 SS</span>
                                             <img src="upload/RAJ8470.png" class="img-responsive" alt="" title="" />
                                         </a>
                                     </div>
                                     <!-- <div class="slide">
-                  <a href="#" target="_blank">
-                    <span>Ace Gold</span>
-                    <img
-                      src="upload/web 1.png"
-                      class="img-responsive"
-                      alt=""
-                      title=""
-                    />
-                  </a>
-                </div> -->
+                                        <a href="v2-gold.php" target="_blank">
+                                            <span>V2 SS</span>
+                                            <img src="upload/RAJ8470.png" class="img-responsive" alt="" title="" />
+                                        </a>
+                                    </div> -->
+                    
 
                                 </div>
                             </div>

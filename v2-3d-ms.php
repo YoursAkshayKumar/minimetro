@@ -4,7 +4,7 @@
 <div class="limoking-page-title-wrapper header-style-2-title-wrapper">
     <div class=limoking-page-title-overlay></div>
     <div class="limoking-page-title-container container">
-        <h1 class="limoking-page-title">M1 MS</h1> <i class="fab fa-twitter"></i>
+        <h1 class="limoking-page-title">V2-3D MS</h1> <i class="fab fa-twitter"></i>
         <!-- <span class=limoking-page-caption>Caption placed here</span> -->
     </div>
 </div>
@@ -21,29 +21,24 @@
                                     <div class=flexslider data-pausetime=7000 data-slidespeed=600 data-effect=fade>
                                         <ul class=slides>
                                             <li>
-                                                <a href="upload/m1ms/_RAJ8515.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8515.jpg" alt width=1280 height=853></a>
+                                                <a href="upload/v2ms/_RAJ8474.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/v2ms/_RAJ8474.jpg" alt width=1280 height=853></a>
                                             </li>
                                             <li>
-                                                <a href="upload/m1ms/_RAJ8517.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8517.jpg" alt width=750 height=330></a>
+                                                <a href="upload/v2ms/_RAJ8475.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/v2ms/_RAJ8475.jpg" alt width=750 height=330></a>
                                             </li>
                                             <li>
-                                                <a href="upload/m1ms/_RAJ8518.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8518.jpg" alt width=750 height=330></a>
+                                                <a href="upload/v2ms/_RAJ8483.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/v2ms/_RAJ8483.jpg" alt width=750 height=330></a>
                                             </li>
                                             <li>
-                                                <a href="upload/m1ms/_RAJ8530.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8530.jpg" alt width=750 height=330></a>
+                                                <a href="upload/v2ms/_RAJ8498.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/v2ms/_RAJ8498.jpg" alt width=750 height=330></a>
                                             </li>
                                             <li>
-                                                <a href="upload/m1ms/_RAJ8532.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8532.jpg" alt width=1280 height=853></a>
+                                                <a href="upload/v2ms/_RAJ8500.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/v2ms/_RAJ8500.jpg" alt width=1280 height=853></a>
                                             </li>
                                             <li>
-                                                <a href="upload/m1ms/_RAJ8535.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8535.jpg" alt width=1280 height=853></a>
+                                                <a href="upload/v2ms/_RAJ8502.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/v2ms/_RAJ8502.jpg" alt width=1280 height=853></a>
                                             </li>
-                                            <li>
-                                                <a href="upload/m1ms/_RAJ8539.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8539.jpg" alt width=1280 height=853></a>
-                                            </li>
-                                            <li>
-                                                <a href="upload/m1ms/_RAJ8540.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/m1ms/_RAJ8540.jpg" alt width=1280 height=853></a>
-                                            </li>
+                                        
 
 
 
@@ -52,7 +47,7 @@
                                 </div>
                                 <div class=limoking-portfolio-content>
                                     <div class=limoking-portfolio-info>
-                                        <h4 class="head">M1 MS</h4>
+                                        <h4 class="head">V2-3D MS</h4>
 
                                         <div class=content>
                                             <div class="portfolio-info portfolio-clients"><span class="info-head limoking-title">Colors: </span><i class="fas fa-circle" style="color: red;"></i>Red
