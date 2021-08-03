@@ -17,6 +17,25 @@
                     <div class=clear></div>
                 </section>
             </div>
+
+
+
+            <?php
+if(!empty($_POST["send"])) {
+	$name = $_POST["userName"];
+	$email = $_POST["userEmail"];
+	$number = $_POST["userNumber"];
+	$content = $_POST["message"];
+
+	$toEmail = "er.akshayone@gmail.com";
+	$mailHeaders = "From: " . $name . "<". $email .">\r\n";
+	if(mail($toEmail, $subject, $content, $mailHeaders)) {
+	    $message = "Your contact information is received successfully.";
+	    $type = "success";
+	}
+}
+// require_once "contact-view.php";
+?>
             <div class=with-sidebar-wrapper>
                 <div class="with-sidebar-container container">
                     <div class="with-sidebar-left eight columns">
@@ -35,7 +54,7 @@
                                                             
                                                                 <br>
                                                                 <span class="wpcf7-form-control-wrap your-name">
-                                                                    <input id="name" type="text" name="name" size="40" class="input1" aria-required="true" aria-invalid="false" placeholder="Name*">
+                                                                    <input id="name" type="text" name="userName" size="40" class="input1" aria-required="true" aria-invalid="false" placeholder="Name*">
                                                                 </span> 
                                                             
                                                         </div>
@@ -43,9 +62,17 @@
                                                             
                                                                 <br>
                                                                 <span class="wpcf7-form-control-wrap your-email">
-                                                                    <input id="email" type="text" name="email" size="40" class="input1" aria-required="true" aria-invalid="false" placeholder="Email*">
+                                                                    <input id="email" type="email" name="userEmail" size="40" class="input1" aria-required="true" aria-invalid="false" placeholder="Email*">
                                                                 </span> 
                                                             
+                                                        </div>
+                                                        <div class="quform-element">
+                                                            
+                                                            <br>
+                                                            <span class="wpcf7-form-control-wrap your-email">
+                                                                <input id="number" type="text" name="userNumber" size="10" class="input1" aria-required="true" aria-invalid="false" placeholder="Mobile Number*">
+                                                            </span> 
+                                                        
                                                         </div>
                                                         <div class="quform-element">
                                                             
@@ -59,7 +86,7 @@
                                                         <!-- Begin Submit button -->
                                                         <div class="quform-submit">
                                                             <div class="quform-submit-inner">
-                                                                <button type="submit" class="submit-button"><span>Send</span></button>
+                                                                <input type="submit" class="submit-button" name="Submit">
                                                             </div>
                                                             <div class="quform-loading-wrap"><span class="quform-loading"></span></div>
                                                         </div>
