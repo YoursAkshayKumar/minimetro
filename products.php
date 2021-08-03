@@ -38,31 +38,31 @@
                                     <div class="slide">
                                         <a href="ld-400.php">
                                             <span>LD-400</span>
-                                            <img src="upload/LD_400_RIGHT_BLUE.png" class="img-responsive" alt="" title="" />
+                                            <img src="upload/ld-400.png" class="img-responsive" alt="" title="" />
                                         </a>
                                     </div>
                                     <div class="slide">
                                         <a href="m1-ms.php">
                                             <span>M1 MS</span>
-                                            <img src="upload/LD_400_RIGHT_RED.png" class="img-responsive" alt="" title="" />
+                                            <img src="upload/m1ms.png" class="img-responsive" alt="" title="" />
                                         </a>
                                     </div>
                                     <div class="slide">
                                         <a href="m1-ss.php">
                                             <span>M1 SS</span>
-                                            <img src="upload/RAJ8620.png" class="img-responsive" alt="" title="" />
+                                            <img src="upload/m1ss.png" class="img-responsive" alt="" title="" />
                                         </a>
                                     </div>
                                     <div class="slide">
                                         <a href="v2.php">
                                             <span>V2 MS</span>
-                                            <img src="upload/RAJ8474.png" class="img-responsive" alt="" title="" />
+                                            <img src="upload/v2ms.png" class="img-responsive" alt="" title="" />
                                         </a>
                                     </div>
                                     <div class="slide">
                                         <a href="v2-gold.php">
                                             <span>V2 SS</span>
-                                            <img src="upload/RAJ8470.png" class="img-responsive" alt="" title="" />
+                                            <img src="upload/v2ss.png" class="img-responsive" alt="" title="" />
                                         </a>
                                     </div>
                                     <!-- <div class="slide">
