@@ -275,6 +275,18 @@
                                             <img src="upload/v2ss.png" class="img-responsive" alt="" title="" />
                                         </a>
                                     </div>
+                                    <div class="slide">
+                                        <a href="v2-3d-ms.php">
+                                            <span>V2 SS</span>
+                                            <img src="upload/v2-3d-ms.png" class="img-responsive" alt="" title="" />
+                                        </a>
+                                    </div>
+                                    <div class="slide">
+                                        <a href="v2-3d-ss.php">
+                                            <span>V2 SS</span>
+                                            <img src="upload/v2-3d-ss.png" class="img-responsive" alt="" title="" />
+                                        </a>
+                                    </div>
                                     <!-- <div class="slide">
                                         <a href="v2-gold.php" target="_blank">
                                             <span>V2 SS</span>

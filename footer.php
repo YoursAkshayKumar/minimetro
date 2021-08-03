@@ -82,7 +82,7 @@
         <a href=http://twitter.com/goodlayers>
         <i class="limoking-icon fab fa-twitter" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i>
     </a> 
-    <a href=#>
+    <!-- <a href=#>
     
     <i class="limoking-icon fa fa-dribbble" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i>
 </a>
@@ -91,8 +91,10 @@
 </a>
  <a href=#>
      <i class="limoking-icon fa fa-google-plus" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i>
-</a> <a href=#>
-    <i class="limoking-icon fa fa-instagram" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i>
+</a> -->
+
+<a href=#>
+    <i class="limoking-icon fab fa-instagram" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i>
 </a></div>
             <div class=clear></div>
         </div>
