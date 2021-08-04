@@ -8,7 +8,7 @@
                     <div class="limoking-master-slider-item limoking-slider-item limoking-item" style="margin-bottom: 0px;">
                         <div id=P_MS5c9b6f396d4d0 class="master-slider-parent ms-parent-id-2">
                             <div id=MS5c9b6f396d4d0 class="master-slider ms-skin-default">
-                                <div class=ms-slide data-delay=7 data-fill-mode=fill> <img src=plugins/masterslider/public/assets/css/blank.gif alt title data-src=upload/shutterstock_77669479.jpg>
+                                <div class=ms-slide data-delay=7 data-fill-mode=fill> <img src=plugins/masterslider/public/assets/css/blank.gif alt title data-src=upload/mini-metro-logo.png>
                                     <video data-autopause=false data-mute=true data-loop=true data-fill-mode=fill  style="margin-top: 0px;">
                                         <source src=upload/minimetrovideo.mp4 type=video/webm>
                                     </video>

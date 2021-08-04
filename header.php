@@ -32,8 +32,8 @@
     <link rel=stylesheet href='plugins/masterslider/public/assets/css/masterslider.main.css' type=text/css media=all>
     <link rel=stylesheet href='css/masterslider-custom.css' type=text/css media=all>
     <!-- <link rel=stylesheet href="css/font/all.css" type=text/css media=all> -->
-    <!-- <link rel=stylesheet href="css/font2/font-awesome.min.css" type=text/css media=all>
-    <link rel=stylesheet href="css/font2/font-awesome.css" type=text/css media=all> -->
+    <link rel=stylesheet href="css/font2/font-awesome.min.css" type=text/css media=all>
+    <link rel=stylesheet href="css/font2/font-awesome.css" type=text/css media=all>
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">

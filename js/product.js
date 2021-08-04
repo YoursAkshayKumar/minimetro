@@ -81,8 +81,8 @@ $('#home_banner_slider2').slick({
     {
       breakpoint: 1180,
       settings: {
-        centerPadding: '314px',
-		slidesToShow: 1,
+      centerPadding: '314px',
+		  slidesToShow: 1,
       }
     },
 	{
