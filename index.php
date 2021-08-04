@@ -97,7 +97,7 @@
                                         <div class="limoking-item-title-center-divider limoking-right"></div>
                                     </div>
                                     <div class="limoking-item-title-caption limoking-skin-info" style="color: black;"></div>
-                                    <p style="color:#909090;">Mini Metro is a premier name in the field of Electric Rickshaw Manufacturers
+                                    <!-- <p style="color:#909090;">Mini Metro is a premier name in the field of Electric Rickshaw Manufacturers
                                         , Electric Rickshaw Suppliers. We serve a good range of happy customers
                                         everywhere in India. Driven by state-of- the-art technology and innovation,
                                         E Rickshaw in India. We designed and made by us are assembled during a way,
@@ -126,7 +126,16 @@
                                         traveler than other transports. With a great capacity and strength, we are one of
                                         the most efficient traveling rickshaws in the market. With the stability and robustness,
                                         our product is manufactured by skilled professional and good quality material. With
-                                        almost a one year warranty, we are here to sell you the best.</p>
+                                        almost a one year warranty, we are here to sell you the best.</p> -->
+
+                                        <p style="color:#909090;">With an Objective to provide Quality Vehicles, Mini-Metro EV. 
+                                        LLP is committed to give ‘value for money’ products to our Customers. We are Proud to 
+                                        mention our modernized manufacturing unit with the latest & most advanced techniques 
+                                        & stylish products. We use the latest CAD-CAM design techniques for developing new models vehicles.</p>
+                                        <p style="color:#909090;">Our manufacturing plant is strategically located in the green 
+                                        zone area of Meerut (Uttar Pradesh), within a covered space of 50000 square feet, with 
+                                        state of art new technology, machineries & fixtures. Our present production capacity 
+                                        is 50 Vehicles per day, which we intend to increase to meet upcoming growing market demand.</p>
 
                                 </div>
                             </div>

@@ -7,7 +7,7 @@
                     <div class="limoking-full-size-wrapper gdlr-show-all " style="padding-bottom: 0px;  background-color: #ffffff; ">
                         <div class="limoking-item limoking-content-item" style="margin-bottom: 0px;">
                             <div class="wpgmp_map_container wpgmp-map-1" rel=map1>
-                                <iframe style="width:100%; height:480px; border:0" src="https://maps.google.com/maps?q=164,%20Mohkampur%20Industrial%20Area.%20Delhi%20Road,%20Meerut-250002&t=&z=13&ie=UTF8&iwloc=&output=embed" width="600" height="450" ></iframe>
+                                <iframe style="width:100%; height:480px; border:0" src="https://maps.google.com/maps?q=28.900301,77.5884483&t=&z=13&ie=UTF8&iwloc=&output=embed" width="600" height="450" ></iframe>
                                 <div style="position: absolute;width: 80%;bottom: 20px;left: 0;right: 0;margin-left: auto;margin-right: auto;color: #000;">
                             </div>
                         </div>
@@ -114,7 +114,7 @@ if(!empty($_POST["send"])) {
                                 <div class=clear></div>
                                 <div class=textwidget>
                                     <p>164, Mohkampur Industrial Area. Delhi Road, Meerut-250002</p>
-                                    <p><i class="limoking-icon fa fa-phone" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> +91-9837170066, +91-7351634634</p>
+                                    <p><i class="limoking-icon fas fa-phone-alt" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> +91-7617787857</p>
                                     <p><i class="limoking-icon fa fa-envelope" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> info@minimetro.com</p>
                                     <p><i class="limoking-icon fa fa-clock-o" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> Everyday 9:00-17:00</p>
                                 </div>

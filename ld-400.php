@@ -20,9 +20,9 @@
                                 <div class="limoking-portfolio-thumbnail limoking-image">
                                     <div class=flexslider data-pausetime=7000 data-slidespeed=600 data-effect=fade>
                                         <ul class=slides>
-                                            <li>
+                                            <!-- <li>
                                                 <a href="upload/ld400/LD_400_RIGHT_BLUE.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/ld400/LD_400_RIGHT_BLUE.jpg" alt width=1280 height=853></a>
-                                            </li>
+                                            </li> -->
                                             <li>
                                                 <a href="upload/ld400/LD_400_BLUE.jpg" data-fancybox-group=limoking-gal-1 data-rel=fancybox><img src="upload/ld400/LD_400_BLUE.jpg" alt width=750 height=330></a>
                                             </li>

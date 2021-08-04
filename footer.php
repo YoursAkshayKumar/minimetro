@@ -14,14 +14,14 @@
             <div id=text-9 class="widget widget_text limoking-item limoking-widget">
                 <h3 class="limoking-widget-title">Contact Info</h3>
                 <div class=clear></div>
-                <div class=textwidget><p style="color:#000;">Address: 164, Mohkampur Industrial Area.
-                    Delhi Road, Meerut-250002</p><span class=clear></span>
+                <div class=textwidget><p style="color:#000;">Address: Mini Metro EV LLP
+                    Khasra No. 636/4 Village Dimoli Mohiuddinpur Meerut</p><span class=clear></span>
                     <span class=limoking-space style="margin-top: 10px; display: block;"></span>
-                    <p style="color:#000;"><i class="limoking-icon fa fa-phone" style="vertical-align: middle; color: #000; font-size: 16px; "></i> 
-                     18002704195</p>
+                    <p style="color:#000;"><i class="limoking-icon fas fa-phone-alt" style="vertical-align: middle; color: #000; font-size: 16px; "></i> 
+                    1800-270-4195</p>
                     <span class=clear></span><span class=limoking-space style="margin-top: 10px; display: block;"></span>
                     <p style="color:#000;">  <i class="limoking-icon fa fa-mobile" style="vertical-align: middle; color: #000; font-size: 20px; "></i> 
-                    +91-9837170066, +91-7351634634</p><span class=clear></span>
+                    +91-7617787857</p><span class=clear></span>
                     <span class=limoking-space style="margin-top: 10px; display: block;"></span>
                     <p style="color:#000;"><i class="limoking-icon fas fa-envelope-open" style="vertical-align: middle; color: #000; font-size: 16px; "></i>
                     info@minimetro.com</p></div>
@@ -38,7 +38,7 @@
                     <li> <a href=#>Donec luctus imperdiet</a></li>
                 </ul> -->
                 <!-- <iframe style="width:100%; height:480px; border:0" src="https://maps.google.com/maps?q=164,%20Mohkampur%20Industrial%20Area.%20Delhi%20Road-%20Meerut&t=&z=13&ie=UTF8&iwloc=&output=embed" width="300" height="100" ></iframe> -->
-                    <div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="200" id="gmap_canvas" src="https://maps.google.com/maps?q=164,%20Mohkampur%20Industrial%20Area.%20Delhi%20Road,%20Meerut-250002&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org"></a><br><style>.mapouter{position:relative;text-align:right;height:200px;width:300px;}</style><a href="https://www.embedgooglemap.net">embed a google map in html</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:200px;width:300px;}</style></div></div>
+                    <div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="200" id="gmap_canvas" src="https://maps.google.com/maps?q=28.900301,77.5884483&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org"></a><br><style>.mapouter{position:relative;text-align:right;height:200px;width:300px;}</style><a href="https://www.embedgooglemap.net">embed a google map in html</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:200px;width:300px;}</style></div></div>
                         
             </div>
         </div>

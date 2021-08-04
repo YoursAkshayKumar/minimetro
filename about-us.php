@@ -46,13 +46,17 @@
                                     </div>
                                     <div class=about-us-content-wrapper>
                                         <div class="about-us-content limoking-skin-content">
-                                            <p>Mini Metro EV LLP is a manufacturing company registered under Company’s Act. With an
-                                             objective to give good quality vehicles to indian roads, & provide value for money product to its owner.</p>
+                                            <p>With an Objective to provide Quality Vehicles, Mini-Metro EV. LLP is 
+                                                committed to give ‘value for money’ products to our Customers. We are 
+                                                Proud to mention our modernized manufacturing unit with the latest &
+                                                 most advanced techniques & stylish products. We use the latest CAD-CAM
+                                                  design techniques for developing new models vehicles.</p>
 
-                                             <p>We offer wide range of models with different colors . Being these 
-                                                products featuring Eco-friendliness, Pollution-Free, Noiseless, 
-                                                Cost-Effective, almost zero running cost, stylish look and appeal, 
-                                                these are widely appreciated by the customer.</p>
+                                             <p>Our manufacturing plant is strategically located in the green zone area of 
+                                                Meerut (Uttar Pradesh), within a covered space of 50000 square feet, with
+                                                 state of art new technology, machineries & fixtures. Our present production 
+                                                 capacity is 50 Vehicles per day, which we intend to increase to meet upcoming 
+                                                 growing market demand.</p>
                                              
                                         </div>
                                     </div>
@@ -66,7 +70,7 @@
                 </section>
 
                 <section id=content-section-2>
-                    <div class="limoking-color-wrapper  gdlr-show-all no-skin" style="background-color: #f3f3f3; padding-bottom: 24px; ">
+                    <div class="limoking-color-wrapper  gdlr-show-all no-skin" style="background-color: #f3f3f3; padding-bottom: 24px; padding-top: 10px !important;">
                         <div class=container>
                             <!-- <div class="six columns">
                                 <div class="limoking-image-frame-item limoking-item">
@@ -85,14 +89,14 @@
                                         <div class="about-us-content limoking-skin-content">
                                             
 
-                                            <p>We Follow Strict Quality Control from Component Level to Final Dispatch 
-                                                of Product, We make every effort to obtain all components being small or 
-                                                big from reputed suppliers who follow strict Quality Standards.</p>
+                                            <p>“Our Director & cofounder  Mr .Bhupinder Singh always believes 
+                                                in making Strong & long term healthy relationship management 
+                                                with our all prestigious customers & Vendors".</p>
 
-                                            <p>We use Latest CAD-CAM design techniques in design and development. Every 
-                                                Component is manufactured, procured under strict quality control by a 
-                                                qualified engineers and using latest technologies with finest materials 
-                                                fully tested before sending it to production line.</p>
+                                            <p>‘’Our another Director & co founder Mr. Karan Longyanihas always been hard working with 
+                                                time to time new invention , innovation , proper execution and firm in taking organization 
+                                                into next level of Quality Brand along with quality products, quality services, and to 
+                                                integrate honesty, ethical ways in all aspects of business’’.</p>
 
                                              <!-- <p>Mini Metro EV LLP is a manufacturing company registered under Company’s Act. With an
                                              objective to give good quality vehicles to indian roads, & provide value for money product to its owner.</p> -->
@@ -113,6 +117,27 @@
                
                     <div class="limoking-color-wrapper  gdlr-show-all no-skin" style="background-color: #ffffff; padding-top: 70px; padding-bottom: 20px; ">
                         <div class=container>
+                            <div class="twelve columns">
+                                <h3 class="about-us-title">Advantages with Mini-Metro</h3>
+                                   <div class=about-us-content-wrapper>
+                                        <div class="about-us-content limoking-skin-content">
+                                            <ol>
+                                                <li>90% indigenous products, Made in India & designed mainly for Indian Roads.</li>
+                                                <li>Far better quality products as compared to Chinese counterparts.</li>
+                                                <li>Ensuring 100% availability of genuine & quality spare parts for all Vehicles variants.</li>
+                                                <li>Strong sales & services support for our all Channel Partner’s across Pan India.</li>
+                                                <li>Dedicated qualified R&D, designing team for customized E-Carts &new designs / Variants.</li>
+                                                <li>Rigorous Quality Inspection</li>
+                                                <li>We always value our customers / Business Associates/Channel partners for continuous improvement & growth.</li>
+                                            </ol>
+                                            
+
+                                    
+
+                                             
+                                        </div>
+                                    </div>
+                            </div>
                             <div class="six columns">
                                 <div class="limoking-ux column-service-ux">
                                     <div class="limoking-item limoking-column-service-item limoking-medium" style="margin-bottom: 40px;">
