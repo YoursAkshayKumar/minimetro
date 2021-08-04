@@ -9,7 +9,7 @@
                         <div id=P_MS5c9b6f396d4d0 class="master-slider-parent ms-parent-id-2">
                             <div id=MS5c9b6f396d4d0 class="master-slider ms-skin-default">
                                 <div class=ms-slide data-delay=7 data-fill-mode=fill> <img src=plugins/masterslider/public/assets/css/blank.gif alt title data-src=upload/shutterstock_77669479.jpg>
-                                    <video data-autopause=false data-mute=true data-loop=true data-fill-mode=fill>
+                                    <video data-autopause=false data-mute=true data-loop=true data-fill-mode=fill  style="margin-top: 0px;">
                                         <source src=upload/minimetrovideo.mp4 type=video/webm>
                                     </video>
                                     <!-- <div class="ms-layer  msp-cn-1-1" style data-ease=easeOutQuint data-offset-x=0 data-offset-y=-143 data-origin=mc data-position=normal> Or anywhere you need us to take</div>
@@ -74,7 +74,7 @@
                                             <div class=limoking-item-title-center-icon-divider></div>
                                         </div>
                                     </div>
-                                    <div class="limoking-item-title-caption limoking-skin-info">We offer you a super VIP experience in middle of Meerut.</div>
+                                    <!-- <div class="limoking-item-title-caption limoking-skin-info">We offer you a super VIP experience in middle of Meerut.</div> -->
                                 </div>
                             </div>
                         </div>
@@ -456,7 +456,9 @@
                                                         <div class="testimonial-content limoking-info-font limoking-skin-content">
                                                             <p>Best place to buy E-Rickshaw in Meerut</p>
                                                         </div>
-                                                        <div class="testimonial-author-image limoking-skin-border"><img src=upload/testimonial-s-11-150x150.jpg alt width=150 height=150></div>
+                                                        <div class="testimonial-author-image limoking-skin-border">
+                                                            <!-- <img src=upload/testimonial-s-11-150x150.jpg alt width=150 height=150> -->
+                                                        </div>
                                                         <div class=testimonial-info><span class="testimonial-author limoking-skin-link-color">Karan S<span>, </span></span><span class="testimonial-position limoking-skin-info">General Manager, Coca Co.</span></div>
                                                         <div class=clear></div>
                                                     </div>
@@ -468,7 +470,9 @@
                                                         <div class="testimonial-content limoking-info-font limoking-skin-content">
                                                             <p>Best manufacturers in PAN INDIA</p>
                                                         </div>
-                                                        <div class="testimonial-author-image limoking-skin-border"><img src=upload/testimonial-s-21-150x150.jpg alt width=150 height=150></div>
+                                                        <div class="testimonial-author-image limoking-skin-border">
+                                                            <!-- <img src=upload/testimonial-s-21-150x150.jpg alt width=150 height=150> -->
+                                                        </div>
                                                         <div class=testimonial-info><span class="testimonial-author limoking-skin-link-color">Harjass S<span>, </span></span><span class="testimonial-position limoking-skin-info">CEO, The Klise</span></div>
                                                         <div class=clear></div>
                                                     </div>

@@ -6,7 +6,7 @@
                 <div class=clear></div>
                 <div class=textwidget>
                     <p><img src=upload/mini-metro-logo.png style="width: 170px;" alt></p>
-                    <p style="text-align: justify;">Mini Metro is a premier name in the field of Electric Rickshaw Manufacturers, Electric Rickshaw Suppliers. We serve a good range of happy customers everywhere in India.</p>
+                    <p style="text-align: justify; color:black;">Mini Metro is a premier name in the field of Electric Rickshaw Manufacturers, Electric Rickshaw Suppliers. We serve a good range of happy customers everywhere in India.</p>
                 </div>
             </div>
         </div>
@@ -14,17 +14,17 @@
             <div id=text-9 class="widget widget_text limoking-item limoking-widget">
                 <h3 class="limoking-widget-title">Contact Info</h3>
                 <div class=clear></div>
-                <div class=textwidget>Address: 164, Mohkampur Industrial Area.
-                    Delhi Road, Meerut-250002<span class=clear></span>
+                <div class=textwidget><p style="color:#000;">Address: 164, Mohkampur Industrial Area.
+                    Delhi Road, Meerut-250002</p><span class=clear></span>
                     <span class=limoking-space style="margin-top: 10px; display: block;"></span>
-                    <i class="limoking-icon fa fa-phone" style="vertical-align: middle; color: #fff; font-size: 16px; "></i> 
-                    18002704195
+                    <p style="color:#000;"><i class="limoking-icon fa fa-phone" style="vertical-align: middle; color: #000; font-size: 16px; "></i> 
+                     18002704195</p>
                     <span class=clear></span><span class=limoking-space style="margin-top: 10px; display: block;"></span>
-                    <i class="limoking-icon fa fa-mobile" style="vertical-align: middle; color: #fff; font-size: 20px; "></i> 
-                    +91-9837170066, +91-7351634634<span class=clear></span>
+                    <p style="color:#000;">  <i class="limoking-icon fa fa-mobile" style="vertical-align: middle; color: #000; font-size: 20px; "></i> 
+                    +91-9837170066, +91-7351634634</p><span class=clear></span>
                     <span class=limoking-space style="margin-top: 10px; display: block;"></span>
-                    <i class="limoking-icon fa fa-envelope-o" style="vertical-align: middle; color: #fff; font-size: 16px; "></i>
-                     info@minimetro.com</div>
+                    <p style="color:#000;"><i class="limoking-icon fas fa-envelope-open" style="vertical-align: middle; color: #000; font-size: 16px; "></i>
+                    info@minimetro.com</p></div>
             </div>
         </div>
         <div class="footer-column four columns" id=footer-widget-3>

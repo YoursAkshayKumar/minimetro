@@ -46,6 +46,16 @@
     <script type="text/javascript" src="js/jquery.min.js"></script>
 
 
+    <style>
+
+        
+.ms-slide-bgvideo{
+    margin-top: 0px !important;
+ }
+
+    </style>
+
+
 </head>
 
 <body data-rsssl=1 onload="myFunction()" class="home page-template-default page page-id-5702 _masterslider _msp_version_3.2.7 woocommerce-no-js">
@@ -77,12 +87,13 @@
                     </div>
                     <div class=limoking-logo-right-text>
                         <!-- <img src=upload/phone-icon.png alt style="vertical-align: middle;"> -->
-                        <i class="fas fa-phone-alt"></i>
-                         <span style="color: #ffffff; margin-left: 11px; font-size: 15px; line-height: 1.1;">+91-9837170066</span>
+                        <b><i class="fas fa-phone-alt" style="vertical-align: middle;"></i></b>
+                         <span style="color: #000000; margin-left: 11px; font-size: 15px; line-height: 1.1;"><b>+91-9837170066</b></span>
                         <span class=clear></span>
                         <span class=limoking-space style="margin-top: 12px; display: block;"></span>
-                        <img src=upload/envelope-icon.png alt style="vertical-align: middle;">
-                        <span style="color: #ffffff; margin-left: 11px; font-size: 15px; line-height: 1.1;">info@minimetro.com</span>
+                        <!-- <img src=upload/envelope-icon.png alt style="vertical-align: middle;"> -->
+                        <b><i class="fas fa-envelope-open" style="vertical-align: middle;"></i></b>
+                        <span style="color: #000000; margin-left: 11px; font-size: 15px; line-height: 1.1;"><b>info@minimetro.com</b></span>
                     </div>
                     <div class=clear></div>
                 </div>
