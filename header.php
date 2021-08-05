@@ -116,7 +116,8 @@
                                 <li class="menu-item menu-item limoking-normal-menu"><a href=products.php>Products</a></li>
                                 <li class="menu-item menu-item limoking-normal-menu"><a href=contact-us.php>Contact Us</a></li>
 
-                            </ul><img id=limoking-menu-search-button src=images/magnifier-light.png alt width=58 height=59>
+                            </ul>
+                            <!-- <img id=limoking-menu-search-button src=images/magnifier-light.png alt width=58 height=59> -->
                             <div class=limoking-menu-search id=limoking-menu-search>
                                 <form method=get id=searchform action=#>
                                     <div class=search-text>

@@ -8,17 +8,17 @@
 	1. Header
 	2. Sidebar
 	3. Footer
-3.) Content Item
-4.) Widget
-5.) Default Plugin
-6.) 10335 Soccer Plugin 
+3. Content Item
+4. Widget
+5. Default Plugin
+6. 10335 Soccer Plugin 
 -------------------------------------------------------------------*/
 #loading{
 	position: fixed;
 	width: 100%;
 	height: 100vh;
 	background: #fff
-	url('http://localhost/mini/upload/mini-metro-logo.png')
+	url('https://mini-metro.com/upload/mini-metro-logo.png')
 	 no-repeat center center;
 	 background-size: 200px 100px;	
 	z-index: 99999;

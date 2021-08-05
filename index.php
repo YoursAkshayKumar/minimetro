@@ -8,15 +8,12 @@
                     <div class="limoking-master-slider-item limoking-slider-item limoking-item" style="margin-bottom: 0px;">
                         <div id=P_MS5c9b6f396d4d0 class="master-slider-parent ms-parent-id-2">
                             <div id=MS5c9b6f396d4d0 class="master-slider ms-skin-default">
-                                <div class=ms-slide data-delay=7 data-fill-mode=fill> <img src=plugins/masterslider/public/assets/css/blank.gif alt title data-src=upload/mini-metro-logo.png>
-                                    <video data-autopause=false data-mute=true data-loop=true data-fill-mode=fill  style="margin-top: 0px;">
+                                <div class=ms-slide data-delay=7 data-fill-mode=fill>
+
+                                    <img src=plugins/masterslider/public/assets/css/blank.gif alt title data-src=upload/mini-metro-logo.png>
+                                    <video data-autopause=false data-mute=true data-loop=true data-fill-mode=fill style="margin-top: 0px;">
                                         <source src=upload/minimetrovideo.mp4 type=video/webm>
                                     </video>
-                                    <!-- <div class="ms-layer  msp-cn-1-1" style data-ease=easeOutQuint data-offset-x=0 data-offset-y=-143 data-origin=mc data-position=normal> Or anywhere you need us to take</div>
-                                        <div class="ms-layer  msp-cn-1-2" style data-ease=easeOutQuint data-offset-x=0 data-offset-y=-58 data-origin=mc data-position=normal> Not only taking to night parties, weddings, casinos, birthdays but
-                                            <br/>we also take you to anywhere you want to go.</div>
-                                        <div class="ms-layer  msp-cn-1-3" style data-ease=easeOutQuint data-offset-x=0 data-offset-y=24 data-origin=mc data-position=normal> Call Now (1)-212-333-4343</div><img class=ms-layer src=plugins/masterslider/public/assets/css/blank.gif data-src=upload/slider-divider.png alt style data-ease=easeOutQuint data-type=image data-offset-x=81 data-offset-y=92 data-origin=mc data-position=normal><img class=ms-layer src=plugins/masterslider/public/assets/css/blank.gif data-src=upload/slider-divider.png alt style data-ease=easeOutQuint data-type=image data-offset-x=-79 data-offset-y=92 data-origin=mc data-position=normal>
-                                        <div class="ms-layer  msp-cn-1-6" style data-ease=easeOutQuint data-offset-x=0 data-offset-y=95 data-origin=mc data-position=normal> OR</div><a href=service-rates.html target=_self class="ms-layer  msp-cn-2-7 ms-btn ms-btn-round ms-btn-n msp-preset-btn-159" data-ease=easeOutQuint data-type=button data-offset-x=0 data-offset-y=173 data-origin=mc data-position=normal> Book Online</a></div> -->
                                 </div>
                             </div>
 
@@ -128,13 +125,13 @@
                                         our product is manufactured by skilled professional and good quality material. With
                                         almost a one year warranty, we are here to sell you the best.</p> -->
 
-                                        <p style="color:#909090;">With an Objective to provide Quality Vehicles, Mini-Metro EV. 
-                                        LLP is committed to give ‘value for money’ products to our Customers. We are Proud to 
-                                        mention our modernized manufacturing unit with the latest & most advanced techniques 
+                                    <p style="color:#909090;">With an Objective to provide Quality Vehicles, Mini-Metro EV.
+                                        LLP is committed to give ‘value for money’ products to our Customers. We are Proud to
+                                        mention our modernized manufacturing unit with the latest & most advanced techniques
                                         & stylish products. We use the latest CAD-CAM design techniques for developing new models vehicles.</p>
-                                        <p style="color:#909090;">Our manufacturing plant is strategically located in the green 
-                                        zone area of Meerut (Uttar Pradesh), within a covered space of 50000 square feet, with 
-                                        state of art new technology, machineries & fixtures. Our present production capacity 
+                                    <p style="color:#909090;">Our manufacturing plant is strategically located in the green
+                                        zone area of Meerut (Uttar Pradesh), within a covered space of 50000 square feet, with
+                                        state of art new technology, machineries & fixtures. Our present production capacity
                                         is 50 Vehicles per day, which we intend to increase to meet upcoming growing market demand.</p>
 
                                 </div>
@@ -208,7 +205,7 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                         <div class=clear></div>
                     </div>
                 </div>
@@ -233,8 +230,7 @@
                             <br>
 
                             <!-- <div class=limoking-item-title-head-inner> -->
-                                <h3 class="limoking-item-title limoking-skin-title limoking-skin-border" 
-                                style="color: black; text-align: center; font-size: 26px; font-weight: bold; 
+                            <h3 class="limoking-item-title limoking-skin-title limoking-skin-border" style="color: black; text-align: center; font-size: 26px; font-weight: bold; 
                                 text-transform: uppercase; margin-bottom: 0px;">Our Products</h3>
                             <!-- </div> -->
                             <!-- <h3 class="limoking-item-title limoking-skin-title limoking-skin-border" style="color: black;">Our Products </h3> -->
@@ -302,7 +298,7 @@
                                             <img src="upload/RAJ8470.png" class="img-responsive" alt="" title="" />
                                         </a>
                                     </div> -->
-                    
+
 
                                 </div>
                             </div>
@@ -451,7 +447,7 @@
                             <div class="limoking-item-title-wrapper limoking-item  limoking-nav-container limoking-left limoking-small ">
                                 <div class="limoking-item-title-container container">
                                     <div class=limoking-item-title-head-inner>
-                                        <h3 class="limoking-item-title limoking-skin-title limoking-skin-border">Testimonial</h3><span class=limoking-nav-title><i class="icon-angle-left limoking-flex-prev"></i><i class="icon-angle-right limoking-flex-next"></i></span>
+                                        <h3 class="limoking-item-title limoking-skin-title limoking-skin-border">Testimonial</h3><span class=limoking-nav-title><i class="fas fa-arrow-left limoking-flex-prev"></i><i class="fas fa-arrow-right limoking-flex-next"></i></span>
                                     </div>
                                 </div>
                             </div>
@@ -468,7 +464,9 @@
                                                         <div class="testimonial-author-image limoking-skin-border">
                                                             <!-- <img src=upload/testimonial-s-11-150x150.jpg alt width=150 height=150> -->
                                                         </div>
-                                                        <div class=testimonial-info><span class="testimonial-author limoking-skin-link-color">Karan S<span>, </span></span><span class="testimonial-position limoking-skin-info">General Manager, Coca Co.</span></div>
+                                                        <div class=testimonial-info><span class="testimonial-author limoking-skin-link-color">Karan S<span>, </span></span>
+                                                           <span class="testimonial-position limoking-skin-info"></span>
+                                                        </div>
                                                         <div class=clear></div>
                                                     </div>
                                                 </div>
@@ -482,7 +480,8 @@
                                                         <div class="testimonial-author-image limoking-skin-border">
                                                             <!-- <img src=upload/testimonial-s-21-150x150.jpg alt width=150 height=150> -->
                                                         </div>
-                                                        <div class=testimonial-info><span class="testimonial-author limoking-skin-link-color">Harjass S<span>, </span></span><span class="testimonial-position limoking-skin-info">CEO, The Klise</span></div>
+                                                        <div class=testimonial-info><span class="testimonial-author limoking-skin-link-color">Harjass S<span> </span></span>
+                                                        <span class="testimonial-position limoking-skin-info"></span></div>
                                                         <div class=clear></div>
                                                     </div>
                                                 </div>
@@ -498,9 +497,9 @@
                                                         </div>
                                                         <div class=testimonial-info>
                                                             <span class="testimonial-author limoking-skin-link-color">Ankur k<span>, </span>
-                                                        </span>
-                                                        <!-- <span class="testimonial-position limoking-skin-info">CEO, The Klise</span> -->
-                                                    </div>
+                                                            </span>
+                                                            <span class="testimonial-position limoking-skin-info"></span>
+                                                        </div>
                                                         <div class=clear></div>
                                                     </div>
                                                 </div>

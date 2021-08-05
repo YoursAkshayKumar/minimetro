@@ -253,7 +253,7 @@
             wheel: false,
             autoplay: false,
             instantStartLayers: false,
-            mobileBGVideo: false,
+            mobileBGVideo: true,
             loop: true,
             shuffle: false,
             preload: 0,

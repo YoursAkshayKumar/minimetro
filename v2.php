@@ -332,9 +332,9 @@
                                 <div class="three columns">
                                     <div class="limoking-item limoking-portfolio-item limoking-classic-portfolio">
                                         <div class="limoking-ux limoking-classic-portfolio-ux">
-                                            <div class="portfolio-thumbnail limoking-image"><img src=upload/shutterstock_716302901-400x300.jpg alt width=400 height=300><span class=portfolio-overlay>&nbsp;</span><a class=portfolio-overlay-icon href=http://goodlayers.com/ target=_blank><span class=portfolio-icon><i class="fa fa-link"></i></span></a></div>
+                                            <div class="portfolio-thumbnail limoking-image"><img src=upload/shutterstock_716302901-400x300.jpg alt width=400 height=300><span class=portfolio-overlay>&nbsp;</span><a class=portfolio-overlay-icon href=# target=_blank><span class=portfolio-icon><i class="fa fa-link"></i></span></a></div>
                                             <div class=portfolio-classic-content>
-                                                <h3 class="portfolio-title"><a href=http://goodlayers.com/ target=_blank>Porta Egestas Ligula</a></h3>
+                                                <h3 class="portfolio-title"><a href=# target=_blank>Porta Egestas Ligula</a></h3>
                                                 <div class="limoking-portfolio-info limoking-info-font">
                                                     <div class="portfolio-info portfolio-tag"><span class="info-head limoking-title">Tags </span><a href=# rel=tag>Airport Transfer</a><span class=sep>,</span> <a href=# rel=tag>Taxi</a></div>
                                                     <div class=clear></div>

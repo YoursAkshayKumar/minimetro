@@ -46,6 +46,10 @@ html body{ min-width: 300px; }
 	body .body-wrapper.limoking-boxed-style { max-width: 460px; }
 	body .body-wrapper{ overflow: hidden; }
 	
+	.limoking-item-title-wrapper.limoking-large .limoking-item-title {
+		font-size: 20px;
+	}
+
 	.one-ninth, .one-eighth, .one-seventh,.one-fifth,
 	.two-fifth, .three-fifth, .four-fifth,
 	.one, .two, .three, .four, .five, .six, .seven,
@@ -65,13 +69,13 @@ html body{ min-width: 300px; }
 	body .top-navigation-left{ float: none; text-align: center; padding: 3px 0px;}
 	body .top-navigation-right { float: none; text-align: center; padding: 3px 0px;}
 	body .limoking-logo { padding-right: 60px; float: none; }
-	body .limoking-logo-inner { margin-left: 0px; }
+	body .limoking-logo-inner { margin-left: 50px !important; }
 	body .limoking-logo-container { padding-top: 1px; }
 	
 	#limoking-responsive-navigation { display: block; height: 0px; position: static; float: none; }
-	#limoking-responsive-navigation .dl-trigger{ position: absolute; right: 15px; top: 25px; margin-top: 0px; }
+	#limoking-responsive-navigation .dl-trigger{ position: absolute; right: -30px; top: 120px; margin-top: 0px; }
 	.dl-menuwrapper > .dl-menu, 
-	.dl-menuwrapper > .dl-submenu{ margin: 20px 0px 0px; width: 390px; text-align: left; }
+	.dl-menuwrapper > .dl-submenu{ margin: 85px 43px 0px; width: 390px; text-align: left; }
 
 	.limoking-navigation-wrapper{ display: none; }
 	
@@ -80,7 +84,7 @@ html body{ min-width: 300px; }
 	.header-style-2-wrapper .limoking-logo-right-text,
 	.header-style-3-wrapper .limoking-logo-right-text,
 	.header-style-5-wrapper .limoking-logo-right-text { float: none; position: static; text-align: center; 
-		margin-top: 0px; top: auto; padding-bottom: 30px; padding-top: 10px; margin-right: 0px; }
+		margin-top: 0px; top: auto; padding-bottom: 5px; padding-top: 10px; margin-right: 0px; }
 	
 	/*--- page item ---*/
 	.limoking-item-title-head .limoking-nav-title{ display: none; }
