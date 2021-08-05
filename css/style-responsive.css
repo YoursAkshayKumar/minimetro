@@ -73,7 +73,7 @@ html body{ min-width: 300px; }
 	body .limoking-logo-container { padding-top: 1px; }
 	
 	#limoking-responsive-navigation { display: block; height: 0px; position: static; float: none; }
-	#limoking-responsive-navigation .dl-trigger{ position: absolute; right: -30px; top: 120px; margin-top: 0px; }
+	#limoking-responsive-navigation .dl-trigger{ position: absolute; right: -22px; top: 120px; margin-top: 0px; }
 	.dl-menuwrapper > .dl-menu, 
 	.dl-menuwrapper > .dl-submenu{ margin: 85px 43px 0px; width: 390px; text-align: left; }
 
