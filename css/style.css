@@ -1631,8 +1631,8 @@ only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device
 
 /*--- Font Awesome ---*/
 .icon-angle-left, .icon-angle-right, .icon-minus, .icon-plus{ line-height: 1; }
-.icon-angle-left:before { content: "\f104"; font-family: fontAwesome; font-style: normal; }
-.icon-angle-right:before { content: "\f105"; font-family: fontAwesome; font-style: normal; }
+.icon-angle-left:before { content: "\f060"; font-family: fontAwesome; font-style: normal; }
+.icon-angle-right:before { content: "\f061"; font-family: fontAwesome; font-style: normal; }
 .icon-minus:before{ content: "\f068"; font-family: fontAwesome; font-style: normal; }
 .icon-plus:before{ content: "\f067"; font-family: fontAwesome; font-style: normal; }
 

@@ -904,7 +904,7 @@ ul.dropdown-menu{ display: none;}
 #home_banner_slider {height: auto;}
 .culture_slide .slick-slide {transform: initial; text-align:center;}
 
-.culture_slide .slick-slide img {display: initial; opacity:1;}
+.culture_slide .slick-slide img {display: initial; margin-bottom: 10px !important; opacity:1;}
 .cat_prev {left: 0px;}
 .cat_next {right: 0px;}
 

@@ -217,7 +217,7 @@
 
 
 
-            <div class="scene_transition animated fadeInRightBig">
+            <div class="scene_transition animated fadeInRightBig" style="margin-bottom: 5px !important;">
                 <div class="inside_content_wrapper">
 
 

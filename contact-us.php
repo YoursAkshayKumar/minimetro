@@ -113,7 +113,7 @@ if(!empty($_POST["send"])) {
                                 <h3 class="limoking-widget-title">Contact Information</h3>
                                 <div class=clear></div>
                                 <div class=textwidget>
-                                    <p>164, Mohkampur Industrial Area. Delhi Road, Meerut-250002</p>
+                                    <p>164, Mohkampur Mini Metro EV LLP, Khasra No. 636/4, Village Dimoli, Mohiuddinpur, Meerut</p>
                                     <p><i class="limoking-icon fas fa-phone-alt" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> +91-7617787857</p>
                                     <p><i class="limoking-icon fa fa-envelope" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> info@minimetro.com</p>
                                     <p><i class="limoking-icon fa fa-clock-o" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> Everyday 9:00-17:00</p>

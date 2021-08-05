@@ -14,8 +14,8 @@
             <div id=text-9 class="widget widget_text limoking-item limoking-widget">
                 <h3 class="limoking-widget-title">Contact Info</h3>
                 <div class=clear></div>
-                <div class=textwidget><p style="color:#000;">Address: Mini Metro EV LLP
-                    Khasra No. 636/4 Village Dimoli Mohiuddinpur Meerut</p><span class=clear></span>
+                <div class=textwidget><p style="color:#000;">Address: Mini Metro EV LLP,
+                    Khasra No. 636/4, Village Dimoli, Mohiuddinpur, Meerut</p><span class=clear></span>
                     <span class=limoking-space style="margin-top: 10px; display: block;"></span>
                     <p style="color:#000;"><i class="limoking-icon fas fa-phone-alt" style="vertical-align: middle; color: #000; font-size: 16px; "></i> 
                     1800-270-4195</p>
@@ -203,7 +203,7 @@
             wheel: false,
             autoplay: false,
             instantStartLayers: false,
-            mobileBGVideo: false,
+            mobileBGVideo: true,
             loop: true,
             shuffle: false,
             preload: 0,
