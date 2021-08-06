@@ -73,7 +73,7 @@
     </div>
     <div class=copyright-wrapper>
         <div class="copyright-container container">
-            <div class=copyright-left> Copyright 2019 Mini Metro, All Right Reserved</div>
+            <div class=copyright-left> Copyright 2019 Mini Metro, All Right Reserved. Design and Developed by <a href="https://revopions.com">Revopions Technologies</a></div>
             <div class=copyright-right>
                  <a href="http://facebook.com/">
             <i class="limoking-icon fab fa-facebook-f" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i>
@@ -294,6 +294,45 @@
 			preloader.style.display = 'none';
 		};
 	</script>
+
+
+<script>
+    var url = 'https://wati-integration-service.clare.ai/ShopifyWidget/shopifyWidget.js?94961';
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = url;
+    var options = {
+  "enabled":true,
+  "chatButtonSetting":{
+      "backgroundColor":"#dd011e",
+      "ctaText":"Message Us",
+      "borderRadius":"25",
+      "marginLeft":"0",
+      "marginBottom":"50",
+      "marginRight":"50",
+      "position":"right"
+  },
+  "brandSetting":{
+      "brandName":"MINI-METRO",
+      "brandSubTitle":"Typically replies within a day",
+      "brandImg":"httpS://mini-metro.com/upload/mini-metro-logo.png",
+      "welcomeText":"Hi there!\nHow can I help you?",
+      "messageText":"Hello, I have a question about {{page_link}}",
+      "backgroundColor":"#0e4cdd",
+      "ctaText":"Start Chat",
+      "borderRadius":"25",
+      "autoShow":false,
+      "phoneNumber":"918410008828"
+  }
+};
+    s.onload = function() {
+        CreateWhatsappChatWidget(options);
+    };
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+</script>
+
 
 
 </body>

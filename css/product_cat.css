@@ -904,7 +904,13 @@ ul.dropdown-menu{ display: none;}
 #home_banner_slider {height: auto;}
 .culture_slide .slick-slide {transform: initial; text-align:center;}
 
-.culture_slide .slick-slide img {display: initial; margin-bottom: 10px !important; opacity:1;}
+.culture_slide .slick-slide img {
+	display: initial;
+    margin-bottom: 10px !important;
+	opacity:1;
+	max-width: 120% !important;
+	margin-left: -38px !important;
+}
 .cat_prev {left: 0px;}
 .cat_next {right: 0px;}
 
@@ -944,6 +950,14 @@ ul.dropdown-menu{ display: none;}
 .only-mobile{ height:300px; background:#777;}
 .only-mobile img{ height:100%;}
 .bannerInfo{left:15%; top:15px;}
+
+.culture_slide .slick-slide img {
+	display: initial;
+    margin-bottom: 10px !important;
+	opacity:1;
+	max-width: 115% !important;
+	margin-left: -36px !important;
+}
 
 .width470{width:315px;}
 .width435{width:192px;}

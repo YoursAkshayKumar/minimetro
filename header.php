@@ -87,13 +87,13 @@
                     </div>
                     <div class=limoking-logo-right-text>
                         <!-- <img src=upload/phone-icon.png alt style="vertical-align: middle;"> -->
-                        <b><i class="fas fa-phone-alt" style="vertical-align: middle;"></i></b>
-                         <span style="color: #000000; margin-left: 11px; font-size: 15px; line-height: 1.1;"><b>+91-9837170066</b></span>
+                        <b><i class="fas fa-phone-alt" style="vertical-align: middle;"></i>
+                         <span style="color: #000000; margin-left: 2px; font-size: 15px; line-height: 1.1;">1800-270-4195</span></b>
                         <span class=clear></span>
                         <span class=limoking-space style="margin-top: 12px; display: block;"></span>
                         <!-- <img src=upload/envelope-icon.png alt style="vertical-align: middle;"> -->
-                        <b><i class="fas fa-envelope-open" style="vertical-align: middle;"></i></b>
-                        <span style="color: #000000; margin-left: 11px; font-size: 15px; line-height: 1.1;"><b>info@minimetro.com</b></span>
+                        <b><i class="fas fa-envelope-open" style="vertical-align: middle;"></i>
+                        <span style="color: #000000; margin-left: 2px; font-size: 15px; line-height: 1.1;">info@minimetro.com</span></b>
                     </div>
                     <div class=clear></div>
                 </div>
