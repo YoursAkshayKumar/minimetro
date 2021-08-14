@@ -12,7 +12,7 @@
 
                                     <img src=plugins/masterslider/public/assets/css/blank.gif alt title data-src=upload/mini-metro-logo.png>
                                     <video data-autopause=false data-mute=true data-loop=true data-fill-mode=fill style="margin-top: 0px;">
-                                        <source src=upload/minimetrovideo.mp4 type=video/webm>
+                                        <source src=upload/minimetro-last.mp4 type=video/mp4>
                                     </video>
                                 </div>
                             </div>

@@ -259,8 +259,11 @@ img.limoking-full-boxed-background{ min-height: 100%; min-width: 1024px;
 .limoking-full-size-wrapper .limoking-item-title-head { margin-left: 15px; margin-right: 15px; position: relative; }
 
 .header-style-2-wrapper .limoking-logo-container{ padding-top: 1px; padding-bottom: 1px; }
-.header-style-2-wrapper .limoking-logo{ float: none; }
-.header-style-2-wrapper .limoking-logo-inner{ margin: 0px auto; }
+.header-style-2-wrapper .limoking-logo{ float: left; }
+.topbar{
+	margin-top: -30px;
+}
+.header-style-2-wrapper .limoking-logo-inner{ margin: -16px auto;  margin-top: -19px;}
 .header-style-2-wrapper .limoking-logo-right-text { position: absolute; right: 0px; top: 0px; font-size: 13px; text-align: right; margin-right: 15px; }
 .header-inner-header-style-2.limoking-header-inner{ position: absolute; left: 0px; right: 0px; z-index: 99; }
 .header-inner-header-style-2  .limoking-navigation { display: inline-block; line-height: 1.7; text-align: left; padding-right: 23px; }

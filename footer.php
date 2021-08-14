@@ -241,7 +241,7 @@
         // slider setup
         masterslider_d1da2.setup("MS5c9b6f396d4d0", {
             width: 1140,
-            height: 660,
+            height: 550,
             minHeight: 0,
             space: 0,
             start: 1,

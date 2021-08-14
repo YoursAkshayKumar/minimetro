@@ -102,7 +102,43 @@
             <div class="limoking-header-inner header-inner-header-style-2">
                 <div class="limoking-header-container container">
                     <div class=limoking-header-inner-overlay></div>
+                    <div class="limoking-logo-container container">
+                  
                     <div class=limoking-navigation-wrapper>
+                    <div class=limoking-logo>
+                        <div class=limoking-logo-inner>
+                            <a href=index.php> <img src=upload/mini-metro-logo.png alt="Mini Metro"> </a>
+                        </div>
+                        <div class="limoking-responsive-navigation dl-menuwrapper" id=limoking-responsive-navigation>
+                            <button class=dl-trigger>Open Menu</button>
+                            <ul id=menu-main-menu class="dl-menu limoking-main-mobile-menu">
+                                <li class="menu-item  current-menu-item "><a href=index.php aria-current=page>Home</a></li>
+
+
+                                <li class="menu-item menu-item limoking-normal-menu"><a href=about-us.php>About Us</a></li>
+
+                                <li class="menu-item menu-item limoking-normal-menu"><a href=products.php>Products</a></li>
+
+                                <li class="menu-item menu-item limoking-normal-menu"><a href=contact-us.php>Contact Us</a></li>
+
+
+
+                            </ul>
+                        </div>
+                    </div>
+
+                       
+                        <div class=limoking-logo-right-text>
+                            
+                        <!-- <img src=upload/phone-icon.png alt style="vertical-align: middle;"> -->
+                        <p class="topbar"><b><i class="fas fa-phone-alt" style="vertical-align: middle;"></i>
+                         <span style="color: #000000; margin-left: 2px; font-size: 15px; line-height: 1.1;">1800-270-4195</span></b>
+                    
+                        
+                        <!-- <img src=upload/envelope-icon.png alt style="vertical-align: middle;"> -->
+                        <b><i class="fas fa-envelope-open" style="vertical-align: middle;"></i>
+                        <span style="color: #000000; margin-left: 2px; font-size: 15px; line-height: 1.1;">info@minimetro.com</span></b></p>
+                        <span class=clear></span>
                         <nav class=limoking-navigation id=limoking-main-navigation>
                             <ul id=menu-main-menu-1 class="sf-menu limoking-main-menu">
                                 <li class="menu-item  current-menu-item  limoking-normal-menu"><a href=index.php>Home</a></li>
@@ -129,8 +165,10 @@
                             </div>
                         </nav>
                         <div class=limoking-navigation-gimmick id=limoking-navigation-gimmick></div>
-                        <div class=clear></div>
                     </div>
+                        
+                    </div>
+                   
                     <div class=clear></div>
                 </div>
             </div>
