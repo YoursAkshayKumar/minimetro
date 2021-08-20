@@ -45,6 +45,7 @@
 
     <link rel="stylesheet" href="css/product_cat.css" />
     <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script src="//code-eu1.jivosite.com/widget/nj29srueOA" async></script>
 
 
     <style>
