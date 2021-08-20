@@ -310,7 +310,7 @@
 </script>
 
 
-<script>
+<!-- <script>
     var url = 'https://wati-integration-service.clare.ai/ShopifyWidget/shopifyWidget.js?94961';
     var s = document.createElement('script');
     s.type = 'text/javascript';
@@ -345,7 +345,7 @@
     };
     var x = document.getElementsByTagName('script')[0];
     x.parentNode.insertBefore(s, x);
-</script>
+</script> -->
 
 
 
