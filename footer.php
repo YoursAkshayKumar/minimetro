@@ -14,17 +14,19 @@
             <div id=text-9 class="widget widget_text limoking-item limoking-widget">
                 <h3 class="limoking-widget-title">Contact Info</h3>
                 <div class=clear></div>
-                <div class=textwidget><p style="color:#000;">Address: Mini Metro EV LLP,
-                    Khasra No. 636/4, Village Dimoli, Mohiuddinpur, Meerut</p><span class=clear></span>
+                <div class=textwidget>
+                    <p style="color:#000;">Address: Mini Metro EV LLP,
+                        Khasra No. 636/4, Village Dimoli, Mohiuddinpur, Meerut</p><span class=clear></span>
                     <span class=limoking-space style="margin-top: 10px; display: block;"></span>
-                    <p style="color:#000;"><i class="limoking-icon fas fa-phone-alt" style="vertical-align: middle; color: #000; font-size: 16px; "></i> 
-                    1800-270-4195</p>
+                    <p style="color:#000;"><a style="color:black;" href="tel:18002704195"><i class="limoking-icon fas fa-phone-alt" style="vertical-align: middle; color: #000; font-size: 16px; "></i>
+                            1800-270-4195</a></p>
                     <span class=clear></span><span class=limoking-space style="margin-top: 10px; display: block;"></span>
-                    <p style="color:#000;">  <i class="limoking-icon fa fa-mobile" style="vertical-align: middle; color: #000; font-size: 20px; "></i> 
-                    +91-7617787857</p><span class=clear></span>
+                    <p style="color:#000;"><a style="color:black;" href="tel:+917617787857"><i class="limoking-icon fa fa-mobile" style="vertical-align: middle; color: #000; font-size: 20px; "></i>
+                            +91-7617787857</a></p><span class=clear></span>
                     <span class=limoking-space style="margin-top: 10px; display: block;"></span>
-                    <p style="color:#000;"><i class="limoking-icon fas fa-envelope-open" style="vertical-align: middle; color: #000; font-size: 16px; "></i>
-                    info@minimetro.com</p></div>
+                    <p style="color:#000;"><a style="color:black;" href="mailto:info@minimetro.com"><i class="limoking-icon fas fa-envelope-open" style="vertical-align: middle; color: #000; font-size: 16px; "></i>
+                            info@minimetro.com</a></p>
+                </div>
             </div>
         </div>
         <div class="footer-column four columns" id=footer-widget-3>
@@ -38,8 +40,27 @@
                     <li> <a href=#>Donec luctus imperdiet</a></li>
                 </ul> -->
                 <!-- <iframe style="width:100%; height:480px; border:0" src="https://maps.google.com/maps?q=164,%20Mohkampur%20Industrial%20Area.%20Delhi%20Road-%20Meerut&t=&z=13&ie=UTF8&iwloc=&output=embed" width="300" height="100" ></iframe> -->
-                    <div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="200" id="gmap_canvas" src="https://maps.google.com/maps?q=28.900301,77.5884483&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org"></a><br><style>.mapouter{position:relative;text-align:right;height:200px;width:300px;}</style><a href="https://www.embedgooglemap.net">embed a google map in html</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:200px;width:300px;}</style></div></div>
-                        
+                <div class="mapouter">
+                    <div class="gmap_canvas"><iframe width="300" height="200" id="gmap_canvas" src="https://maps.google.com/maps?q=28.900301,77.5884483&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org"></a><br>
+                        <style>
+                            .mapouter {
+                                position: relative;
+                                text-align: right;
+                                height: 200px;
+                                width: 300px;
+                            }
+                        </style><a href="https://www.embedgooglemap.net">embed a google map in html</a>
+                        <style>
+                            .gmap_canvas {
+                                overflow: hidden;
+                                background: none !important;
+                                height: 200px;
+                                width: 300px;
+                            }
+                        </style>
+                    </div>
+                </div>
+
             </div>
         </div>
         <!-- <div class="footer-column four columns" id=footer-widget-4>
@@ -75,27 +96,20 @@
         <div class="copyright-container container">
             <div class=copyright-left> Copyright 2019 Mini Metro, All Right Reserved. Design and Developed by <a href="https://revopions.com">Revopions Technologies</a></div>
             <div class=copyright-right>
-                 <a href="http://facebook.com/">
-            <i class="limoking-icon fab fa-facebook-f" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i>
-        </a> 
-        
-        <a href=http://twitter.com/goodlayers>
-        <i class="limoking-icon fab fa-twitter" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i>
-    </a> 
-    <!-- <a href=#>
-    
-    <i class="limoking-icon fa fa-dribbble" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i>
-</a>
- <a href=#>
-     <i class="limoking-icon fa fa-pinterest" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i>
-</a>
- <a href=#>
-     <i class="limoking-icon fa fa-google-plus" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i>
-</a> -->
+                <a href="http://facebook.com/">
+                    <i class="limoking-icon fab fa-facebook-f" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i>
+                </a>
 
-<a href=#>
-    <i class="limoking-icon fab fa-instagram" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i>
-</a></div>
+                <a href=http://twitter.com/goodlayers>
+                    <i class="limoking-icon fab fa-twitter" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i>
+                </a>
+
+
+                <a href=#>
+                    <i class="limoking-icon fab fa-instagram" style="vertical-align: middle;color: #bbbbbb;font-size: 20px"></i>
+                </a>
+
+            </div>
             <div class=clear></div>
         </div>
     </div>
@@ -190,8 +204,8 @@
         });
         // slider setup
         masterslider_d1da.setup("MS5c9b6f3967f07", {
-            width: 1140,
-            height: 700,
+            width: 1920,
+            height: 1080,
             minHeight: 0,
             space: 0,
             start: 1,
@@ -240,8 +254,8 @@
 
         // slider setup
         masterslider_d1da2.setup("MS5c9b6f396d4d0", {
-            width: 1140,
-            height: 550,
+            width: 1300,
+            height: 600,
             minHeight: 0,
             space: 0,
             start: 1,
@@ -282,18 +296,18 @@
 </script>
 
 <script>
-		// $(document).ready(function(){
-			// 	$('div#loading').removeAttr('id');
-		// });
-		var preloader = document.getElementById("loading");
-		// window.addEventListener('load', function(){
-		// 	preloader.style.display = 'none';
-		// 	})
+    // $(document).ready(function(){
+    // 	$('div#loading').removeAttr('id');
+    // });
+    var preloader = document.getElementById("loading");
+    // window.addEventListener('load', function(){
+    // 	preloader.style.display = 'none';
+    // 	})
 
-		function myFunction(){
-			preloader.style.display = 'none';
-		};
-	</script>
+    function myFunction() {
+        preloader.style.display = 'none';
+    };
+</script>
 
 
 <script>
@@ -303,29 +317,29 @@
     s.async = true;
     s.src = url;
     var options = {
-  "enabled":true,
-  "chatButtonSetting":{
-      "backgroundColor":"#dd011e",
-      "ctaText":"Message Us",
-      "borderRadius":"25",
-      "marginLeft":"0",
-      "marginBottom":"50",
-      "marginRight":"50",
-      "position":"right"
-  },
-  "brandSetting":{
-      "brandName":"MINI-METRO",
-      "brandSubTitle":"Typically replies within a day",
-      "brandImg":"httpS://mini-metro.com/upload/mini-metro-logo.png",
-      "welcomeText":"Hi there!\nHow can I help you?",
-      "messageText":"Hello, I have a question about {{page_link}}",
-      "backgroundColor":"#0e4cdd",
-      "ctaText":"Start Chat",
-      "borderRadius":"25",
-      "autoShow":false,
-      "phoneNumber":"918410008828"
-  }
-};
+        "enabled": true,
+        "chatButtonSetting": {
+            "backgroundColor": "#dd011e",
+            "ctaText": "Message Us",
+            "borderRadius": "25",
+            "marginLeft": "0",
+            "marginBottom": "50",
+            "marginRight": "50",
+            "position": "right"
+        },
+        "brandSetting": {
+            "brandName": "MINI-METRO",
+            "brandSubTitle": "Typically replies within a day",
+            "brandImg": "httpS://mini-metro.com/upload/mini-metro-logo.png",
+            "welcomeText": "Hi there!\nHow can I help you?",
+            "messageText": "Hello, I have a question about {{page_link}}",
+            "backgroundColor": "#0e4cdd",
+            "ctaText": "Start Chat",
+            "borderRadius": "25",
+            "autoShow": false,
+            "phoneNumber": "918410008828"
+        }
+    };
     s.onload = function() {
         CreateWhatsappChatWidget(options);
     };

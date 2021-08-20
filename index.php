@@ -145,11 +145,11 @@
             </section>
 
             <section id=content-section-7>
-                <div class="limoking-color-wrapper  gdlr-show-all no-skin" style="background-color: #ffffff; padding-top: 70px; padding-bottom: 20px; ">
+                <div class="limoking-color-wrapper  gdlr-show-all no-skin" style="background-color: #ffffff; padding-top: 0px;">
                     <div class=container>
                         <div class="six columns">
                             <div class="limoking-ux column-service-ux">
-                                <div class="limoking-item limoking-column-service-item limoking-medium" style="margin-bottom: 40px;">
+                                <div class="limoking-item limoking-column-service-item limoking-medium" style="margin-bottom: 10px;">
                                     <div class=column-service-image><img src=upload/cost_efficient.png alt width=41 height=46></div>
                                     <div class=column-service-content-wrapper>
                                         <h3 class="column-service-title">COST EFFICIENT</h3>
@@ -163,7 +163,7 @@
                         </div>
                         <div class="six columns">
                             <div class="limoking-ux column-service-ux">
-                                <div class="limoking-item limoking-column-service-item limoking-medium" style="margin-bottom: 40px;">
+                                <div class="limoking-item limoking-column-service-item limoking-medium" style="margin-bottom: 10px;">
                                     <div class=column-service-image><img src=upload/environment_friendly.png alt width=41 height=46></div>
                                     <div class=column-service-content-wrapper>
                                         <h3 class="column-service-title">ENVIRONMENT FRIENDLY</h3>
@@ -178,7 +178,7 @@
                         <div class=clear></div>
                         <div class="six columns">
                             <div class="limoking-ux column-service-ux">
-                                <div class="limoking-item limoking-column-service-item limoking-medium" style="margin-bottom: 40px;">
+                                <div class="limoking-item limoking-column-service-item limoking-medium" style="margin-bottom: 10px;">
                                     <div class=column-service-image><img src=upload/performance.png alt width=41 height=46></div>
                                     <div class=column-service-content-wrapper>
                                         <h3 class="column-service-title">PERFORMANCE</h3>
@@ -193,7 +193,7 @@
 
                         <div class="six columns">
                             <div class="limoking-ux column-service-ux">
-                                <div class="limoking-item limoking-column-service-item limoking-medium" style="margin-bottom: 40px;">
+                                <div class="limoking-item limoking-column-service-item limoking-medium" style="margin-bottom: 10px;">
                                     <div class=column-service-image><img src=upload/comfort-spoke-wheel.png alt width=41 height=46></div>
                                     <div class=column-service-content-wrapper>
                                         <h3 class="column-service-title">STRONG FRAME</h3>
@@ -225,9 +225,7 @@
                     <div class="inside_banner flex-height top_banner parallax_bottom relative" data-text="Products" id="Products">
                         <div class="cat_container">
                             <br>
-                            <br>
-                            <br>
-                            <br>
+                            
 
                             <!-- <div class=limoking-item-title-head-inner> -->
                             <h3 class="limoking-item-title limoking-skin-title limoking-skin-border" style="color: black; text-align: center; font-size: 26px; font-weight: bold; 
@@ -348,7 +346,7 @@
                                         we are conveying with the mentality of setting a new lead in a similar
                                         industry. We outline with criteria of having more space and prepared to confront
                                         criteria to smooth running for intense Indian Roads.</p>
-                                </div><a class="about-us-read-more limoking-button large" href=contact-us.php>Buy Now</a>
+                                </div><a class="about-us-read-more limoking-button large" href=contact-us.php>Contact Us For Dealership</a>
 
                             </div>
                             <div class=clear></div>
@@ -439,7 +437,7 @@
                             <iframe src="https://www.youtube.com/embed/GwvMcFmf6Sg" width=620 height=348></iframe>
                         </div>
                         <div class="limoking-item limoking-content-item">
-                            <p><strong><span style="color: blue;">Watch our fleet in this video</span></strong></p>
+                            <!-- <p><strong><span style="color: blue;">Watch our fleet in this video</span></strong></p> -->
                         </div>
                     </div>
                     <div class="six columns">

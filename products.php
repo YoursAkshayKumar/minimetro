@@ -1,5 +1,13 @@
 <?php include 'header.php'; ?>
 
+<div class="limoking-page-title-wrapper header-style-2-title-wrapper">
+    <div class=limoking-page-title-overlay></div>
+    <div class="limoking-page-title-container container">
+        <h1 class="limoking-page-title">Our Products</h1>
+        <!-- <span class=limoking-page-caption>Caption placed here</span> -->
+    </div>
+</div>
+
 
 <div class="scene_transition animated fadeInRightBig">
                 <div class="inside_content_wrapper">

@@ -1,5 +1,14 @@
 <?php include 'header.php'; ?>
 
+
+<div class="limoking-page-title-wrapper header-style-2-title-wrapper">
+    <div class=limoking-page-title-overlay></div>
+    <div class="limoking-page-title-container container">
+        <h1 class="limoking-page-title">Contact Us</h1>
+        <!-- <span class=limoking-page-caption>Caption placed here</span> -->
+    </div>
+</div>
+
 <div class=content-wrapper>
         <div class=limoking-content>
             <div class=above-sidebar-wrapper>
@@ -114,8 +123,9 @@ if(!empty($_POST["send"])) {
                                 <div class=clear></div>
                                 <div class=textwidget>
                                     <p>164, Mohkampur Mini Metro EV LLP, Khasra No. 636/4, Village Dimoli, Mohiuddinpur, Meerut</p>
-                                    <p><i class="limoking-icon fas fa-phone-alt" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> +91-7617787857</p>
-                                    <p><i class="limoking-icon fa fa-envelope" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> info@minimetro.com</p>
+                                    <p><a style="color:black;" href="tel:+917617787857"><i class="limoking-icon fas fa-phone-alt" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> +91-7617787857</p>
+                                    <p><a style="color:black;" href="tel:18002704195"><i class="limoking-icon fas fa-phone-alt" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> 1800-270-4195</p>
+                                    <p><a style="color:black;" href="mailto:info@minimetro.com"><i class="limoking-icon fa fa-envelope" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> info@minimetro.com</a></p>
                                     <p><i class="limoking-icon fa fa-clock-o" style="vertical-align: middle; color: #444444; font-size: 16px; "></i> Everyday 9:00-17:00</p>
                                 </div>
                             </div>
