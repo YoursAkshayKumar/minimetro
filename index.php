@@ -11,7 +11,7 @@
                                 <div class=ms-slide data-delay=7 data-fill-mode=fill>
 
                                     <img src=plugins/masterslider/public/assets/css/blank.gif alt title data-src=upload/mini-metro-logo.png>
-                                    <video data-autopause=false data-mute=true data-loop=true data-fill-mode=fill style="margin-top: 0px;">
+                                    <video data-autopause=false data-mute=false data-loop=true data-fill-mode=fill style="margin-top: 0px;">
                                         <source src=upload/minimetro-last.mp4 type=video/mp4>
                                     </video>
                                 </div>
