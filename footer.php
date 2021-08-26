@@ -204,8 +204,8 @@
         });
         // slider setup
         masterslider_d1da.setup("MS5c9b6f3967f07", {
-            width: 1920,
-            height: 1080,
+            width: 1300,
+            height: 600,
             minHeight: 0,
             space: 0,
             start: 1,
@@ -222,7 +222,7 @@
             shuffle: false,
             preload: 0,
             heightLimit: true,
-            autoHeight: false,
+            autoHeight: true,
             smoothHeight: true,
             endPause: false,
             overPause: true,
