@@ -11,9 +11,10 @@
                                 <div class=ms-slide data-delay=7 data-fill-mode=fill>
 
                                     <img src=plugins/masterslider/public/assets/css/blank.gif alt title data-src=upload/mini-metro-logo.png>
-                                    <video data-autopause=false data-mute=false data-loop=true data-fill-mode=fill style="margin-top: 0px;">
-                                        <source src=upload/mini-metro-video.mp4 type=video/mp4>
+                                    <video data-autopause=true data-mute=false data-loop=true data-fill-mode=fill>
+                                        <source src=mini-metro-video.mp4 type=video/mp4>
                                     </video>
+                                
                                 </div>
                             </div>
 
@@ -422,7 +423,7 @@
                     <div class=clear></div>
                 </section> -->
         <section id=content-section-10>
-            <div class="limoking-color-wrapper   " style="background-color: #ffffff; ">
+            <div class="limoking-color-wrapper" style="background-color: #ffffff; ">
                 <div class=container>
                     <div class="six columns">
                         <div class="limoking-item-title-wrapper limoking-item  limoking-left limoking-small ">
@@ -602,3 +603,4 @@
 <div class=clear></div>
 </div>
 <?php include 'footer.php'; ?>
+

@@ -7,6 +7,10 @@
 
 <head>
     <meta charset=UTF-8>
+    <meta http-equiv="cache-control" content="no-cache" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+
     <meta name=viewport content="initial-scale=1.0">
     <link rel=pingback href=xmlrpc.php>
     <link rel="apple-touch-icon" sizes="72x72" href="upload/mini_metro_icon.png" >
