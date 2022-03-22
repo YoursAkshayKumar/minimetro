@@ -1,10 +1,43 @@
+<!DOCTYPE html>
+<!--[if IE 7]><html class="ie ie7 ltie8 ltie9" lang=en-US><![endif]-->
+<!--[if IE 8]><html class="ie ie8 ltie9" lang=en-US><![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang=en-US>
+<!--<![endif]-->
+
+<head>
+    <meta charset=UTF-8>
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="-1" />
+
+    <meta name=viewport content="initial-scale=1.0">
+    <link rel=pingback href=xmlrpc.php>
+    <link rel="apple-touch-icon" sizes="72x72" href="upload/mini_metro_icon.png">
+
+
+
+    <title>E-Loader, E-Cart (Model: LD-400)-Mini Metro EV LLP</title>
+    <meta name="description" content="Mini Metro E-loader/E-cart Rickshaw (Model: LD-400) with an
+     available load capacity of 500kg, 750kg, 1000kg. Colors and customization are available. 
+     Call:- 7617787857">
+
+    <meta name="keywords" content="E Rickshaw Loader (Model: LD-400), E-Cart Rickshaw, 
+    Buy E-loader, Buy E-Cart loader, Buy E-garbage rickshaw">
+
+<?php include 'includes.php' ?>
+
+
+</head>
+
+    
 <?php include 'header.php'; ?>
 
 
 <div class="limoking-page-title-wrapper header-style-2-title-wrapper">
     <div class=limoking-page-title-overlay></div>
     <div class="limoking-page-title-container container">
-        <h1 class="limoking-page-title">LD 400</h1> <i class="fab fa-twitter"></i>
+        <h1 class="limoking-page-title"  style="color: black;">LD 400</h1> 
         <!-- <span class=limoking-page-caption>Caption placed here</span> -->
     </div>
 </div>
@@ -52,6 +85,7 @@
                                 </div>
                                 <div class=limoking-portfolio-content>
                                     <div class=limoking-portfolio-info>
+                                        <div style="padding-top: 75px;"></div>
                                         <h4 class="head">LD 400</h4>
 
                                         <div class=content>

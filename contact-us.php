@@ -1,3 +1,28 @@
+<!DOCTYPE html>
+<!--[if IE 7]><html class="ie ie7 ltie8 ltie9" lang=en-US><![endif]-->
+<!--[if IE 8]><html class="ie ie8 ltie9" lang=en-US><![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang=en-US>
+<!--<![endif]-->
+
+<head>
+    <meta charset=UTF-8>
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="-1" />
+
+    <meta name=viewport content="initial-scale=1.0">
+    <link rel=pingback href=xmlrpc.php>
+    <link rel="apple-touch-icon" sizes="72x72" href="upload/mini_metro_icon.png">
+
+
+    <title>Mini Metro &#8211; Electric Rickshaw Manufacturers</title>
+<?php include 'includes.php' ?>
+
+
+</head>
+
+    
 <?php include 'header.php'; ?>
 
 
@@ -132,7 +157,30 @@ if(!empty($_POST["send"])) {
                             <div id=text-8 class="widget widget_text limoking-item limoking-widget">
                                 <h3 class="limoking-widget-title">Social Media</h3>
                                 <div class=clear></div>
-                                <div class=textwidget><a href=http://facebook.com><i class="limoking-icon fa fa-facebook" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i></a> <a href=http://twitter.com><i class="limoking-icon fa fa-twitter" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i></a> <a href=#><i class="limoking-icon fa fa-dribbble" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i></a> <a href=#><i class="limoking-icon fa fa-pinterest" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i></a> <a href=#><i class="limoking-icon fa fa-google-plus" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i></a> <a href=#><i class="limoking-icon fa fa-instagram" style="vertical-align: middle; color: #444444; font-size: 28px; " ></i></a></div>
+                                <div class=textwidget>
+                                    <a href="mailto:info@mini-metro.com">
+                                        <img src="images/svg/Gmail.svg" style="width: 25px; height: 25px;">                           
+                                    </a>
+                                    <a href="https://www.facebook.com/minimetroev">
+                                        <img src="images/svg/Facebook-f.svg" style="width: 25px; height: 25px;">
+                                    </a>
+                                    <a href="https://twitter.com/minimetro_ev">
+                                        <img src="images/svg/Twitter.svg" style="width: 25px; height: 25px;">
+                                    </a>
+                                    <a href="https://www.instagram.com/minimetroev/">
+                                        <img src="images/svg/Instagram.svg" style="width: 25px; height: 25px;">
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/minimetroev/">
+                                        <img src="images/svg/LinkedIn.svg" style="width: 25px; height: 25px;">
+                                    </a>
+                                
+                                    <a href="https://www.youtube.com/channel/UCeRCIIK7AdP-OnFeDCk-Xgg">                            
+                                        <img src="images/svg/YouTube-Icon.svg" style="width: 25px; height: 25px;">
+                                    </a>
+                                    <a href="https://in.pinterest.com/minimetroev/_created/">                           
+                                        <img src="images/svg/Pinterest.svg" style="width: 25px; height: 25px;">
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>

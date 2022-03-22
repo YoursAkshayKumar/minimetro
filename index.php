@@ -1,26 +1,62 @@
+<!DOCTYPE html>
+<!--[if IE 7]><html class="ie ie7 ltie8 ltie9" lang=en-US><![endif]-->
+<!--[if IE 8]><html class="ie ie8 ltie9" lang=en-US><![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang=en-US>
+<!--<![endif]-->
+
+<head>
+    <meta charset=UTF-8>
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="-1" />
+
+    <meta name=viewport content="initial-scale=1.0">
+    <link rel=pingback href=xmlrpc.php>
+    <link rel="apple-touch-icon" sizes="72x72" href="upload/mini_metro_icon.png">
+
+
+    <title>Best E-Rickshaw manufacturer company in India-Mini Metro</title>
+    <meta name="description" content="Mini Metro EV LLP is India's leading E-Rickshaw manufacturer Company,
+     has the best E-rickshaw specially designed for Indian roads with the long run and more power.">
+
+    <meta name="keywords" content="e rickshaw manufacturer in India, e rickshaw manufacturers,
+      e rickshaw price, Mini Metro E Rickshaw,Mini Metro e rickshaw contact number,
+      Mini Metro e rickshaw Meerut Uttar Pradesh, electric vehicles e rickshaw, 
+      energy electric vehicles Mini Metro, erickshaw passenger,e loader, e-cart manufacturer in India ">
+
+    <?php include 'includes.php' ?>
+
+
+</head>
+
+
 <?php include 'header.php'; ?>
+
+
+
 <div class=content-wrapper>
     <div class=limoking-content>
         <div class=with-sidebar-wrapper>
 
             <section id=content-section-8>
-                <div class="limoking-full-size-wrapper gdlr-show-all no-skin" style="padding-bottom: 0px;  background-color: #ffffff; ">
+                <div class="limoking-full-size-wrapper gdlr-show-all no-skin" style="padding-bottom: 0px;  background-color: #ffffff; padding-top: 90px; ">
                     <div class="limoking-master-slider-item limoking-slider-item limoking-item" style="margin-bottom: 0px;">
                         <div id=P_MS5c9b6f396d4d0 class="master-slider-parent ms-parent-id-2">
                             <div id=MS5c9b6f396d4d0 class="master-slider ms-skin-default">
                                 <div class=ms-slide data-delay=7 data-fill-mode=fill>
 
                                     <img src=plugins/masterslider/public/assets/css/blank.gif alt title data-src=upload/mini-metro-logo.png>
-                                    <video data-autopause=true data-mute=false data-loop=true data-fill-mode=fill>
+                                    <video data-autopause=true data-mute=true data-loop=true data-fill-mode=fill>
                                         <source src=mini-metro-video.mp4 type=video/mp4>
                                     </video>
-                                
+
                                 </div>
                             </div>
 
                         </div>
                         <div class=clear>
-                            
+
                         </div>
                         <div class=clear></div>
                     </div>
@@ -128,11 +164,11 @@
                                         our product is manufactured by skilled professional and good quality material. With
                                         almost a one year warranty, we are here to sell you the best.</p> -->
 
-                                    <p style="color:#909090;">With an Objective to provide Quality Vehicles, Mini-Metro EV.
+                                    <p style="color:#000;">With an Objective to provide Quality Vehicles, Mini-Metro EV.
                                         LLP is committed to give ‘value for money’ products to our Customers. We are Proud to
                                         mention our modernized manufacturing unit with the latest & most advanced techniques
                                         & stylish products. We use the latest CAD-CAM design techniques for developing new models vehicles.</p>
-                                    <p style="color:#909090;">Our manufacturing plant is strategically located in the green
+                                    <p style="color:#000;">Our manufacturing plant is strategically located in the green
                                         zone area of Meerut (Uttar Pradesh), within a covered space of 50000 square feet, with
                                         state of art new technology, machineries & fixtures. Our present production capacity
                                         is 50 Vehicles per day, which we intend to increase to meet upcoming growing market demand.</p>
@@ -228,7 +264,7 @@
                     <div class="inside_banner flex-height top_banner parallax_bottom relative" data-text="Products" id="Products">
                         <div class="cat_container">
                             <br>
-                            
+
 
                             <!-- <div class=limoking-item-title-head-inner> -->
                             <h3 class="limoking-item-title limoking-skin-title limoking-skin-border" style="color: black; text-align: center; font-size: 26px; font-weight: bold; 
@@ -252,49 +288,49 @@
                                         </a>
                                     </div> -->
                                     <div class="slide">
-                                        <a href="ld-400.php">
+                                        <a href="ld-400">
                                             <span>LD-400</span>
                                             <img src="upload/ld-400.png" class="img-responsive" alt="" title="" />
                                         </a>
                                     </div>
                                     <div class="slide">
-                                        <a href="m1-ms.php">
+                                        <a href="m1-ms">
                                             <span>M1 MS</span>
                                             <img src="upload/m1ms.png" class="img-responsive" alt="" title="" />
                                         </a>
                                     </div>
                                     <div class="slide">
-                                        <a href="m1-ss.php">
+                                        <a href="m1-ss">
                                             <span>M1 SS</span>
                                             <img src="upload/m1ss.png" class="img-responsive" alt="" title="" />
                                         </a>
                                     </div>
                                     <div class="slide">
-                                        <a href="v2.php">
-                                            <span>V2 MS</span>
+                                        <a href="v2">
+                                            <span>V2</span>
                                             <img src="upload/v2ms.png" class="img-responsive" alt="" title="" />
                                         </a>
                                     </div>
                                     <div class="slide">
-                                        <a href="v2-gold.php">
-                                            <span>V2 SS</span>
+                                        <a href="v2-gold">
+                                            <span>V2 GOLD</span>
                                             <img src="upload/v2ss.png" class="img-responsive" alt="" title="" />
                                         </a>
                                     </div>
                                     <div class="slide">
-                                        <a href="v2-3d-ms.php">
-                                            <span>V2 SS</span>
+                                        <a href="v2-3d-ms">
+                                            <span>V2 3D MS</span>
                                             <img src="upload/v2-3d-ms.png" class="img-responsive" alt="" title="" />
                                         </a>
                                     </div>
                                     <div class="slide">
-                                        <a href="v2-3d-ss.php">
-                                            <span>V2 SS</span>
+                                        <a href="v2-3d-ss">
+                                            <span>V2 3D SS</span>
                                             <img src="upload/v2-3d-ss.png" class="img-responsive" alt="" title="" />
                                         </a>
                                     </div>
                                     <!-- <div class="slide">
-                                        <a href="v2-gold.php" target="_blank">
+                                        <a href="v2-gold" target="_blank">
                                             <span>V2 SS</span>
                                             <img src="upload/RAJ8470.png" class="img-responsive" alt="" title="" />
                                         </a>
@@ -303,62 +339,38 @@
 
                                 </div>
                             </div>
-
-
-
                         </div>
                     </div>
-
-
-
-
-
                 </div>
-
             </div>
-
-
-
-
-
-
-
         </div>
 
-
-
-
-
-
-
-
-
-        <section id=content-section-4>
-            <div class="limoking-parallax-wrapper limoking-background-image gdlr-show-all limoking-skin-darkblue" id=limoking-parallax-wrapper-2 data-bgspeed=0 style="background-image: url('upload/background.jpg'); padding-top: 95px; padding-bottom: 50px; ">
-                <div class=container>
+        <section id="content-section-4">
+            <div class="limoking-parallax-wrapper limoking-background-image gdlr-show-all limoking-skin-darkblue" id="limoking-parallax-wrapper-2" data-bgspeed="0" style="background-image: url('upload/banner-1-mini_back.jpg'); padding-top: 95px; padding-bottom: 50px; ">
+                <div class="container">
                     <div class="six columns">
                         <div class="limoking-item limoking-about-us-item limoking-with-divider">
-                            <div class=about-us-title-wrapper>
+                            <div class="about-us-title-wrapper">
                                 <h3 class="about-us-title">We promise, you will have the best experience</h3>
-                                <div class=about-us-title-divider></div>
+                                <div class="about-us-title-divider"></div>
                             </div>
-                            <div class=about-us-content-wrapper>
+                            <div class="about-us-content-wrapper">
                                 <div class="about-us-content limoking-skin-content">
-                                    <p>We are a very much noted Electric Rickshaw Manufacturers unit in India.
+                                    <p style="color:#ffffff;">We are a very much noted Electric Rickshaw Manufacturers unit in India.
                                         Driving with our center advancement and hello there tech aptitudes,
                                         we are conveying with the mentality of setting a new lead in a similar
                                         industry. We outline with criteria of having more space and prepared to confront
                                         criteria to smooth running for intense Indian Roads.</p>
-                                </div><a class="about-us-read-more limoking-button large" href=contact-us.php>Contact Us For Dealership</a>
+                                </div><a class="about-us-read-more limoking-button large" href="contact-us">Contact Us For Dealership</a>
 
                             </div>
-                            <div class=clear></div>
+                            <div class="clear"></div>
                         </div>
                     </div>
-                    <div class=clear></div>
+                    <div class="clear"></div>
                 </div>
             </div>
-            <div class=clear></div>
+            <div class="clear"></div>
         </section>
         <!-- <section id=content-section-5>
             <div class="limoking-color-wrapper  gdlr-show-all limoking-skin-dark-skin" style="background-color: #1f248a;  padding-top: 0px; padding-bottom: 0px; ">
@@ -466,7 +478,7 @@
                                                             <!-- <img src=upload/testimonial-s-11-150x150.jpg alt width=150 height=150> -->
                                                         </div>
                                                         <div class=testimonial-info><span class="testimonial-author limoking-skin-link-color">Karan S<span>, </span></span>
-                                                           <span class="testimonial-position limoking-skin-info"></span>
+                                                            <span class="testimonial-position limoking-skin-info"></span>
                                                         </div>
                                                         <div class=clear></div>
                                                     </div>
@@ -482,7 +494,8 @@
                                                             <!-- <img src=upload/testimonial-s-21-150x150.jpg alt width=150 height=150> -->
                                                         </div>
                                                         <div class=testimonial-info><span class="testimonial-author limoking-skin-link-color">Harjass S<span> </span></span>
-                                                        <span class="testimonial-position limoking-skin-info"></span></div>
+                                                            <span class="testimonial-position limoking-skin-info"></span>
+                                                        </div>
                                                         <div class=clear></div>
                                                     </div>
                                                 </div>
@@ -604,5 +617,138 @@
 </div>
 <div class=clear></div>
 </div>
-<?php include 'footer.php'; ?>
 
+<!-- <div id="modalDialog" class="modal">
+    <div class="modal-content animate-top">
+        <div class="modal-header">
+            <h5 class="modal-title">Contact Us</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">×</span>
+            </button>
+        </div>
+        <form method="post" id="contactFrm">
+        <div class="modal-body">
+   
+            <div class="response"></div>
+		
+            <div class="form-group">
+                <label>Name:</label>
+                <input type="text" name="name" id="name" class="form-control" placeholder="Enter your name" required="">
+            </div>
+            <div class="form-group">
+                <label>Email:</label>
+                <input type="email" name="email" id="email" class="form-control" placeholder="Enter your email" required="">
+            </div>
+            <div class="form-group">
+                <label>Message:</label>
+                <textarea name="message" id="message" class="form-control" placeholder="Your message here" rows="6"></textarea>
+            </div>
+        </div>
+        <div class="modal-footer">
+     
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+        </form>
+    </div>
+</div> -->
+
+
+<!-- Modal -->
+<div class="modal fade" id="test-drive" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+           
+
+            <div class="modal-body">
+                <button type="but" class="close" data-dismiss="modal"><span aria-hidden="true"> <i class="fas fa-times-circle"></i></span><span class="sr-only">Close</span></button>
+                <center>
+                    <a href="http://minimetroev.com/"><img src="upload/mini-metro-logo.png"></a>
+                    <h6 class="mb-5 mt-3 "><u>Get More Information Please Fill</u></h6>
+                </center>
+               
+                <form class="test-drive p5 container" action="https://formspree.io/f/xknpprpj" name="Customer-Information" method="POST" data-netlify="true">
+                    <div class="mb-3">
+                        <!-- <label for="name"> Your Name <span>*</span></label> -->
+                        <input type="text" class="form-control" placeholder="Your name" name="name" id="name" maxlength="30" required />
+                    </div>
+                    <div class="mb-3">
+                        <!-- <label for="email">Email Id</label> -->
+                        <input type="email" class="form-control" placeholder="Email id." name="email" id="email" />
+                    </div>
+                    <div class="mb-3 ">
+                        <!-- <label for="mobile-number">Mobile Number<span>*</span></label> -->
+                        <input type="number" class="form-control" name="mobile-number" id="mobile-number" placeholder="Mobile no" minlength="10" maxlength="14">
+                    </div>
+                    <div class="mb-3">
+                        <!-- <label for="model">Select a Model</label> -->
+                        <select name="model" id="model" class="btn-block p-2">
+                            <option value="select a state">Select a Model..</option>
+                            <option value="LD-400">LD-400</option>
+                            <option value="M1-MS">M1 MS</option>
+                            <option value="M1-SS">M1 SS</option>
+                            <option value="V2">V2</option>
+                            <option value="V2-Gold">V2 Gold</option>
+                            <option value="V2-3D-MS">V2 3D MS</option>
+                            <option value="V2-3D-MS">V2 3D SS</option>
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <!-- <label for="state">Select State</label> -->
+                        <select name="state" id="state" class="btn-block p-2">
+                            <option value="select a state">Select A State..</option>
+                            <option value="Andhra Pradesh">Andhra Pradesh</option>
+                            <option value="Andaman and Nicobar Islands">
+                                Andaman and Nicobar Islands
+                            </option>
+                            <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+                            <option value="Assam">Assam</option>
+                            <option value="Bihar">Bihar</option>
+                            <option value="Chandigarh">Chandigarh</option>
+                            <option value="Chhattisgarh">Chhattisgarh</option>
+                            <option value="Dadar and Nagar Haveli">
+                                Dadar and Nagar Haveli
+                            </option>
+                            <option value="Daman and Diu">Daman and Diu</option>
+                            <option value="Delhi">Delhi</option>
+                            <option value="Lakshadweep">Lakshadweep</option>
+                            <option value="Puducherry">Puducherry</option>
+                            <option value="Goa">Goa</option>
+                            <option value="Gujarat">Gujarat</option>
+                            <option value="Haryana">Haryana</option>
+                            <option value="Himachal Pradesh">Himachal Pradesh</option>
+                            <option value="Jammu and Kashmir">Jammu and Kashmir</option>
+                            <option value="Jharkhand">Jharkhand</option>
+                            <option value="Karnataka">Karnataka</option>
+                            <option value="Kerala">Kerala</option>
+                            <option value="Madhya Pradesh">Madhya Pradesh</option>
+                            <option value="Maharashtra">Maharashtra</option>
+                            <option value="Manipur">Manipur</option>
+                            <option value="Meghalaya">Meghalaya</option>
+                            <option value="Mizoram">Mizoram</option>
+                            <option value="Nagaland">Nagaland</option>
+                            <option value="Odisha">Odisha</option>
+                            <option value="Punjab">Punjab</option>
+                            <option value="Rajasthan">Rajasthan</option>
+                            <option value="Sikkim">Sikkim</option>
+                            <option value="Tamil Nadu">Tamil Nadu</option>
+                            <option value="Telangana">Telangana</option>
+                            <option value="Tripura">Tripura</option>
+                            <option value="Uttar Pradesh">Uttar Pradesh</option>
+                            <option value="Uttarakhand">Uttarakhand</option>
+                            <option value="West Bengal">West Bengal</option>
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <!-- <label for="city"> Your City / Place </label> -->
+                        <input type="city" class="form-control" placeholder="Your City" name="city" id="city" maxlength="30" required />
+                    </div>
+            </div>
+            <button type="submit" class="btn btn-primary btn-block p-2">Submit</button>
+        </div>
+        </form>
+    </div>
+
+</div>
+
+
+<?php include 'footer.php'; ?>

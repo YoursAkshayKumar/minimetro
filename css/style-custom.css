@@ -20,10 +20,10 @@ body {
   max-width: 205px;
 }
 .limoking-logo {
-  margin-top: 20px;
+  margin-top: -10px;
 }
 .limoking-logo {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .limoking-logo-right-text {
   margin-top: 42px;
@@ -93,7 +93,7 @@ h6 {
   font-size: 16px;
 }
 .limoking-navigation-wrapper .limoking-main-menu > li > a {
-  font-size: 13px;
+  font-size: 16px;
 }
 .top-navigation-wrapper {
   background-color: #171717;
@@ -126,14 +126,45 @@ h6 {
   background-color: #f0eeee;
   background-color: rgba(230, 228, 228, 0.75);
 }
-.limoking-main-menu > li:hover > a,
+/* .limoking-main-menu > li:hover > a,
 .limoking-main-menu > li.current-menu-item > a,
 .limoking-main-menu > li.current-menu-ancestor > a {
   color: #df0024;
   opacity: 1;
   filter: alpha(opacity=100);
+} */
+
+.limoking-main-menu > li:hover > a{
+  color: #df0024;
+  opacity: 1;
+  filter: alpha(opacity=100);
 }
+
+.limoking-main-menu > li:after > a{
+  color: #df0024;
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+
+.limoking-normal-menu > a{
+  color: #1e2186;
+}
+
+
+
+
+/* .limoking-main-menu > li:after > a,
+.limoking-main-menu > li.current-menu-item > a,
+.limoking-main-menu > li.current-menu-ancestor > a {
+  color: #df0024;
+  opacity: 1;
+  filter: alpha(opacity=100);
+} */
+
+
+
 #limoking-navigation-gimmick {
+  
   border-bottom-color: #df0024;
 }
 .limoking-top-woocommerce-inner,
@@ -800,10 +831,10 @@ textarea:-ms-input-placeholder {
   color: #bfbfbf;
 }
 .footer-wrapper a {
-  color: #7f7f7f;
+  color: #000;
 }
 .footer-wrapper a:hover {
-  color: #cecece;
+  color: #f50b0b;
 }
 .footer-wrapper * {
   border-color: #363636;

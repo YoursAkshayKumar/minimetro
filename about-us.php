@@ -1,3 +1,28 @@
+<!DOCTYPE html>
+<!--[if IE 7]><html class="ie ie7 ltie8 ltie9" lang=en-US><![endif]-->
+<!--[if IE 8]><html class="ie ie8 ltie9" lang=en-US><![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang=en-US>
+<!--<![endif]-->
+
+<head>
+    <meta charset=UTF-8>
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="-1" />
+
+    <meta name=viewport content="initial-scale=1.0">
+    <link rel=pingback href=xmlrpc.php>
+    <link rel="apple-touch-icon" sizes="72x72" href="upload/mini_metro_icon.png">
+
+
+    <title>Mini Metro &#8211; Electric Rickshaw Manufacturers</title>
+<?php include 'includes.php' ?>
+
+
+</head>
+
+    
 <?php include 'header.php'; ?>
 
 
