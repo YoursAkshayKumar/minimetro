@@ -56,6 +56,7 @@
                                 <li class="menu-item menu-item limoking-normal-menu"><a href="about-us">About Us</a></li>
                                 <li class="menu-item menu-item limoking-normal-menu"><a href="products">Products</a></li>
                                 <li class="menu-item menu-item limoking-normal-menu"><a href="contact-us">Contact Us</a></li>
+                                <li class="menu-item menu-item limoking-normal-menu"><a href="privacy-and-policy">Privacy-Policiy</a></li>
                             </ul>
                         </div>
                     </div>
@@ -83,6 +84,7 @@
                                     <li class="menu-item menu-item limoking-normal-menu"><a href="about-us">About Us</a></li>
                                     <li class="menu-item menu-item limoking-normal-menu"><a href="products">Products</a></li>
                                     <li class="menu-item menu-item limoking-normal-menu"><a href="contact-us">Contact Us</a></li>
+                                    <li class="menu-item menu-item limoking-normal-menu"><a href="privacy-and-policy">Privacy-Policiy</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -94,6 +96,7 @@
                                 <li class="menu-item menu-item limoking-normal-menu"><a href="about-us">About Us</a></li>
                                 <li class="menu-item menu-item limoking-normal-menu"><a href="products">Products</a></li>
                                 <li class="menu-item menu-item limoking-normal-menu"><a href="contact-us">Contact Us</a></li>
+                                <li class="menu-item menu-item limoking-normal-menu"><a href="privacy-and-policy">Privacy-Policiy</a></li>
                             </ul>
                             <!-- <img id=limoking-menu-search-button src=images/magnifier-light.png alt width=58 height=59> -->
                             <div class="limoking-menu-search" id="limoking-menu-search">

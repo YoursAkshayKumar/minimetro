@@ -893,7 +893,7 @@ img.limoking-full-boxed-background {
   z-index: 99;
 }
 .header-inner-header-style-2 .limoking-navigation {
-  display: inline-block;
+  display: block;
   line-height: 1.7;
   text-align: right;
   /* padding-right: 400px; */
